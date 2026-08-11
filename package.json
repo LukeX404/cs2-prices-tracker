@@ -19,7 +19,7 @@
     "@types/js-sha1": "^0.6.3",
     "colors": "^1.4.0",
     "fs": "^0.0.1-security",
-    "steamcommunity": "^3.48.6"
+    "steamcommunity": "^3.49.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
