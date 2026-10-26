@@ -206730,12 +206730,36 @@
     "★ Karambit | Autotronic (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1020.2565,
-            "last_30d": 986.0345714285713,
-            "last_90d": 976.9266499999998
+            "last_7d": 704.38,
+            "last_30d": 819.6264285714286,
+            "last_90d": 898.9213999999998
         }
     },
     "★ Karambit | Autotronic (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 1800,
+            "last_90d": 1800
+        }
+    },
+    "★ Karambit | Autotronic (Field-Tested)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 895.91875,
+            "last_30d": 1042.0128,
+            "last_90d": 1169.4890999999998
+        }
+    },
+    "★ Karambit | Autotronic (Minimal Wear)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 1278.9557499999999
+        }
+    },
+    "★ Karambit | Autotronic (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
@@ -206743,68 +206767,44 @@
             "last_90d": null
         }
     },
-    "★ Karambit | Autotronic (Field-Tested)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 1213.0433333333333,
-            "last_30d": 1193.7109166666667,
-            "last_90d": 1235.7327674418605
-        }
-    },
-    "★ Karambit | Autotronic (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1591.7325,
-            "last_90d": 1566.4990769230767
-        }
-    },
-    "★ Karambit | Autotronic (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1015.02,
-            "last_90d": 1057.604
-        }
-    },
     "★ Karambit | Black Laminate (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 840.035,
-            "last_30d": 800.1856666666666,
-            "last_90d": 826.2867368421051
+            "last_7d": 703.012,
+            "last_30d": 708.00225,
+            "last_90d": 814.6710714285715
         }
     },
     "★ Karambit | Black Laminate (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 1351.419
+            "last_30d": 1150,
+            "last_90d": 1150
         }
     },
     "★ Karambit | Black Laminate (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 917.58,
-            "last_30d": 916.6540000000001,
-            "last_90d": 931.8709444444444
+            "last_7d": 783.1500000000001,
+            "last_30d": 803.5456666666666,
+            "last_90d": 867.342388888889
         }
     },
     "★ Karambit | Black Laminate (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 970.095,
-            "last_90d": 1052.6634
+            "last_24h": 770.141,
+            "last_7d": 770.141,
+            "last_30d": 876.2883999999998,
+            "last_90d": 975.5785
         }
     },
     "★ Karambit | Black Laminate (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 857.55,
-            "last_30d": 838.5774999999999,
-            "last_90d": 902.2810476190475
+            "last_7d": 710.421,
+            "last_30d": 710.421,
+            "last_90d": 807.0648888888888
         }
     },
     "★ Karambit | Blue Steel (Battle-Scarred)": {
@@ -206931,8 +206931,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 822.959,
-            "last_90d": 901.4095555555555
+            "last_30d": 731.4326666666666,
+            "last_90d": 938.8127692307692
         }
     },
     "★ Karambit | Case Hardened (Factory New)": {
@@ -207049,26 +207049,26 @@
     },
     "★ Karambit | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 1784.77,
-            "last_7d": 1788.4133333333334,
-            "last_30d": 1726.8192093023258,
-            "last_90d": 1739.6994370370371
+            "last_24h": 1549.0146666666667,
+            "last_7d": 1567.6478000000002,
+            "last_30d": 1650.2458780487807,
+            "last_90d": 1718.639765765766
         }
     },
     "★ Karambit | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 1636.205,
-            "last_90d": 1694.935
+            "last_30d": 1553.62,
+            "last_90d": 1589.0825
         }
     },
     "★ Karambit | Fade (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 1874.1140000000003
+            "last_30d": 2026.651,
+            "last_90d": 1832.48475
         }
     },
     "★ Karambit | Fade (Minimal Wear)": {
@@ -207081,10 +207081,10 @@
     },
     "★ Karambit | Forest DDPAT (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 519.16,
-            "last_30d": 513.4166666666666,
-            "last_90d": 524.9414545454546
+            "last_24h": 475,
+            "last_7d": 475,
+            "last_30d": 466.159,
+            "last_90d": 497.827125
         }
     },
     "★ Karambit | Forest DDPAT (Factory New)": {
@@ -207092,31 +207092,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 800.008
         }
     },
     "★ Karambit | Forest DDPAT (Field-Tested)": {
         "steam": {
-            "last_24h": 580.016,
-            "last_7d": 572.5907142857143,
-            "last_30d": 562.3984210526315,
-            "last_90d": 555.860775862069
+            "last_24h": null,
+            "last_7d": 518.934,
+            "last_30d": 488.89945454545466,
+            "last_90d": 535.6137142857143
         }
     },
     "★ Karambit | Forest DDPAT (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 566.92,
-            "last_90d": 591.967
+            "last_30d": 528.945,
+            "last_90d": 605.4
         }
     },
     "★ Karambit | Forest DDPAT (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 570.967,
-            "last_30d": 534.9155,
-            "last_90d": 530.1374285714286
+            "last_7d": null,
+            "last_30d": 434.7266666666667,
+            "last_90d": 501.0738461538461
         }
     },
     "★ Karambit | Freehand (Battle-Scarred)": {
@@ -207162,9 +207162,9 @@
     "★ Karambit | Gamma Doppler (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1807.519,
-            "last_90d": 1807.17675
+            "last_7d": 1661.3866666666665,
+            "last_30d": 1727.7016666666668,
+            "last_90d": 1768.4587499999998
         }
     },
     "★ Karambit | Gamma Doppler (Minimal Wear)": {
@@ -207172,47 +207172,47 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1839.88
+            "last_90d": null
         }
     },
     "★ Karambit | Lore (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 760.798,
-            "last_30d": 714.4582499999999,
-            "last_90d": 705.369
+            "last_7d": 673.718,
+            "last_30d": 609.1106666666666,
+            "last_90d": 662.8013333333333
         }
     },
     "★ Karambit | Lore (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1518.62,
-            "last_30d": 1612.19925,
-            "last_90d": 1640.2908333333332
+            "last_7d": null,
+            "last_30d": 1438.4650000000001,
+            "last_90d": 1453.3693333333333
         }
     },
     "★ Karambit | Lore (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 835.2022222222222,
-            "last_30d": 850.4634090909091,
-            "last_90d": 839.5192179487179
+            "last_7d": 714.576,
+            "last_30d": 721.7713684210527,
+            "last_90d": 779.6500200000003
         }
     },
     "★ Karambit | Lore (Minimal Wear)": {
         "steam": {
-            "last_24h": 1000,
-            "last_7d": 1140.4,
-            "last_30d": 1110.7615555555556,
-            "last_90d": 1163.8472500000003
+            "last_24h": 1102.879,
+            "last_7d": 1102.879,
+            "last_30d": 1150.96,
+            "last_90d": 1175.4454375
         }
     },
     "★ Karambit | Lore (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 782.42,
-            "last_30d": 798.5450000000001,
-            "last_90d": 741.958125
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 763.3489999999999
         }
     },
     "★ Karambit | Marble Fade (Factory New)": {
@@ -207274,25 +207274,25 @@
     "★ Karambit | Rust Coat (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 657.7213636363637,
-            "last_30d": 666.3931842105263,
-            "last_90d": 649.4408032786885
+            "last_7d": 520.7626666666666,
+            "last_30d": 577.9048260869566,
+            "last_90d": 627.7616315789476
         }
     },
     "★ Karambit | Rust Coat (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 624.64,
-            "last_90d": 635.3209999999999
+            "last_30d": null,
+            "last_90d": 686.3389999999999
         }
     },
     "★ Karambit | Safari Mesh (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 509.059,
-            "last_90d": 508.37075000000004
+            "last_7d": 452.274,
+            "last_30d": 527.0855,
+            "last_90d": 526.5692
         }
     },
     "★ Karambit | Safari Mesh (Factory New)": {
@@ -207300,39 +207300,39 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 602.1524999999999
         }
     },
     "★ Karambit | Safari Mesh (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 542.94,
-            "last_30d": 528.3193157894735,
-            "last_90d": 530.1097115384616
+            "last_7d": 481.472,
+            "last_30d": 458.42350000000005,
+            "last_90d": 510.9360714285714
         }
     },
     "★ Karambit | Safari Mesh (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 517.5,
-            "last_30d": 517.5,
-            "last_90d": 558.95325
+            "last_7d": null,
+            "last_30d": 482.5975,
+            "last_90d": 517.4929999999999
         }
     },
     "★ Karambit | Safari Mesh (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 528.39,
-            "last_30d": 513.9913333333333,
-            "last_90d": 492.13699999999994
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 533.991
         }
     },
     "★ Karambit | Scorched (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 530.005,
-            "last_90d": 558.7729090909091
+            "last_30d": 472.885,
+            "last_90d": 546.2938571428572
         }
     },
     "★ Karambit | Scorched (Factory New)": {
@@ -207345,26 +207345,26 @@
     },
     "★ Karambit | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": 630.09,
-            "last_7d": 597.8365714285716,
-            "last_30d": 586.5887692307692,
-            "last_90d": 597.4163695652173
+            "last_24h": 569.999,
+            "last_7d": 473.8166,
+            "last_30d": 505.3951,
+            "last_90d": 556.92644
         }
     },
     "★ Karambit | Scorched (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 681.515,
-            "last_30d": 656.9031666666666,
-            "last_90d": 671.6121578947369
+            "last_7d": 599.361,
+            "last_30d": 518.8203333333333,
+            "last_90d": 647.6729
         }
     },
     "★ Karambit | Scorched (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 602.4639999999999,
-            "last_90d": 595.51875
+            "last_30d": 507.8766666666667,
+            "last_90d": 536.1164444444444
         }
     },
     "★ Karambit | Slaughter (Factory New)": {
@@ -207490,41 +207490,41 @@
     "★ Karambit | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 617.851,
-            "last_90d": 588.655
+            "last_7d": 520.511,
+            "last_30d": 452.9403333333333,
+            "last_90d": 503.4573333333333
         }
     },
     "★ Karambit | Urban Masked (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 587.5260000000001,
+            "last_90d": 720.2280000000001
         }
     },
     "★ Karambit | Urban Masked (Field-Tested)": {
         "steam": {
-            "last_24h": 583.19,
-            "last_7d": 610.6744285714285,
-            "last_30d": 593.2198571428571,
-            "last_90d": 597.7844181818181
+            "last_24h": null,
+            "last_7d": 502.36225,
+            "last_30d": 519.74525,
+            "last_90d": 571.9015945945945
         }
     },
     "★ Karambit | Urban Masked (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 664.93,
-            "last_30d": 681.7146,
-            "last_90d": 715.106652173913
+            "last_7d": 511.09,
+            "last_30d": 538.7033333333333,
+            "last_90d": 602.3154999999999
         }
     },
     "★ Karambit | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 531.8000000000001
+            "last_7d": 437.098,
+            "last_30d": 451.77549999999997,
+            "last_90d": 551.0988181818182
         }
     },
     "★ Kukri Knife": {
@@ -207657,42 +207657,42 @@
     },
     "★ Kukri Knife | Crimson Web (Battle-Scarred)": {
         "steam": {
-            "last_24h": 104.33516666666668,
-            "last_7d": 105.3814375,
-            "last_30d": 107.37056164383563,
-            "last_90d": 114.13085510204084
+            "last_24h": 79.17474999999999,
+            "last_7d": 77.03009302325582,
+            "last_30d": 80.19977966101698,
+            "last_90d": 89.01792164948453
         }
     },
     "★ Kukri Knife | Crimson Web (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 507.08,
-            "last_30d": 495.423,
-            "last_90d": 588.3613333333333
+            "last_7d": 290.019,
+            "last_30d": 290.019,
+            "last_90d": 395.0045
         }
     },
     "★ Kukri Knife | Crimson Web (Field-Tested)": {
         "steam": {
-            "last_24h": 126.87400000000001,
-            "last_7d": 128.52544210526318,
-            "last_30d": 130.5803578199052,
-            "last_90d": 136.14380976676375
+            "last_24h": 99.57536363636363,
+            "last_7d": 94.04800000000002,
+            "last_30d": 98.4538718592964,
+            "last_90d": 110.59856368330462
         }
     },
     "★ Kukri Knife | Crimson Web (Minimal Wear)": {
         "steam": {
-            "last_24h": 167.32333333333335,
-            "last_7d": 175.97805555555553,
-            "last_30d": 175.67949367088607,
-            "last_90d": 182.54498566308246
+            "last_24h": 132.12,
+            "last_7d": 125.98074999999999,
+            "last_30d": 134.2723943661972,
+            "last_90d": 151.93592990654204
         }
     },
     "★ Kukri Knife | Crimson Web (Well-Worn)": {
         "steam": {
-            "last_24h": 119.00200000000001,
-            "last_7d": 117.52458333333333,
-            "last_30d": 119.1814166666667,
-            "last_90d": 125.61038376383767
+            "last_24h": 92.7355,
+            "last_7d": 91.25629411764706,
+            "last_30d": 93.56958750000001,
+            "last_90d": 103.92402702702701
         }
     },
     "★ Kukri Knife | Fade (Factory New)": {
@@ -207753,122 +207753,122 @@
     },
     "★ Kukri Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
-            "last_24h": 61.12066666666667,
-            "last_7d": 67.60157894736842,
-            "last_30d": 69.63840697674415,
-            "last_90d": 74.53304014598544
+            "last_24h": 56.74866666666667,
+            "last_7d": 54.76641176470588,
+            "last_30d": 54.628924418604676,
+            "last_90d": 60.077201244813274
         }
     },
     "★ Kukri Knife | Night Stripe (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 197.792,
-            "last_90d": 177.87300000000002
+            "last_7d": 130,
+            "last_30d": 140.0025,
+            "last_90d": 157.5506
         }
     },
     "★ Kukri Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 68.5749090909091,
-            "last_7d": 70.21641216216216,
-            "last_30d": 71.45769194312795,
-            "last_90d": 75.58803444881883
+            "last_24h": 58.68970370370371,
+            "last_7d": 57.425342281879196,
+            "last_30d": 56.887940345368946,
+            "last_90d": 61.85565626681014
         }
     },
     "★ Kukri Knife | Night Stripe (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 98.70943749999999,
-            "last_30d": 98.57041111111108,
-            "last_90d": 107.16769731800775
+            "last_7d": 72.99622222222222,
+            "last_30d": 75.35122988505748,
+            "last_90d": 82.60498015873016
         }
     },
     "★ Kukri Knife | Night Stripe (Well-Worn)": {
         "steam": {
-            "last_24h": 64.91,
-            "last_7d": 68.37335714285715,
-            "last_30d": 67.87638524590166,
-            "last_90d": 72.11467554479421
+            "last_24h": 56.16866666666667,
+            "last_7d": 57.03460606060606,
+            "last_30d": 55.046740259740275,
+            "last_90d": 59.28808616187988
         }
     },
     "★ Kukri Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": 59.3065,
-            "last_7d": 59.018849056603784,
-            "last_30d": 60.50094444444444,
-            "last_90d": 65.00946534653463
+            "last_24h": 45.697250000000004,
+            "last_7d": 45.38046808510637,
+            "last_30d": 47.068203488372085,
+            "last_90d": 51.837767489711915
         }
     },
     "★ Kukri Knife | Safari Mesh (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 113.47,
-            "last_90d": 120.69166666666666
+            "last_7d": 8.889,
+            "last_30d": 43.049499999999995,
+            "last_90d": 91.56522222222223
         }
     },
     "★ Kukri Knife | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 59.084129032258076,
-            "last_7d": 57.885870292887034,
-            "last_30d": 59.211093997734906,
-            "last_90d": 62.62456671449066
+            "last_24h": 45.420833333333334,
+            "last_7d": 45.459983783783805,
+            "last_30d": 46.146030716723565,
+            "last_90d": 51.064890746500744
         }
     },
     "★ Kukri Knife | Safari Mesh (Minimal Wear)": {
         "steam": {
-            "last_24h": 62.724,
-            "last_7d": 65.34755319148935,
-            "last_30d": 65.47127485380119,
-            "last_90d": 69.04532972972972
+            "last_24h": 52.11125,
+            "last_7d": 51.76176666666667,
+            "last_30d": 52.83998181818184,
+            "last_90d": 57.383791845493555
         }
     },
     "★ Kukri Knife | Safari Mesh (Well-Worn)": {
         "steam": {
-            "last_24h": 58.386624999999995,
-            "last_7d": 58.07862500000002,
-            "last_30d": 58.593620915032695,
-            "last_90d": 62.22323758099356
+            "last_24h": 44.427,
+            "last_7d": 45.445200000000014,
+            "last_30d": 46.34864999999999,
+            "last_90d": 50.60630310880829
         }
     },
     "★ Kukri Knife | Scorched (Battle-Scarred)": {
         "steam": {
-            "last_24h": 67.19666666666666,
-            "last_7d": 64.81800000000001,
-            "last_30d": 65.26531188118813,
-            "last_90d": 69.40088575667654
+            "last_24h": 47.31400000000001,
+            "last_7d": 49.8408,
+            "last_30d": 50.82052542372882,
+            "last_90d": 56.24071401515154
         }
     },
     "★ Kukri Knife | Scorched (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 133.67000000000002,
-            "last_30d": 138.87733333333335,
-            "last_90d": 165.93024999999997
+            "last_7d": 115,
+            "last_30d": 112.96833333333332,
+            "last_90d": 128.22979999999998
         }
     },
     "★ Kukri Knife | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": 64.89407407407408,
-            "last_7d": 64.79103977272726,
-            "last_30d": 65.62542550143273,
-            "last_90d": 69.38136470078047
+            "last_24h": 51.20304,
+            "last_7d": 50.87739534883723,
+            "last_30d": 51.25968932038833,
+            "last_90d": 56.82085344015084
         }
     },
     "★ Kukri Knife | Scorched (Minimal Wear)": {
         "steam": {
-            "last_24h": 92.82759999999999,
-            "last_7d": 86.86681578947368,
-            "last_30d": 87.65344881889766,
-            "last_90d": 95.51540056818182
+            "last_24h": 69.18533333333333,
+            "last_7d": 67.26005263157894,
+            "last_30d": 68.70186776859504,
+            "last_90d": 76.47382539682536
         }
     },
     "★ Kukri Knife | Scorched (Well-Worn)": {
         "steam": {
-            "last_24h": 67.103,
-            "last_7d": 63.20624324324325,
-            "last_30d": 63.83603703703704,
-            "last_90d": 68.34911940298505
+            "last_24h": 50.926500000000004,
+            "last_7d": 49.18495238095238,
+            "last_30d": 50.196706349206345,
+            "last_90d": 55.48219559228652
         }
     },
     "★ Kukri Knife | Slaughter (Factory New)": {
@@ -208067,48 +208067,48 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 626.4040000000001,
-            "last_90d": 650.2684000000002
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ M9 Bayonet | Blue Steel (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 946.18,
-            "last_90d": 948.925
+            "last_30d": 943.39,
+            "last_90d": 943.39
         }
     },
     "★ M9 Bayonet | Blue Steel (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 657,
-            "last_30d": 686.2048000000001,
-            "last_90d": 711.2769310344828
+            "last_24h": 604.637,
+            "last_7d": 590.4653333333333,
+            "last_30d": 567.9516666666667,
+            "last_90d": 678.1807826086957
         }
     },
     "★ M9 Bayonet | Blue Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 759.9995,
-            "last_30d": 802.0805555555556,
-            "last_90d": 806.2805217391303
+            "last_24h": 598.094,
+            "last_7d": 628.8620000000001,
+            "last_30d": 666.7884285714287,
+            "last_90d": 710.3454285714286
         }
     },
     "★ M9 Bayonet | Blue Steel (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 609.0390000000001,
-            "last_90d": 644.1873846153846
+            "last_7d": 578.56,
+            "last_30d": 663.3193333333332,
+            "last_90d": 640.1478
         }
     },
     "★ M9 Bayonet | Boreal Forest (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 397.097,
-            "last_90d": 448.49940000000004
+            "last_30d": 347.82775000000004,
+            "last_90d": 288.94300000000004
         }
     },
     "★ M9 Bayonet | Boreal Forest (Factory New)": {
@@ -208121,66 +208121,66 @@
     },
     "★ M9 Bayonet | Boreal Forest (Field-Tested)": {
         "steam": {
-            "last_24h": 398.465,
-            "last_7d": 393.09125,
-            "last_30d": 398.6659565217392,
-            "last_90d": 403.8630769230769
+            "last_24h": null,
+            "last_7d": 387.73,
+            "last_30d": 333.63100000000003,
+            "last_90d": 378.87185106382987
         }
     },
     "★ M9 Bayonet | Boreal Forest (Minimal Wear)": {
         "steam": {
-            "last_24h": 438.34,
-            "last_7d": 428.15574999999995,
-            "last_30d": 424.81337500000006,
-            "last_90d": 435.6696999999999
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 390.08250000000004,
+            "last_90d": 409.2203888888889
         }
     },
     "★ M9 Bayonet | Boreal Forest (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 391.00199999999995,
-            "last_30d": 391.00199999999995,
-            "last_90d": 388.855
+            "last_7d": null,
+            "last_30d": 343.356,
+            "last_90d": 358.07
         }
     },
     "★ M9 Bayonet | Bright Water (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 404.95,
-            "last_90d": 427.5025
+            "last_7d": 352.055,
+            "last_30d": 352.055,
+            "last_90d": 404.645
         }
     },
     "★ M9 Bayonet | Bright Water (Factory New)": {
         "steam": {
-            "last_24h": 609.557,
-            "last_7d": 593.681,
-            "last_30d": 559.2534166666666,
-            "last_90d": 572.6965227272727
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 468.74,
+            "last_90d": 584.7390624999999
         }
     },
     "★ M9 Bayonet | Bright Water (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 491.3228571428571,
-            "last_30d": 483.489,
-            "last_90d": 477.8103023255815
+            "last_7d": 365.85519999999997,
+            "last_30d": 393.71500000000003,
+            "last_90d": 449.7788750000001
         }
     },
     "★ M9 Bayonet | Bright Water (Minimal Wear)": {
         "steam": {
-            "last_24h": 527.985,
-            "last_7d": 520.15975,
-            "last_30d": 525.2101666666667,
-            "last_90d": 526.623358490566
+            "last_24h": null,
+            "last_7d": 393.21,
+            "last_30d": 438.7974615384615,
+            "last_90d": 504.31074193548375
         }
     },
     "★ M9 Bayonet | Bright Water (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 409.233,
-            "last_90d": 420.06066666666663
+            "last_30d": 500.273,
+            "last_90d": 456.82925
         }
     },
     "★ M9 Bayonet | Case Hardened (Battle-Scarred)": {
@@ -208227,8 +208227,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 579.48,
-            "last_90d": 578.072
+            "last_30d": 372.21,
+            "last_90d": 526.237
         }
     },
     "★ M9 Bayonet | Crimson Web (Factory New)": {
@@ -208242,25 +208242,25 @@
     "★ M9 Bayonet | Crimson Web (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 779.9925000000001,
-            "last_30d": 655.0839230769229,
-            "last_90d": 668.8454677419356
+            "last_7d": 505.8333333333333,
+            "last_30d": 550.611076923077,
+            "last_90d": 637.0906470588235
         }
     },
     "★ M9 Bayonet | Crimson Web (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1180.046,
-            "last_30d": 1180.046,
-            "last_90d": 1064.2493333333334
+            "last_7d": null,
+            "last_30d": 846.155,
+            "last_90d": 1004.9871249999999
         }
     },
     "★ M9 Bayonet | Crimson Web (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 670.644,
-            "last_30d": 644.1876,
-            "last_90d": 599.7876363636364
+            "last_7d": 385.75,
+            "last_30d": 477.1825,
+            "last_90d": 503.19277777777785
         }
     },
     "★ M9 Bayonet | Damascus Steel (Battle-Scarred)": {
@@ -208274,49 +208274,49 @@
     "★ M9 Bayonet | Damascus Steel (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 730.007,
-            "last_30d": 721.2416666666667,
-            "last_90d": 730.308090909091
+            "last_7d": null,
+            "last_30d": 548.5455,
+            "last_90d": 647.8169523809523
         }
     },
     "★ M9 Bayonet | Damascus Steel (Field-Tested)": {
         "steam": {
-            "last_24h": 655.015,
-            "last_7d": 634.9743333333332,
-            "last_30d": 601.8763499999999,
-            "last_90d": 593.6053287671234
+            "last_24h": 431.95,
+            "last_7d": 461.531375,
+            "last_30d": 492.24275000000017,
+            "last_90d": 549.838340425532
         }
     },
     "★ M9 Bayonet | Damascus Steel (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 627.2814000000001,
-            "last_30d": 616.6416666666667,
-            "last_90d": 621.4924358974357
+            "last_7d": 527.273,
+            "last_30d": 532.3765454545454,
+            "last_90d": 586.7614782608696
         }
     },
     "★ M9 Bayonet | Damascus Steel (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 505.88,
-            "last_90d": 559.827
+            "last_30d": 558.2485,
+            "last_90d": 586.925
         }
     },
     "★ M9 Bayonet | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 1377.2055,
-            "last_7d": 1429.5348500000005,
-            "last_30d": 1384.4652553191488,
-            "last_90d": 1414.7101832669325
+            "last_24h": 1057.6696666666667,
+            "last_7d": 1130.2172666666665,
+            "last_30d": 1159.0762777777775,
+            "last_90d": 1309.8756618357488
         }
     },
     "★ M9 Bayonet | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 1110.9950000000001
+            "last_30d": 1267.3775,
+            "last_90d": 1304.1591666666668
         }
     },
     "★ M9 Bayonet | Fade (Factory New)": {
@@ -208380,39 +208380,39 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 423.4755
+            "last_90d": null
         }
     },
     "★ M9 Bayonet | Freehand (Factory New)": {
         "steam": {
-            "last_24h": 731.41,
-            "last_7d": 654.0554999999999,
-            "last_30d": 617.6971428571429,
-            "last_90d": 606.5430606060606
+            "last_24h": null,
+            "last_7d": 449.7133333333333,
+            "last_30d": 490.644875,
+            "last_90d": 540.6362500000001
         }
     },
     "★ M9 Bayonet | Freehand (Field-Tested)": {
         "steam": {
-            "last_24h": 589.342,
-            "last_7d": 552.5525,
-            "last_30d": 536.9583214285714,
-            "last_90d": 523.0431124999998
+            "last_24h": 425.466,
+            "last_7d": 419.9977142857142,
+            "last_30d": 427.22738461538455,
+            "last_90d": 470.33430645161275
         }
     },
     "★ M9 Bayonet | Freehand (Minimal Wear)": {
         "steam": {
-            "last_24h": 620.023,
-            "last_7d": 611.8025,
-            "last_30d": 589.7445,
-            "last_90d": 573.9636666666668
+            "last_24h": 481.472,
+            "last_7d": 446.9595,
+            "last_30d": 461.17355555555554,
+            "last_90d": 505.8035952380954
         }
     },
     "★ M9 Bayonet | Freehand (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 444.821,
-            "last_90d": 459.7175
+            "last_7d": 354.28,
+            "last_30d": 354.28,
+            "last_90d": 407.724
         }
     },
     "★ M9 Bayonet | Gamma Doppler (Factory New)": {
@@ -208473,26 +208473,26 @@
     },
     "★ M9 Bayonet | Marble Fade (Factory New)": {
         "steam": {
-            "last_24h": 1151.6055000000001,
-            "last_7d": 1174.7150000000001,
-            "last_30d": 1150.391,
-            "last_90d": 1176.4474392523366
+            "last_24h": 839.748,
+            "last_7d": 875.873625,
+            "last_30d": 904.2022307692308,
+            "last_90d": 1032.386115384616
         }
     },
     "★ M9 Bayonet | Marble Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 936,
-            "last_90d": 1162.6475999999998
+            "last_30d": 1021.466,
+            "last_90d": 1038.33825
         }
     },
     "★ M9 Bayonet | Night (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 484.8695,
-            "last_90d": 490.3544444444445
+            "last_30d": 441.21,
+            "last_90d": 446.648
         }
     },
     "★ M9 Bayonet | Night (Factory New)": {
@@ -208506,25 +208506,25 @@
     "★ M9 Bayonet | Night (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 554.2556666666667,
-            "last_30d": 505.27520000000004,
-            "last_90d": 494.0046808510639
+            "last_7d": 331.886,
+            "last_30d": 399.2307142857142,
+            "last_90d": 466.55844897959196
         }
     },
     "★ M9 Bayonet | Night (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 656.625,
-            "last_30d": 600.90175,
-            "last_90d": 593.4481428571428
+            "last_7d": null,
+            "last_30d": 457.77666666666664,
+            "last_90d": 539.1655555555557
         }
     },
     "★ M9 Bayonet | Night (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 458.58450000000005,
-            "last_30d": 451.28499999999997,
-            "last_90d": 455.2285454545454
+            "last_7d": 283.02,
+            "last_30d": 349.47775,
+            "last_90d": 393.14788888888893
         }
     },
     "★ M9 Bayonet | Rust Coat (Battle-Scarred)": {
@@ -208626,81 +208626,81 @@
     "★ M9 Bayonet | Slaughter (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1292.150857142857,
-            "last_90d": 1249.2894583333334
+            "last_7d": 1001.9739999999999,
+            "last_30d": 998.3343333333332,
+            "last_90d": 1207.3163333333332
         }
     },
     "★ M9 Bayonet | Slaughter (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 986.87,
-            "last_30d": 802.74,
-            "last_90d": 841.7626249999998
+            "last_7d": null,
+            "last_30d": 724.79,
+            "last_90d": 871.4763636363637
         }
     },
     "★ M9 Bayonet | Slaughter (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 977.3636666666666,
-            "last_30d": 1018.8715,
-            "last_90d": 1035.7471111111113
+            "last_7d": 645.88,
+            "last_30d": 846.2022857142857,
+            "last_90d": 913.3854375
         }
     },
     "★ M9 Bayonet | Stained (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 555.581,
-            "last_30d": 520.3059999999999,
-            "last_90d": 508.9268333333334
+            "last_7d": null,
+            "last_30d": 358.95,
+            "last_90d": 493.48475
         }
     },
     "★ M9 Bayonet | Stained (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 625.26
+            "last_7d": 627.93,
+            "last_30d": 627.93,
+            "last_90d": 644.386
         }
     },
     "★ M9 Bayonet | Stained (Field-Tested)": {
         "steam": {
-            "last_24h": 579.656,
-            "last_7d": 552.5886666666667,
-            "last_30d": 543.269,
-            "last_90d": 539.2544090909091
+            "last_24h": null,
+            "last_7d": 404.36,
+            "last_30d": 476.345,
+            "last_90d": 561.8874285714286
         }
     },
     "★ M9 Bayonet | Stained (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 574.23725,
-            "last_90d": 593.6872666666666
+            "last_7d": 567.959,
+            "last_30d": 501.18966666666665,
+            "last_90d": 525.5732222222222
         }
     },
     "★ M9 Bayonet | Stained (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 577.83,
-            "last_30d": 524.9119999999999,
-            "last_90d": 529.4870714285714
+            "last_7d": 482.522,
+            "last_30d": 427.49233333333336,
+            "last_90d": 479.13150000000013
         }
     },
     "★ M9 Bayonet | Tiger Tooth (Factory New)": {
         "steam": {
-            "last_24h": 910.756,
-            "last_7d": 965.4505833333334,
-            "last_30d": 960.5271538461539,
-            "last_90d": 962.9807142857144
+            "last_24h": null,
+            "last_7d": 757.454125,
+            "last_30d": 787.2356896551723,
+            "last_90d": 879.4614578313252
         }
     },
     "★ M9 Bayonet | Tiger Tooth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 967.905,
-            "last_90d": 864.144
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ M9 Bayonet | Ultraviolet (Battle-Scarred)": {
@@ -209282,9 +209282,9 @@
     "★ Navaja Knife | Blue Steel (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 149.013,
-            "last_30d": 138.821,
-            "last_90d": 142.66049999999998
+            "last_7d": 166.62400000000002,
+            "last_30d": 174.33333333333334,
+            "last_90d": 182.99428571428572
         }
     },
     "★ Navaja Knife | Blue Steel (Field-Tested)": {
@@ -209297,10 +209297,10 @@
     },
     "★ Navaja Knife | Blue Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": 76.684,
-            "last_7d": 77.15330769230768,
-            "last_30d": 82.43959523809527,
-            "last_90d": 86.01743209876538
+            "last_24h": 69.7715,
+            "last_7d": 64.74083333333334,
+            "last_30d": 66.96405555555557,
+            "last_90d": 73.56391588785046
         }
     },
     "★ Navaja Knife | Blue Steel (Well-Worn)": {
@@ -209434,57 +209434,57 @@
     "★ Navaja Knife | Damascus Steel (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 80.87942857142858,
-            "last_30d": 71.68108333333335,
-            "last_90d": 72.29930555555558
+            "last_7d": 49.22966666666667,
+            "last_30d": 50.73217647058823,
+            "last_90d": 62.092689655172414
         }
     },
     "★ Navaja Knife | Damascus Steel (Factory New)": {
         "steam": {
-            "last_24h": 81.35366666666667,
-            "last_7d": 75.83883333333333,
-            "last_30d": 78.82393749999999,
-            "last_90d": 85.2930484581498
+            "last_24h": null,
+            "last_7d": 61.327,
+            "last_30d": 63.610254901960786,
+            "last_90d": 69.11649044585991
         }
     },
     "★ Navaja Knife | Damascus Steel (Field-Tested)": {
         "steam": {
-            "last_24h": 61.288,
-            "last_7d": 61.82627058823529,
-            "last_30d": 63.80573154362416,
-            "last_90d": 65.94283817427375
+            "last_24h": 52.022749999999995,
+            "last_7d": 48.934203125,
+            "last_30d": 49.47770532915359,
+            "last_90d": 54.27766258351894
         }
     },
     "★ Navaja Knife | Damascus Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": 66.90520000000001,
-            "last_7d": 67.6865925925926,
-            "last_30d": 70.72874358974359,
-            "last_90d": 72.3489888392857
+            "last_24h": 45.96,
+            "last_7d": 54.36968181818182,
+            "last_30d": 55.50339000000002,
+            "last_90d": 59.68774550898202
         }
     },
     "★ Navaja Knife | Damascus Steel (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 62.094142857142856,
-            "last_30d": 63.5057142857143,
-            "last_90d": 65.70591428571426
+            "last_24h": 53.4,
+            "last_7d": 52.89433333333333,
+            "last_30d": 50.68475,
+            "last_90d": 55.27953658536585
         }
     },
     "★ Navaja Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 212.20319999999998,
-            "last_7d": 185.53549999999998,
-            "last_30d": 182.52397318007664,
-            "last_90d": 183.75001138952166
+            "last_24h": 116.37,
+            "last_7d": 143.73887878787878,
+            "last_30d": 145.12592820512822,
+            "last_90d": 160.40698593750005
         }
     },
     "★ Navaja Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 224.07,
-            "last_30d": 221.37333333333333,
-            "last_90d": 265.3826842105263
+            "last_7d": 225.97,
+            "last_30d": 251.25162500000002,
+            "last_90d": 232.34708000000006
         }
     },
     "★ Navaja Knife | Fade (Factory New)": {
@@ -209545,58 +209545,58 @@
     },
     "★ Navaja Knife | Marble Fade (Factory New)": {
         "steam": {
-            "last_24h": 134.34799999999998,
-            "last_7d": 138.5935882352941,
-            "last_30d": 139.4447533783783,
-            "last_90d": 145.32241141732288
+            "last_24h": 105.673,
+            "last_7d": 101.18820253164556,
+            "last_30d": 103.940345505618,
+            "last_90d": 114.79558541666667
         }
     },
     "★ Navaja Knife | Marble Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 147.45466666666667,
-            "last_90d": 164.86579999999998
+            "last_7d": 116.155,
+            "last_30d": 127.48942857142856,
+            "last_90d": 134.56934782608698
         }
     },
     "★ Navaja Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
-            "last_24h": 57.3565,
-            "last_7d": 54.03162499999999,
-            "last_30d": 56.93946341463415,
-            "last_90d": 60.46209285714289
+            "last_24h": null,
+            "last_7d": 39.995000000000005,
+            "last_30d": 43.16885294117646,
+            "last_90d": 49.020245614035076
         }
     },
     "★ Navaja Knife | Night Stripe (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 111.48,
-            "last_30d": 114.24000000000001,
-            "last_90d": 114.24000000000001
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ Navaja Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 55.1605,
-            "last_7d": 57.51792452830187,
-            "last_30d": 58.99565775401068,
-            "last_90d": 61.75525882352939
+            "last_24h": 48.414,
+            "last_7d": 45.81953488372093,
+            "last_30d": 46.42509895833334,
+            "last_90d": 51.41518121911039
         }
     },
     "★ Navaja Knife | Night Stripe (Minimal Wear)": {
         "steam": {
-            "last_24h": 79.315,
-            "last_7d": 70.3297,
-            "last_30d": 70.00788636363639,
-            "last_90d": 70.6315864661654
+            "last_24h": 49.187,
+            "last_7d": 54.39575000000001,
+            "last_30d": 54.39499999999998,
+            "last_90d": 58.944303571428584
         }
     },
     "★ Navaja Knife | Night Stripe (Well-Worn)": {
         "steam": {
-            "last_24h": 56.01,
-            "last_7d": 56.6472,
-            "last_30d": 58.3481923076923,
-            "last_90d": 62.25013953488371
+            "last_24h": null,
+            "last_7d": 44.62771428571428,
+            "last_30d": 45.46571999999999,
+            "last_90d": 50.6008536585366
         }
     },
     "★ Navaja Knife | Rust Coat (Battle-Scarred)": {
@@ -209697,26 +209697,26 @@
     },
     "★ Navaja Knife | Slaughter (Factory New)": {
         "steam": {
-            "last_24h": 132.5355,
-            "last_7d": 133.4781111111111,
-            "last_30d": 137.77948387096777,
-            "last_90d": 141.21437062937065
+            "last_24h": null,
+            "last_7d": 101.75506666666666,
+            "last_30d": 107.59564864864865,
+            "last_90d": 119.55473913043477
         }
     },
     "★ Navaja Knife | Slaughter (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 113.02700000000002,
-            "last_30d": 121.91972,
-            "last_90d": 125.37884615384611
+            "last_24h": 85.541,
+            "last_7d": 85.541,
+            "last_30d": 96.46428571428572,
+            "last_90d": 106.82203278688522
         }
     },
     "★ Navaja Knife | Slaughter (Minimal Wear)": {
         "steam": {
-            "last_24h": 115.224,
-            "last_7d": 119.36908333333334,
-            "last_30d": 122.64400000000003,
-            "last_90d": 128.4530595238096
+            "last_24h": 97.86,
+            "last_7d": 95.74081818181817,
+            "last_30d": 99.48504109589041,
+            "last_90d": 109.19480084745759
         }
     },
     "★ Navaja Knife | Stained (Battle-Scarred)": {
@@ -209730,25 +209730,25 @@
     "★ Navaja Knife | Stained (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 149.289,
-            "last_30d": 149.289,
-            "last_90d": 124.4425
+            "last_7d": 101.85499999999999,
+            "last_30d": 101.85499999999999,
+            "last_90d": 124.13833333333332
         }
     },
     "★ Navaja Knife | Stained (Field-Tested)": {
         "steam": {
-            "last_24h": 63.14,
-            "last_7d": 61.72534615384616,
-            "last_30d": 62.05942635658916,
-            "last_90d": 64.32390615835776
+            "last_24h": 50.93633333333333,
+            "last_7d": 49.40194444444444,
+            "last_30d": 49.74944943820225,
+            "last_90d": 54.21928057553956
         }
     },
     "★ Navaja Knife | Stained (Minimal Wear)": {
         "steam": {
-            "last_24h": 65.339,
-            "last_7d": 69.81442857142856,
-            "last_30d": 70.53847500000002,
-            "last_90d": 72.96438732394365
+            "last_24h": 54.77733333333333,
+            "last_7d": 53.24128571428571,
+            "last_30d": 53.8642549019608,
+            "last_90d": 59.32166393442622
         }
     },
     "★ Navaja Knife | Stained (Well-Worn)": {
@@ -209761,18 +209761,18 @@
     },
     "★ Navaja Knife | Tiger Tooth (Factory New)": {
         "steam": {
-            "last_24h": 100.19516666666665,
-            "last_7d": 100.82390322580646,
-            "last_30d": 103.79913350125938,
-            "last_90d": 109.11778680203037
+            "last_24h": 75.99313333333333,
+            "last_7d": 76.95360000000001,
+            "last_30d": 79.39235114503816,
+            "last_90d": 87.1217734033246
         }
     },
     "★ Navaja Knife | Tiger Tooth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 117.2475,
-            "last_30d": 121.176,
-            "last_90d": 126.39879487179486
+            "last_7d": 106.937,
+            "last_30d": 95.60833333333333,
+            "last_90d": 104.22130434782609
         }
     },
     "★ Navaja Knife | Ultraviolet (Battle-Scarred)": {
@@ -209826,25 +209826,25 @@
     "★ Navaja Knife | Urban Masked (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 145.63,
-            "last_30d": 145.63,
-            "last_90d": 145.63
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ Navaja Knife | Urban Masked (Field-Tested)": {
         "steam": {
-            "last_24h": 60.62266666666667,
-            "last_7d": 59.41584615384616,
-            "last_30d": 59.79680975609756,
-            "last_90d": 63.72880959752321
+            "last_24h": 45.925,
+            "last_7d": 49.10304166666666,
+            "last_30d": 48.89326589595375,
+            "last_90d": 53.72684146341465
         }
     },
     "★ Navaja Knife | Urban Masked (Minimal Wear)": {
         "steam": {
-            "last_24h": 65.02000000000001,
-            "last_7d": 70.37338461538462,
-            "last_30d": 71.30794339622642,
-            "last_90d": 76.31790579710145
+            "last_24h": 54.044,
+            "last_7d": 52.84442857142857,
+            "last_30d": 57.916977272727266,
+            "last_90d": 64.99813223140497
         }
     },
     "★ Navaja Knife | Urban Masked (Well-Worn)": {
@@ -209985,42 +209985,42 @@
     },
     "★ Nomad Knife | Crimson Web (Battle-Scarred)": {
         "steam": {
-            "last_24h": 178.95,
-            "last_7d": 198.02666666666664,
-            "last_30d": 194.03321052631577,
-            "last_90d": 199.89965625
+            "last_24h": null,
+            "last_7d": 160.05137499999998,
+            "last_30d": 161.4699,
+            "last_90d": 172.66790410958893
         }
     },
     "★ Nomad Knife | Crimson Web (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 808.448,
+            "last_90d": 808.448
         }
     },
     "★ Nomad Knife | Crimson Web (Field-Tested)": {
         "steam": {
-            "last_24h": 250.0035,
-            "last_7d": 227.71276190476195,
-            "last_30d": 223.54480582524278,
-            "last_90d": 227.8433582089552
+            "last_24h": 167.77733333333333,
+            "last_7d": 180.49124242424247,
+            "last_30d": 186.52458181818176,
+            "last_90d": 205.8417359154931
         }
     },
     "★ Nomad Knife | Crimson Web (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 304.6425,
-            "last_30d": 303.62593749999996,
-            "last_90d": 312.27354
+            "last_7d": 235.01042857142855,
+            "last_30d": 248.57049999999998,
+            "last_90d": 275.87662264150947
         }
     },
     "★ Nomad Knife | Crimson Web (Well-Worn)": {
         "steam": {
-            "last_24h": 233.48633333333336,
-            "last_7d": 226.72899999999998,
-            "last_30d": 218.12023529411763,
-            "last_90d": 220.65120689655166
+            "last_24h": null,
+            "last_7d": 170.30675,
+            "last_30d": 179.27452380952383,
+            "last_90d": 196.7607692307693
         }
     },
     "★ Nomad Knife | Damascus Steel (Battle-Scarred)": {
@@ -210065,18 +210065,18 @@
     },
     "★ Nomad Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 825.6700000000001,
-            "last_7d": 560.6687999999999,
-            "last_30d": 604.8458391608393,
-            "last_90d": 612.4497494456762
+            "last_24h": 488.27049999999997,
+            "last_7d": 492.876375,
+            "last_30d": 504.5084999999999,
+            "last_90d": 561.7501848484848
         }
     },
     "★ Nomad Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 570.8299999999999,
-            "last_90d": 647.1335
+            "last_7d": 522.9375,
+            "last_30d": 594.8915,
+            "last_90d": 664.1160000000001
         }
     },
     "★ Nomad Knife | Fade (Factory New)": {
@@ -210137,58 +210137,58 @@
     },
     "★ Nomad Knife | Marble Fade (Factory New)": {
         "steam": {
-            "last_24h": 335.06011111111115,
-            "last_7d": 340.9385744680852,
-            "last_30d": 342.48869787234037,
-            "last_90d": 342.64771536523966
+            "last_24h": 291.7405,
+            "last_7d": 270.52845454545457,
+            "last_30d": 271.71317682926843,
+            "last_90d": 304.9102854330707
         }
     },
     "★ Nomad Knife | Marble Fade (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 320.3615,
-            "last_30d": 360.784375,
-            "last_90d": 362.15621052631576
+            "last_24h": 306.42,
+            "last_7d": 306.42,
+            "last_30d": 310.17333333333335,
+            "last_90d": 344.9361
         }
     },
     "★ Nomad Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 121.50153333333333,
-            "last_30d": 121.04353061224485,
-            "last_90d": 126.73257894736845
+            "last_24h": 97.5055,
+            "last_7d": 97.52916666666665,
+            "last_30d": 102.75492857142856,
+            "last_90d": 111.19423999999997
         }
     },
     "★ Nomad Knife | Night Stripe (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 228.02,
-            "last_90d": 221.79666666666665
+            "last_24h": 120.405,
+            "last_7d": 123.60333333333331,
+            "last_30d": 137.1155,
+            "last_90d": 124.45549999999999
         }
     },
     "★ Nomad Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 139.691,
-            "last_7d": 136.12294444444444,
-            "last_30d": 134.65287234042555,
-            "last_90d": 140.644809815951
+            "last_24h": 107.59533333333333,
+            "last_7d": 105.79291666666668,
+            "last_30d": 110.80610317460317,
+            "last_90d": 121.53684224598928
         }
     },
     "★ Nomad Knife | Night Stripe (Minimal Wear)": {
         "steam": {
-            "last_24h": 165.732,
-            "last_7d": 150.55249999999998,
-            "last_30d": 157.8009411764706,
-            "last_90d": 158.24970370370374
+            "last_24h": null,
+            "last_7d": 124.2585,
+            "last_30d": 130.67350000000002,
+            "last_90d": 138.2735322580645
         }
     },
     "★ Nomad Knife | Night Stripe (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 133.22299999999998,
-            "last_30d": 135.84455555555553,
-            "last_90d": 136.61156578947364
+            "last_24h": 105.59,
+            "last_7d": 103.0925,
+            "last_30d": 109.57544000000001,
+            "last_90d": 118.72401538461541
         }
     },
     "★ Nomad Knife | Rust Coat (Battle-Scarred)": {
@@ -210209,82 +210209,82 @@
     },
     "★ Nomad Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": 104.266,
-            "last_7d": 102.32377777777778,
-            "last_30d": 104.80790697674418,
-            "last_90d": 110.42246153846159
+            "last_24h": null,
+            "last_7d": 79.207875,
+            "last_30d": 82.8447619047619,
+            "last_90d": 92.32618248175186
         }
     },
     "★ Nomad Knife | Safari Mesh (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 136.3445,
-            "last_90d": 145.98020000000002
+            "last_30d": 167.587,
+            "last_90d": 160.5265
         }
     },
     "★ Nomad Knife | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 109.035,
-            "last_7d": 104.79050000000001,
-            "last_30d": 105.96424475524476,
-            "last_90d": 111.62184160756499
+            "last_24h": 80.46675000000002,
+            "last_7d": 81.3085319148936,
+            "last_30d": 84.68958634538149,
+            "last_90d": 93.01022500000002
         }
     },
     "★ Nomad Knife | Safari Mesh (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 113.8992,
-            "last_30d": 118.34686666666667,
-            "last_90d": 126.81689999999998
+            "last_24h": 88.31049999999999,
+            "last_7d": 84.09859999999999,
+            "last_30d": 90.43297297297299,
+            "last_90d": 99.86529473684212
         }
     },
     "★ Nomad Knife | Safari Mesh (Well-Worn)": {
         "steam": {
-            "last_24h": 111.37,
-            "last_7d": 104.14114285714287,
-            "last_30d": 105.13004761904763,
-            "last_90d": 112.80990909090907
+            "last_24h": null,
+            "last_7d": 79.31166666666667,
+            "last_30d": 83.22875862068966,
+            "last_90d": 92.23599999999999
         }
     },
     "★ Nomad Knife | Scorched (Battle-Scarred)": {
         "steam": {
-            "last_24h": 108.05699999999999,
-            "last_7d": 112.61636363636363,
-            "last_30d": 114.82417777777779,
-            "last_90d": 120.00049180327872
+            "last_24h": 93.12299999999999,
+            "last_7d": 90.54891666666667,
+            "last_30d": 92.16497872340427,
+            "last_90d": 101.6150962962963
         }
     },
     "★ Nomad Knife | Scorched (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 240.5,
-            "last_90d": 186.14283333333333
+            "last_24h": 184.297,
+            "last_7d": 155.6435,
+            "last_30d": 155.6435,
+            "last_90d": 155.6435
         }
     },
     "★ Nomad Knife | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": 120.86399999999999,
-            "last_7d": 124.2452,
-            "last_30d": 127.57083132530117,
-            "last_90d": 134.29683657587555
+            "last_24h": 98.43799999999999,
+            "last_7d": 99.7946551724138,
+            "last_30d": 101.99071317829458,
+            "last_90d": 111.89969184290027
         }
     },
     "★ Nomad Knife | Scorched (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 142.13675,
-            "last_30d": 147.67337500000002,
-            "last_90d": 152.84876923076922
+            "last_7d": 120.7474,
+            "last_30d": 120.738,
+            "last_90d": 134.12175000000005
         }
     },
     "★ Nomad Knife | Scorched (Well-Worn)": {
         "steam": {
-            "last_24h": 110.25,
-            "last_7d": 113.6982,
-            "last_30d": 124.33690476190475,
-            "last_90d": 130.56412727272732
+            "last_24h": null,
+            "last_7d": 93.20983333333332,
+            "last_30d": 96.98445161290321,
+            "last_90d": 108.00032584269661
         }
     },
     "★ Nomad Knife | Slaughter (Factory New)": {
@@ -210369,82 +210369,82 @@
     },
     "★ Nomad Knife | Ultraviolet (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 144.85500000000002,
-            "last_30d": 145.20944444444442,
-            "last_90d": 147.72374793388428
+            "last_24h": 120.80733333333335,
+            "last_7d": 115.19781818181819,
+            "last_30d": 120.4104202898551,
+            "last_90d": 132.45685106382984
         }
     },
     "★ Nomad Knife | Ultraviolet (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 393.38300000000004,
-            "last_90d": 394.7532
+            "last_30d": 224.47333333333333,
+            "last_90d": 254.61939999999998
         }
     },
     "★ Nomad Knife | Ultraviolet (Field-Tested)": {
         "steam": {
-            "last_24h": 173.32580000000002,
-            "last_7d": 163.34288235294127,
-            "last_30d": 163.6675344129555,
-            "last_90d": 166.16280295566497
+            "last_24h": 124.68825000000001,
+            "last_7d": 130.0330612244898,
+            "last_30d": 137.81941784037556,
+            "last_90d": 151.48172758620697
         }
     },
     "★ Nomad Knife | Ultraviolet (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 187.76507692307695,
-            "last_30d": 196.82293103448276,
-            "last_90d": 207.15982278481016
+            "last_7d": 164.28400000000002,
+            "last_30d": 178.58140624999996,
+            "last_90d": 192.21448809523812
         }
     },
     "★ Nomad Knife | Ultraviolet (Well-Worn)": {
         "steam": {
-            "last_24h": 154.824,
-            "last_7d": 149.78133333333332,
-            "last_30d": 151.53897777777775,
-            "last_90d": 158.31389261744982
+            "last_24h": 136.428,
+            "last_7d": 127.95549999999999,
+            "last_30d": 131.248914893617,
+            "last_90d": 142.78597101449282
         }
     },
     "★ Nomad Knife | Urban Masked (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 102.86087500000001,
-            "last_30d": 121.20829787234042,
-            "last_90d": 127.94422834645668
+            "last_24h": 103.031,
+            "last_7d": 105.39966666666666,
+            "last_30d": 102.36606521739132,
+            "last_90d": 112.05189393939395
         }
     },
     "★ Nomad Knife | Urban Masked (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 267.0516666666667,
-            "last_90d": 267.0516666666667
+            "last_30d": null,
+            "last_90d": 256.39225
         }
     },
     "★ Nomad Knife | Urban Masked (Field-Tested)": {
         "steam": {
-            "last_24h": 126.93220000000001,
-            "last_7d": 132.7960689655172,
-            "last_30d": 136.5929797297297,
-            "last_90d": 142.8696092436975
+            "last_24h": 91.595,
+            "last_7d": 108.90003571428572,
+            "last_30d": 113.91716201117312,
+            "last_90d": 125.20754365079367
         }
     },
     "★ Nomad Knife | Urban Masked (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 159.51685714285713,
-            "last_30d": 169.00087878787886,
-            "last_90d": 172.37606201550392
+            "last_24h": 141.302,
+            "last_7d": 134.703,
+            "last_30d": 139.71803703703708,
+            "last_90d": 160.18433766233755
         }
     },
     "★ Nomad Knife | Urban Masked (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 131.0836,
-            "last_30d": 133.75432432432433,
-            "last_90d": 140.20909615384616
+            "last_24h": 115.001,
+            "last_7d": 116.9068,
+            "last_30d": 114.05523684210527,
+            "last_90d": 123.2041782178218
         }
     },
     "★ Paracord Knife": {
@@ -211250,9 +211250,9 @@
     "★ Shadow Daggers | Case Hardened (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 119.04260000000002,
-            "last_30d": 123.6539375,
-            "last_90d": 129.0226326530612
+            "last_7d": 88.258,
+            "last_30d": 90.7251052631579,
+            "last_90d": 96.97819642857144
         }
     },
     "★ Shadow Daggers | Case Hardened (Factory New)": {
@@ -211282,9 +211282,9 @@
     "★ Shadow Daggers | Case Hardened (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 127.03833333333334,
-            "last_30d": 127.80091666666668,
-            "last_90d": 129.68312857142854
+            "last_7d": null,
+            "last_30d": 96.1620909090909,
+            "last_90d": 99.27741999999996
         }
     },
     "★ Shadow Daggers | Crimson Web (Battle-Scarred)": {
@@ -211329,10 +211329,10 @@
     },
     "★ Shadow Daggers | Damascus Steel (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 74.313,
-            "last_30d": 73.463,
-            "last_90d": 81.00917647058824
+            "last_24h": 58.06,
+            "last_7d": 58.06,
+            "last_30d": 54.779,
+            "last_90d": 61.57045454545455
         }
     },
     "★ Shadow Daggers | Damascus Steel (Factory New)": {
@@ -211369,34 +211369,34 @@
     },
     "★ Shadow Daggers | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 211.80433333333335,
-            "last_7d": 208.306,
-            "last_30d": 214.7256013986015,
-            "last_90d": 216.9435096525097
+            "last_24h": 154.69400000000002,
+            "last_7d": 156.39493103448277,
+            "last_30d": 162.56341463414628,
+            "last_90d": 190.412368956743
         }
     },
     "★ Shadow Daggers | Doppler (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 223.8,
-            "last_30d": 226.6914285714286,
-            "last_90d": 262.00356000000005
+            "last_24h": 226.7985,
+            "last_7d": 222.66233333333332,
+            "last_30d": 234.2357857142857,
+            "last_90d": 257.0979428571428
         }
     },
     "★ Shadow Daggers | Fade (Factory New)": {
         "steam": {
-            "last_24h": 194.7765,
-            "last_7d": 199.59872727272725,
-            "last_30d": 201.0030701754386,
-            "last_90d": 203.523920212766
+            "last_24h": 152.4765,
+            "last_7d": 154.72563636363637,
+            "last_30d": 166.16935714285714,
+            "last_90d": 185.01435199999997
         }
     },
     "★ Shadow Daggers | Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 249.75,
-            "last_30d": 260.269,
-            "last_90d": 271.93285714285713
+            "last_7d": 201.21,
+            "last_30d": 247.22950000000003,
+            "last_90d": 235.51775000000004
         }
     },
     "★ Shadow Daggers | Forest DDPAT (Battle-Scarred)": {
@@ -211497,42 +211497,42 @@
     },
     "★ Shadow Daggers | Lore (Battle-Scarred)": {
         "steam": {
-            "last_24h": 71.8918,
-            "last_7d": 72.56613333333334,
-            "last_30d": 75.32280508474577,
-            "last_90d": 79.09992664670656
+            "last_24h": 51.63016666666667,
+            "last_7d": 55.556249999999984,
+            "last_30d": 57.358053941908736,
+            "last_90d": 63.41540606060599
         }
     },
     "★ Shadow Daggers | Lore (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 193.92066666666668,
-            "last_30d": 165.00923076923075,
-            "last_90d": 170.05754285714292
+            "last_7d": 117.03200000000001,
+            "last_30d": 146.12616666666665,
+            "last_90d": 144.76878125000002
         }
     },
     "★ Shadow Daggers | Lore (Field-Tested)": {
         "steam": {
-            "last_24h": 79.15447368421053,
-            "last_7d": 78.51931932773105,
-            "last_30d": 81.65055247524748,
-            "last_90d": 85.26249999999997
+            "last_24h": 59.51423076923076,
+            "last_7d": 61.35799029126214,
+            "last_30d": 62.61579580152672,
+            "last_90d": 69.1399802241266
         }
     },
     "★ Shadow Daggers | Lore (Minimal Wear)": {
         "steam": {
-            "last_24h": 93.43255555555555,
-            "last_7d": 92.84981250000003,
-            "last_30d": 98.47853092783511,
-            "last_90d": 103.143070945946
+            "last_24h": 67.76528571428571,
+            "last_7d": 69.9025789473684,
+            "last_30d": 72.96916384180793,
+            "last_90d": 81.56731548757172
         }
     },
     "★ Shadow Daggers | Lore (Well-Worn)": {
         "steam": {
-            "last_24h": 73.37190909090909,
-            "last_7d": 74.4278793103448,
-            "last_30d": 77.33925482625483,
-            "last_90d": 80.69284813384816
+            "last_24h": 57.7625,
+            "last_7d": 57.88005769230769,
+            "last_30d": 58.54579925650558,
+            "last_90d": 64.88703439803432
         }
     },
     "★ Shadow Daggers | Marble Fade (Factory New)": {
@@ -211593,26 +211593,26 @@
     },
     "★ Shadow Daggers | Rust Coat (Battle-Scarred)": {
         "steam": {
-            "last_24h": 52.14092857142856,
-            "last_7d": 55.18333663366338,
-            "last_30d": 56.099539614561,
-            "last_90d": 58.74201038062284
+            "last_24h": 44.58857142857143,
+            "last_7d": 45.42301587301587,
+            "last_30d": 44.36788571428569,
+            "last_90d": 49.331417543859644
         }
     },
     "★ Shadow Daggers | Rust Coat (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 61.608000000000004,
-            "last_90d": 63.79550000000002
+            "last_24h": 48.41,
+            "last_7d": 50.608666666666664,
+            "last_30d": 48.62966666666667,
+            "last_90d": 54.51640740740741
         }
     },
     "★ Shadow Daggers | Safari Mesh (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 54.973,
-            "last_30d": 55.75714285714286,
-            "last_90d": 59.112478260869565
+            "last_7d": 38.339999999999996,
+            "last_30d": 40.785,
+            "last_90d": 45.73734146341464
         }
     },
     "★ Shadow Daggers | Safari Mesh (Factory New)": {
@@ -211620,23 +211620,23 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 118.94833333333334
+            "last_90d": null
         }
     },
     "★ Shadow Daggers | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 52.052200000000006,
-            "last_7d": 53.673269230769236,
-            "last_30d": 54.22093023255814,
-            "last_90d": 57.307984732824416
+            "last_24h": 44.60925,
+            "last_7d": 42.70282352941176,
+            "last_30d": 42.218265822784815,
+            "last_90d": 47.18128870292887
         }
     },
     "★ Shadow Daggers | Safari Mesh (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 58.31,
-            "last_30d": 60.35878571428571,
-            "last_90d": 63.573615384615394
+            "last_7d": 46.908500000000004,
+            "last_30d": 47.23259999999999,
+            "last_90d": 53.873315789473686
         }
     },
     "★ Shadow Daggers | Safari Mesh (Well-Worn)": {
@@ -211649,10 +211649,10 @@
     },
     "★ Shadow Daggers | Scorched (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 62.6065,
-            "last_30d": 58.908923076923074,
-            "last_90d": 62.6116862745098
+            "last_24h": 44.71,
+            "last_7d": 43.78,
+            "last_30d": 46.75466666666667,
+            "last_90d": 52.42498214285714
         }
     },
     "★ Shadow Daggers | Scorched (Factory New)": {
@@ -211665,26 +211665,26 @@
     },
     "★ Shadow Daggers | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": 60.70640000000001,
-            "last_7d": 61.18528571428572,
-            "last_30d": 62.355960526315776,
-            "last_90d": 66.0886178861789
+            "last_24h": 46.580999999999996,
+            "last_7d": 46.70964705882353,
+            "last_30d": 48.83523728813559,
+            "last_90d": 55.25709890109891
         }
     },
     "★ Shadow Daggers | Scorched (Minimal Wear)": {
         "steam": {
-            "last_24h": 51.458,
-            "last_7d": 72.396,
-            "last_30d": 75.03415789473685,
-            "last_90d": 78.9465111111111
+            "last_24h": 57.943,
+            "last_7d": 58.850750000000005,
+            "last_30d": 63.51921428571429,
+            "last_90d": 69.82275675675675
         }
     },
     "★ Shadow Daggers | Scorched (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 84.907,
-            "last_30d": 68.25472727272728,
-            "last_90d": 69.28459375
+            "last_24h": 46.21,
+            "last_7d": 46.6945,
+            "last_30d": 47.64091666666667,
+            "last_90d": 57.27890476190476
         }
     },
     "★ Shadow Daggers | Slaughter (Factory New)": {
@@ -211714,41 +211714,41 @@
     "★ Shadow Daggers | Stained (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 66.3115,
-            "last_30d": 67.60541176470588,
-            "last_90d": 70.92622222222224
+            "last_7d": 53.67,
+            "last_30d": 55.4713125,
+            "last_90d": 62.23506896551724
         }
     },
     "★ Shadow Daggers | Stained (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 144.515,
-            "last_90d": 148.74599999999998
+            "last_7d": 183.914,
+            "last_30d": 181.941,
+            "last_90d": 208.2594
         }
     },
     "★ Shadow Daggers | Stained (Field-Tested)": {
         "steam": {
-            "last_24h": 62.14,
-            "last_7d": 69.34072727272726,
-            "last_30d": 69.63618604651163,
-            "last_90d": 73.5899416058394
+            "last_24h": 56.14666666666667,
+            "last_7d": 55.4602,
+            "last_30d": 55.84853571428572,
+            "last_90d": 62.09477952755903
         }
     },
     "★ Shadow Daggers | Stained (Minimal Wear)": {
         "steam": {
-            "last_24h": 74,
-            "last_7d": 71.72833333333334,
-            "last_30d": 80.43066666666668,
-            "last_90d": 85.08622857142855
+            "last_24h": null,
+            "last_7d": 61.88925,
+            "last_30d": 66.54947368421053,
+            "last_90d": 73.25574193548388
         }
     },
     "★ Shadow Daggers | Stained (Well-Worn)": {
         "steam": {
-            "last_24h": 65.339,
-            "last_7d": 66.29771428571429,
-            "last_30d": 67.53875000000001,
-            "last_90d": 72.2265925925926
+            "last_24h": null,
+            "last_7d": 55.604499999999994,
+            "last_30d": 52.762649999999994,
+            "last_90d": 63.57046478873239
         }
     },
     "★ Shadow Daggers | Tiger Tooth (Factory New)": {
@@ -211810,9 +211810,9 @@
     "★ Shadow Daggers | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 60.744,
-            "last_30d": 57.94050000000001,
-            "last_90d": 65.18476000000001
+            "last_7d": 48.504000000000005,
+            "last_30d": 48.4284,
+            "last_90d": 52.67124999999999
         }
     },
     "★ Shadow Daggers | Urban Masked (Factory New)": {
@@ -211820,31 +211820,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 146.9885
+            "last_90d": 147.94
         }
     },
     "★ Shadow Daggers | Urban Masked (Field-Tested)": {
         "steam": {
-            "last_24h": 60.6535,
-            "last_7d": 57.10153571428572,
-            "last_30d": 59.21336363636364,
-            "last_90d": 63.7167126865672
+            "last_24h": 46.637,
+            "last_7d": 46.13325,
+            "last_30d": 47.25828888888888,
+            "last_90d": 52.679373390557934
         }
     },
     "★ Shadow Daggers | Urban Masked (Minimal Wear)": {
         "steam": {
-            "last_24h": 80.5,
-            "last_7d": 72.72516666666667,
-            "last_30d": 70.80836363636364,
-            "last_90d": 72.27069999999999
+            "last_24h": null,
+            "last_7d": 59.23,
+            "last_30d": 53.87208333333333,
+            "last_90d": 62.144925000000015
         }
     },
     "★ Shadow Daggers | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 60.668499999999995,
-            "last_30d": 61.579899999999995,
-            "last_90d": 66.48451724137931
+            "last_7d": 45.438,
+            "last_30d": 44.131,
+            "last_90d": 50.27695833333334
         }
     },
     "★ Skeleton Knife": {
@@ -211858,41 +211858,41 @@
     "★ Skeleton Knife | Blue Steel (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 291.24666666666667,
-            "last_30d": 293.93864285714284,
-            "last_90d": 299.2249838709677
+            "last_7d": 227.09866666666665,
+            "last_30d": 238.2641111111111,
+            "last_90d": 261.9876041666667
         }
     },
     "★ Skeleton Knife | Blue Steel (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 545.5335,
-            "last_90d": 625.2841428571429
+            "last_30d": null,
+            "last_90d": 504.97625
         }
     },
     "★ Skeleton Knife | Blue Steel (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 339.0783333333333,
-            "last_30d": 323.7657083333334,
-            "last_90d": 329.429225
+            "last_24h": 242.038,
+            "last_7d": 244.52830000000003,
+            "last_30d": 250.6017428571429,
+            "last_90d": 295.26695283018864
         }
     },
     "★ Skeleton Knife | Blue Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 411.105,
-            "last_30d": 365.11883333333327,
-            "last_90d": 379.00825974025975
+            "last_24h": 291.283,
+            "last_7d": 280.249,
+            "last_30d": 293.40727272727275,
+            "last_90d": 346.6278205128205
         }
     },
     "★ Skeleton Knife | Blue Steel (Well-Worn)": {
         "steam": {
-            "last_24h": 334.735,
-            "last_7d": 317.1951666666667,
-            "last_30d": 302.8346071428572,
-            "last_90d": 307.98802739726034
+            "last_24h": null,
+            "last_7d": 232.14533333333335,
+            "last_30d": 249.26616666666663,
+            "last_90d": 280.5273235294117
         }
     },
     "★ Skeleton Knife | Boreal Forest (Battle-Scarred)": {
@@ -212025,10 +212025,10 @@
     },
     "★ Skeleton Knife | Damascus Steel (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 352.23637500000007,
-            "last_30d": 338.596619047619,
-            "last_90d": 356.21691719745235
+            "last_24h": 266.561,
+            "last_7d": 278.3525,
+            "last_30d": 280.49355172413783,
+            "last_90d": 313.5579591836736
         }
     },
     "★ Skeleton Knife | Damascus Steel (Field-Tested)": {
@@ -212041,10 +212041,10 @@
     },
     "★ Skeleton Knife | Damascus Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": 305.20466666666664,
-            "last_7d": 317.37729411764707,
-            "last_30d": 316.8974827586207,
-            "last_90d": 323.21526842105266
+            "last_24h": 229.016,
+            "last_7d": 234.3571333333333,
+            "last_30d": 253.4264754098361,
+            "last_90d": 280.09827544910183
         }
     },
     "★ Skeleton Knife | Damascus Steel (Well-Worn)": {
@@ -212057,34 +212057,34 @@
     },
     "★ Skeleton Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 978.3164,
-            "last_7d": 945.9962083333335,
-            "last_30d": 967.7857788461539,
-            "last_90d": 972.1633913043484
+            "last_24h": 727.5023333333334,
+            "last_7d": 734.9520000000001,
+            "last_30d": 754.8913255813954,
+            "last_90d": 862.7844240282681
         }
     },
     "★ Skeleton Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 855.0525,
-            "last_90d": 1113.245090909091
+            "last_30d": 650.003,
+            "last_90d": 818.6051249999999
         }
     },
     "★ Skeleton Knife | Fade (Factory New)": {
         "steam": {
-            "last_24h": 806.33,
-            "last_7d": 771.4180769230769,
-            "last_30d": 769.3195319148937,
-            "last_90d": 792.5553265306122
+            "last_24h": null,
+            "last_7d": 571.6714117647058,
+            "last_30d": 589.2007249999999,
+            "last_90d": 682.7967363636362
         }
     },
     "★ Skeleton Knife | Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 750,
-            "last_30d": 834.556,
-            "last_90d": 828.0436666666666
+            "last_7d": null,
+            "last_30d": 641.8299999999999,
+            "last_90d": 687.8866666666667
         }
     },
     "★ Skeleton Knife | Forest DDPAT (Battle-Scarred)": {
@@ -212129,58 +212129,58 @@
     },
     "★ Skeleton Knife | Marble Fade (Factory New)": {
         "steam": {
-            "last_24h": 560.8974000000001,
-            "last_7d": 562.4702857142856,
-            "last_30d": 575.7543125000001,
-            "last_90d": 580.648443661972
+            "last_24h": 454.702,
+            "last_7d": 439.79095454545455,
+            "last_30d": 445.13733884297534,
+            "last_90d": 507.3322139037433
         }
     },
     "★ Skeleton Knife | Marble Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 616.6887777777778
+            "last_7d": 516.24,
+            "last_30d": 516.24,
+            "last_90d": 591.0531249999999
         }
     },
     "★ Skeleton Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
-            "last_24h": 199.846,
-            "last_7d": 190.24912500000002,
-            "last_30d": 187.41804651162786,
-            "last_90d": 194.6358869565217
+            "last_24h": null,
+            "last_7d": 150.13133333333334,
+            "last_30d": 158.30965217391307,
+            "last_90d": 172.46069696969704
         }
     },
     "★ Skeleton Knife | Night Stripe (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 506.872
+            "last_7d": 401.529,
+            "last_30d": 401.529,
+            "last_90d": 381.5886
         }
     },
     "★ Skeleton Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 223.6975,
-            "last_7d": 213.4177619047619,
-            "last_30d": 211.89629473684207,
-            "last_90d": 217.54673584905655
+            "last_24h": 160.00300000000001,
+            "last_7d": 164.90218181818182,
+            "last_30d": 173.50334782608704,
+            "last_90d": 192.1774928571428
         }
     },
     "★ Skeleton Knife | Night Stripe (Minimal Wear)": {
         "steam": {
-            "last_24h": 228.68,
-            "last_7d": 243.453,
-            "last_30d": 242.30604545454543,
-            "last_90d": 251.98795714285714
+            "last_24h": 163.8066666666667,
+            "last_7d": 173.42557142857143,
+            "last_30d": 186.18349999999998,
+            "last_90d": 202.68404347826083
         }
     },
     "★ Skeleton Knife | Night Stripe (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 208.4962,
-            "last_30d": 203.7589375,
-            "last_90d": 210.9758780487805
+            "last_24h": 149.05,
+            "last_7d": 164.02949999999998,
+            "last_30d": 171.12328571428571,
+            "last_90d": 185.67970833333325
         }
     },
     "★ Skeleton Knife | Rust Coat (Battle-Scarred)": {
@@ -212201,42 +212201,42 @@
     },
     "★ Skeleton Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": 160.013,
-            "last_7d": 155.4525,
-            "last_30d": 153.42538095238095,
-            "last_90d": 156.90419101123595
+            "last_24h": 117.64,
+            "last_7d": 117.1965,
+            "last_30d": 129.384,
+            "last_90d": 141.57049295774644
         }
     },
     "★ Skeleton Knife | Safari Mesh (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 326.035,
-            "last_90d": 303.58140000000003
+            "last_30d": null,
+            "last_90d": 308.49649999999997
         }
     },
     "★ Skeleton Knife | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 155.29,
-            "last_7d": 161.88830000000002,
-            "last_30d": 159.3320760869565,
-            "last_90d": 160.982875
+            "last_24h": 133.40266666666665,
+            "last_7d": 128.5984210526316,
+            "last_30d": 135.07377464788738,
+            "last_90d": 148.24889417989417
         }
     },
     "★ Skeleton Knife | Safari Mesh (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 173.7685,
-            "last_30d": 165.02957142857144,
-            "last_90d": 170.44274683544302
+            "last_7d": 122.1,
+            "last_30d": 133.20455555555554,
+            "last_90d": 157.2108780487805
         }
     },
     "★ Skeleton Knife | Safari Mesh (Well-Worn)": {
         "steam": {
-            "last_24h": 170,
-            "last_7d": 152.11333333333332,
-            "last_30d": 157.38123529411766,
-            "last_90d": 158.0946
+            "last_24h": 127.922,
+            "last_7d": 126.3366,
+            "last_30d": 131.74545454545452,
+            "last_90d": 141.49232432432427
         }
     },
     "★ Skeleton Knife | Scorched (Battle-Scarred)": {
@@ -212281,26 +212281,26 @@
     },
     "★ Skeleton Knife | Slaughter (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 389.2043333333333,
-            "last_30d": 606.0357200000001,
-            "last_90d": 633.644
+            "last_24h": 470.259,
+            "last_7d": 496.0263333333333,
+            "last_30d": 504.57237499999997,
+            "last_90d": 578.8342666666666
         }
     },
     "★ Skeleton Knife | Slaughter (Field-Tested)": {
         "steam": {
-            "last_24h": 494.56,
-            "last_7d": 505.95500000000004,
-            "last_30d": 525.7136666666668,
-            "last_90d": 552.2819166666667
+            "last_24h": 424.9,
+            "last_7d": 424.9,
+            "last_30d": 441.9026,
+            "last_90d": 498.6061818181819
         }
     },
     "★ Skeleton Knife | Slaughter (Minimal Wear)": {
         "steam": {
-            "last_24h": 535.8666666666667,
-            "last_7d": 551.7686666666666,
-            "last_30d": 550.2189433962266,
-            "last_90d": 567.5648013698632
+            "last_24h": null,
+            "last_7d": 461.651,
+            "last_30d": 473.6830322580646,
+            "last_90d": 515.1035673076924
         }
     },
     "★ Skeleton Knife | Stained (Battle-Scarred)": {
@@ -212345,18 +212345,18 @@
     },
     "★ Skeleton Knife | Tiger Tooth (Factory New)": {
         "steam": {
-            "last_24h": 469.7036666666667,
-            "last_7d": 469.8509729729729,
-            "last_30d": 463.35114999999996,
-            "last_90d": 473.9847069767442
+            "last_24h": 354.365,
+            "last_7d": 362.8903461538461,
+            "last_30d": 362.109123287671,
+            "last_90d": 409.2219999999998
         }
     },
     "★ Skeleton Knife | Tiger Tooth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 454.05,
-            "last_30d": 450.44475000000006,
-            "last_90d": 477.10733333333326
+            "last_7d": null,
+            "last_30d": 410.71275,
+            "last_90d": 432.1492307692308
         }
     },
     "★ Skeleton Knife | Ultraviolet (Battle-Scarred)": {
@@ -212402,41 +212402,41 @@
     "★ Skeleton Knife | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 170.78019999999998,
-            "last_30d": 175.6221212121213,
-            "last_90d": 179.31099009900987
+            "last_7d": 85.37,
+            "last_30d": 150.29841666666664,
+            "last_90d": 162.5817384615385
         }
     },
     "★ Skeleton Knife | Urban Masked (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 324.96,
-            "last_30d": 324.96,
-            "last_90d": 432.10999999999996
+            "last_24h": 345,
+            "last_7d": 345,
+            "last_30d": 361.01,
+            "last_90d": 379.73533333333336
         }
     },
     "★ Skeleton Knife | Urban Masked (Field-Tested)": {
         "steam": {
-            "last_24h": 190.86183333333335,
-            "last_7d": 194.1644411764706,
-            "last_30d": 195.33375862068974,
-            "last_90d": 198.348818556701
+            "last_24h": 151.1115,
+            "last_7d": 159.84857692307693,
+            "last_30d": 164.38464754098356,
+            "last_90d": 180.25537082066862
         }
     },
     "★ Skeleton Knife | Urban Masked (Minimal Wear)": {
         "steam": {
-            "last_24h": 250.027,
-            "last_7d": 249.779375,
-            "last_30d": 230.57975609756093,
-            "last_90d": 236.79374615384614
+            "last_24h": 190,
+            "last_7d": 193.887,
+            "last_30d": 194.7401071428571,
+            "last_90d": 212.38510714285718
         }
     },
     "★ Skeleton Knife | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 195.92149999999998,
-            "last_30d": 186.0665,
-            "last_90d": 193.37137500000003
+            "last_7d": 164.14999999999998,
+            "last_30d": 160.39618181818182,
+            "last_90d": 173.16007547169812
         }
     },
     "★ Specialist Gloves | Big Swell (Battle-Scarred)": {
@@ -219916,7 +219916,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 869.34
+            "last_90d": 945.3766666666667
         }
     },
     "★ StatTrak™ Karambit | Autotronic (Factory New)": {
@@ -219924,39 +219924,39 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 1878.72
         }
     },
     "★ StatTrak™ Karambit | Autotronic (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1199,
-            "last_90d": 1187.9248750000002
+            "last_7d": 919.999,
+            "last_30d": 914.8072500000001,
+            "last_90d": 1007.4115
         }
     },
     "★ StatTrak™ Karambit | Autotronic (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 1725,
-            "last_30d": 1636.1595,
-            "last_90d": 1553.4396666666664
+            "last_24h": 1036.923,
+            "last_7d": 1036.923,
+            "last_30d": 1036.923,
+            "last_90d": 1036.923
         }
     },
     "★ StatTrak™ Karambit | Autotronic (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 1037.454
+            "last_7d": 701,
+            "last_30d": 701,
+            "last_90d": 993.7573333333333
         }
     },
     "★ StatTrak™ Karambit | Black Laminate (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 774.8,
-            "last_90d": 829.6693333333333
+            "last_30d": null,
+            "last_90d": 822.6179999999999
         }
     },
     "★ StatTrak™ Karambit | Black Laminate (Factory New)": {
@@ -219971,8 +219971,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 847.2075,
-            "last_90d": 837.2925
+            "last_30d": 774.307,
+            "last_90d": 942.46425
         }
     },
     "★ StatTrak™ Karambit | Black Laminate (Minimal Wear)": {
@@ -219980,15 +219980,15 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1115.1950000000002
+            "last_90d": 1192.33
         }
     },
     "★ StatTrak™ Karambit | Black Laminate (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 828,
-            "last_30d": 879.5985,
-            "last_90d": 812.7339090909092
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 853.2708
         }
     },
     "★ StatTrak™ Karambit | Blue Steel (Battle-Scarred)": {
@@ -220115,8 +220115,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 720.22,
-            "last_90d": 1094.3733333333332
+            "last_30d": 810.938,
+            "last_90d": 829.60325
         }
     },
     "★ StatTrak™ Karambit | Case Hardened (Factory New)": {
@@ -220132,23 +220132,23 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1375.2845
+            "last_90d": 1157.4726666666668
         }
     },
     "★ StatTrak™ Karambit | Case Hardened (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 1123.25,
-            "last_90d": 1136.625
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ StatTrak™ Karambit | Case Hardened (Well-Worn)": {
         "steam": {
-            "last_24h": 1300.005,
-            "last_7d": 1300.005,
-            "last_30d": 1300.005,
-            "last_90d": 1300.005
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 812.04,
+            "last_90d": 968.445
         }
     },
     "★ StatTrak™ Karambit | Crimson Web (Battle-Scarred)": {
@@ -220226,9 +220226,9 @@
     "★ StatTrak™ Karambit | Doppler (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1705.22,
-            "last_30d": 1721.7105999999999,
-            "last_90d": 1747.293285714286
+            "last_7d": null,
+            "last_30d": 1636.58,
+            "last_90d": 1643.0980000000002
         }
     },
     "★ StatTrak™ Karambit | Doppler (Minimal Wear)": {
@@ -220242,9 +220242,9 @@
     "★ StatTrak™ Karambit | Fade (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1999.64,
-            "last_90d": 1999.64
+            "last_7d": 1.93,
+            "last_30d": 1.93,
+            "last_90d": 730.215
         }
     },
     "★ StatTrak™ Karambit | Fade (Minimal Wear)": {
@@ -220338,9 +220338,9 @@
     "★ StatTrak™ Karambit | Gamma Doppler (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1746.89,
-            "last_90d": 1746.89
+            "last_7d": 1799.75,
+            "last_30d": 1799.75,
+            "last_90d": 1788.86
         }
     },
     "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)": {
@@ -220348,47 +220348,47 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1820.06
+            "last_90d": null
         }
     },
     "★ StatTrak™ Karambit | Lore (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 680.327,
-            "last_30d": 757.0385,
-            "last_90d": 772.5436666666668
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 519.98
         }
     },
     "★ StatTrak™ Karambit | Lore (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 1300,
-            "last_90d": 1300
+            "last_24h": 1428.37,
+            "last_7d": 1428.37,
+            "last_30d": 1428.37,
+            "last_90d": 1428.37
         }
     },
     "★ StatTrak™ Karambit | Lore (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 835.8273333333333,
-            "last_90d": 841.5685714285713
+            "last_30d": 658.67,
+            "last_90d": 853.66
         }
     },
     "★ StatTrak™ Karambit | Lore (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 1184.74
+            "last_7d": 1263.844,
+            "last_30d": 1116.892,
+            "last_90d": 1155.0465
         }
     },
     "★ StatTrak™ Karambit | Lore (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 758.022,
-            "last_30d": 788.994,
-            "last_90d": 729.32625
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ StatTrak™ Karambit | Marble Fade (Factory New)": {
@@ -220450,9 +220450,9 @@
     "★ StatTrak™ Karambit | Rust Coat (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 683.7520000000001,
-            "last_30d": 658.1776666666668,
-            "last_90d": 666.6754285714285
+            "last_7d": 547.236,
+            "last_30d": 542.0261666666667,
+            "last_90d": 610.5684615384616
         }
     },
     "★ StatTrak™ Karambit | Rust Coat (Well-Worn)": {
@@ -220460,7 +220460,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 607.559
         }
     },
     "★ StatTrak™ Karambit | Safari Mesh (Battle-Scarred)": {
@@ -220468,7 +220468,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 449.04
+            "last_90d": 463.255
         }
     },
     "★ StatTrak™ Karambit | Safari Mesh (Factory New)": {
@@ -220482,9 +220482,9 @@
     "★ StatTrak™ Karambit | Safari Mesh (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 532.7316666666667,
-            "last_30d": 482.52866666666665,
-            "last_90d": 488.2244166666667
+            "last_7d": 438.77250000000004,
+            "last_30d": 441.41425000000004,
+            "last_90d": 501.372625
         }
     },
     "★ StatTrak™ Karambit | Safari Mesh (Minimal Wear)": {
@@ -220499,8 +220499,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 496.185,
-            "last_90d": 496.185
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ StatTrak™ Karambit | Scorched (Battle-Scarred)": {
@@ -220508,7 +220508,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 579.6324999999999
+            "last_90d": 583.5445
         }
     },
     "★ StatTrak™ Karambit | Scorched (Factory New)": {
@@ -220523,24 +220523,24 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 565.144,
-            "last_90d": 590.478
+            "last_30d": null,
+            "last_90d": 617.3362500000001
         }
     },
     "★ StatTrak™ Karambit | Scorched (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 575.71
+            "last_30d": 706.715,
+            "last_90d": 760.0074999999999
         }
     },
     "★ StatTrak™ Karambit | Scorched (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 512.446
+            "last_30d": 500.011,
+            "last_90d": 543.5135
         }
     },
     "★ StatTrak™ Karambit | Slaughter (Factory New)": {
@@ -220627,8 +220627,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 621.4576666666667,
-            "last_90d": 607.8030999999999
+            "last_30d": null,
+            "last_90d": 643.8093333333333
         }
     },
     "★ StatTrak™ Karambit | Ultraviolet (Factory New)": {
@@ -220642,9 +220642,9 @@
     "★ StatTrak™ Karambit | Ultraviolet (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 750.026,
-            "last_30d": 694.4828333333334,
-            "last_90d": 693.3478333333334
+            "last_7d": null,
+            "last_30d": 538.9555,
+            "last_90d": 554.308
         }
     },
     "★ StatTrak™ Karambit | Ultraviolet (Minimal Wear)": {
@@ -220659,16 +220659,16 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 699.0045,
-            "last_90d": 651.9571111111112
+            "last_30d": 588.36,
+            "last_90d": 596.4253333333335
         }
     },
     "★ StatTrak™ Karambit | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 525.195,
-            "last_90d": 525.195
+            "last_7d": 425,
+            "last_30d": 463.49933333333337,
+            "last_90d": 455.272
         }
     },
     "★ StatTrak™ Karambit | Urban Masked (Factory New)": {
@@ -220682,25 +220682,25 @@
     "★ StatTrak™ Karambit | Urban Masked (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 548.6419999999999,
-            "last_30d": 557.428,
-            "last_90d": 578.3208571428571
+            "last_7d": 531.013,
+            "last_30d": 531.013,
+            "last_90d": 549.0345
         }
     },
     "★ StatTrak™ Karambit | Urban Masked (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 675.332,
-            "last_30d": 675.332,
-            "last_90d": 693.3436666666666
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 809.894
         }
     },
     "★ StatTrak™ Karambit | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 345,
-            "last_90d": 436.2806666666667
+            "last_30d": null,
+            "last_90d": 479.155
         }
     },
     "★ StatTrak™ Kukri Knife": {
@@ -220753,10 +220753,10 @@
     },
     "★ StatTrak™ Kukri Knife | Boreal Forest (Battle-Scarred)": {
         "steam": {
-            "last_24h": 62.5765,
-            "last_7d": 65.24,
-            "last_30d": 65.8704347826087,
-            "last_90d": 70.27810256410257
+            "last_24h": 49.269499999999994,
+            "last_7d": 49.566333333333326,
+            "last_30d": 49.022999999999996,
+            "last_90d": 54.02181443298968
         }
     },
     "★ StatTrak™ Kukri Knife | Boreal Forest (Factory New)": {
@@ -220833,10 +220833,10 @@
     },
     "★ StatTrak™ Kukri Knife | Crimson Web (Battle-Scarred)": {
         "steam": {
-            "last_24h": 118.35,
-            "last_7d": 112.17183333333334,
-            "last_30d": 116.36800000000002,
-            "last_90d": 124.54508988764047
+            "last_24h": null,
+            "last_7d": 88.2221,
+            "last_30d": 99.04276470588236,
+            "last_90d": 103.2834897959184
         }
     },
     "★ StatTrak™ Kukri Knife | Crimson Web (Factory New)": {
@@ -220849,26 +220849,26 @@
     },
     "★ StatTrak™ Kukri Knife | Crimson Web (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 136.91649999999998,
-            "last_30d": 142.56226086956522,
-            "last_90d": 149.85737288135593
+            "last_24h": 112.02199999999999,
+            "last_7d": 108.73428571428572,
+            "last_30d": 109.7441212121212,
+            "last_90d": 120.72985393258429
         }
     },
     "★ StatTrak™ Kukri Knife | Crimson Web (Minimal Wear)": {
         "steam": {
-            "last_24h": 160.2,
-            "last_7d": 184.92399999999998,
-            "last_30d": 190.09555555555553,
-            "last_90d": 201.58010714285712
+            "last_24h": null,
+            "last_7d": 110.43,
+            "last_30d": 166.01257142857142,
+            "last_90d": 173.37530769230773
         }
     },
     "★ StatTrak™ Kukri Knife | Crimson Web (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 134.95,
-            "last_30d": 127.8733,
-            "last_90d": 135.97815999999997
+            "last_7d": null,
+            "last_30d": 105.79416666666667,
+            "last_90d": 120.1658947368421
         }
     },
     "★ StatTrak™ Kukri Knife | Fade (Factory New)": {
@@ -220940,23 +220940,23 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 502.823
+            "last_90d": null
         }
     },
     "★ StatTrak™ Kukri Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 75.95750000000001,
-            "last_7d": 77.00134999999997,
-            "last_30d": 76.99332835820893,
-            "last_90d": 84.706814479638
+            "last_24h": 58.973,
+            "last_7d": 61.68875,
+            "last_30d": 60.74717021276593,
+            "last_90d": 66.86327142857142
         }
     },
     "★ StatTrak™ Kukri Knife | Night Stripe (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 103.91366666666666,
-            "last_30d": 105.64883333333334,
-            "last_90d": 113.42375000000003
+            "last_7d": 73.33500000000001,
+            "last_30d": 77.83542857142857,
+            "last_90d": 88.19064864864865
         }
     },
     "★ StatTrak™ Kukri Knife | Night Stripe (Well-Worn)": {
@@ -220969,10 +220969,10 @@
     },
     "★ StatTrak™ Kukri Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": 71.87,
-            "last_7d": 62.81975,
-            "last_30d": 66.51481818181816,
-            "last_90d": 71.26054022988511
+            "last_24h": 50.71,
+            "last_7d": 47.8934,
+            "last_30d": 53.06783333333333,
+            "last_90d": 59.43308333333334
         }
     },
     "★ StatTrak™ Kukri Knife | Safari Mesh (Factory New)": {
@@ -220980,71 +220980,71 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 232.2485
+            "last_90d": 148.403
         }
     },
     "★ StatTrak™ Kukri Knife | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 61.921499999999995,
-            "last_7d": 60.33515,
-            "last_30d": 62.75616455696201,
-            "last_90d": 67.31597590361447
+            "last_24h": null,
+            "last_7d": 49.8206,
+            "last_30d": 49.21903225806452,
+            "last_90d": 54.85482383419689
         }
     },
     "★ StatTrak™ Kukri Knife | Safari Mesh (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 72.2375,
-            "last_30d": 72.3489375,
-            "last_90d": 79.749921875
+            "last_24h": 55.504,
+            "last_7d": 54.84475,
+            "last_30d": 53.153470588235294,
+            "last_90d": 64.70827083333334
         }
     },
     "★ StatTrak™ Kukri Knife | Safari Mesh (Well-Worn)": {
         "steam": {
-            "last_24h": 61.96,
-            "last_7d": 58.75725,
-            "last_30d": 58.733250000000005,
-            "last_90d": 67.38387500000002
+            "last_24h": null,
+            "last_7d": 49.97933333333333,
+            "last_30d": 47.03452380952381,
+            "last_90d": 53.27751785714285
         }
     },
     "★ StatTrak™ Kukri Knife | Scorched (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 73.65,
-            "last_30d": 74.88799999999999,
-            "last_90d": 80.71489189189187
+            "last_7d": 53.18642857142857,
+            "last_30d": 54.679517241379315,
+            "last_90d": 60.78291891891892
         }
     },
     "★ StatTrak™ Kukri Knife | Scorched (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 403.483
+            "last_7d": 208.3,
+            "last_30d": 208.3,
+            "last_90d": 208.3
         }
     },
     "★ StatTrak™ Kukri Knife | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 73.35206666666667,
-            "last_30d": 71.6992089552239,
-            "last_90d": 78.61680568720381
+            "last_24h": 49.99,
+            "last_7d": 54.59533333333334,
+            "last_30d": 54.77732352941176,
+            "last_90d": 60.878265957446736
         }
     },
     "★ StatTrak™ Kukri Knife | Scorched (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 99.739,
-            "last_30d": 95.3953157894737,
-            "last_90d": 105.09246296296294
+            "last_7d": 69.43280000000001,
+            "last_30d": 73.47400000000002,
+            "last_90d": 84.84969047619046
         }
     },
     "★ StatTrak™ Kukri Knife | Scorched (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 66.27033333333333,
-            "last_30d": 66.8063,
-            "last_90d": 74.0250980392157
+            "last_7d": 48.33,
+            "last_30d": 53.595,
+            "last_90d": 59.424808510638314
         }
     },
     "★ StatTrak™ Kukri Knife | Slaughter (Factory New)": {
@@ -221241,10 +221241,10 @@
     },
     "★ StatTrak™ M9 Bayonet | Blue Steel (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 618.43
+            "last_24h": 451,
+            "last_7d": 451,
+            "last_30d": 494.6775,
+            "last_90d": 494.6775
         }
     },
     "★ StatTrak™ M9 Bayonet | Blue Steel (Factory New)": {
@@ -221252,103 +221252,103 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 798.85
         }
     },
     "★ StatTrak™ M9 Bayonet | Blue Steel (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 671.075,
-            "last_90d": 667.0362500000001
+            "last_30d": null,
+            "last_90d": 747.466
         }
     },
     "★ StatTrak™ M9 Bayonet | Blue Steel (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 825.6796000000002
+            "last_30d": 540.7605,
+            "last_90d": 584.507
         }
     },
     "★ StatTrak™ M9 Bayonet | Blue Steel (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 617.7925,
-            "last_30d": 617.7925,
-            "last_90d": 640.2518
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 681.77
         }
     },
     "★ StatTrak™ M9 Bayonet | Boreal Forest (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 408.398
+            "last_30d": 352.68,
+            "last_90d": 345.96500000000003
         }
     },
     "★ StatTrak™ M9 Bayonet | Boreal Forest (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 409.5756666666666,
-            "last_90d": 425.30057142857135
+            "last_30d": 383.6035,
+            "last_90d": 363.61899999999997
         }
     },
     "★ StatTrak™ M9 Bayonet | Boreal Forest (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 320.01,
+            "last_90d": 436.01099999999997
         }
     },
     "★ StatTrak™ M9 Bayonet | Boreal Forest (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 395.3495,
-            "last_90d": 375.9462
+            "last_30d": 416.24,
+            "last_90d": 407.1033333333333
         }
     },
     "★ StatTrak™ M9 Bayonet | Bright Water (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 500.527,
-            "last_30d": 448.4583333333333,
-            "last_90d": 392.93
+            "last_24h": 341.632,
+            "last_7d": 341.632,
+            "last_30d": 351.0065,
+            "last_90d": 341.218
         }
     },
     "★ StatTrak™ M9 Bayonet | Bright Water (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 558.13,
-            "last_90d": 599.1775
+            "last_30d": null,
+            "last_90d": 527.15
         }
     },
     "★ StatTrak™ M9 Bayonet | Bright Water (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 502.2,
-            "last_90d": 471.7317777777778
+            "last_30d": 384.9665,
+            "last_90d": 464.22954545454553
         }
     },
     "★ StatTrak™ M9 Bayonet | Bright Water (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 515.9255
+            "last_30d": 400,
+            "last_90d": 459.235
         }
     },
     "★ StatTrak™ M9 Bayonet | Bright Water (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 408.25,
-            "last_90d": 409.595
+            "last_30d": 374.962,
+            "last_90d": 404.21639999999996
         }
     },
     "★ StatTrak™ M9 Bayonet | Case Hardened (Battle-Scarred)": {
@@ -221396,31 +221396,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 713.1600000000001
+            "last_90d": null
         }
     },
     "★ StatTrak™ M9 Bayonet | Crimson Web (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 649.7235000000001,
-            "last_90d": 637.87875
+            "last_30d": 657.6579999999999,
+            "last_90d": 627.0440000000001
         }
     },
     "★ StatTrak™ M9 Bayonet | Crimson Web (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 1102,
-            "last_90d": 1102
+            "last_30d": null,
+            "last_90d": 1265
         }
     },
     "★ StatTrak™ M9 Bayonet | Crimson Web (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 561.6
+            "last_30d": 436.85,
+            "last_90d": 482.785
         }
     },
     "★ StatTrak™ M9 Bayonet | Damascus Steel (Battle-Scarred)": {
@@ -221435,24 +221435,24 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 667.1456666666667,
-            "last_90d": 690.3394000000001
+            "last_30d": null,
+            "last_90d": 736.1949999999999
         }
     },
     "★ StatTrak™ M9 Bayonet | Damascus Steel (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 500.02,
-            "last_30d": 589.2565,
-            "last_90d": 570.78525
+            "last_7d": null,
+            "last_30d": 700.925,
+            "last_90d": 602.41775
         }
     },
     "★ StatTrak™ M9 Bayonet | Damascus Steel (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 640.016,
-            "last_90d": 606.6226666666666
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ StatTrak™ M9 Bayonet | Damascus Steel (Well-Worn)": {
@@ -221460,15 +221460,15 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 561.829
+            "last_90d": null
         }
     },
     "★ StatTrak™ M9 Bayonet | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 1356.63,
-            "last_7d": 1404.0910000000001,
-            "last_30d": 1394.444888888889,
-            "last_90d": 1395.6531666666665
+            "last_24h": null,
+            "last_7d": 632.078,
+            "last_30d": 1142.5441818181819,
+            "last_90d": 1275.5323750000002
         }
     },
     "★ StatTrak™ M9 Bayonet | Doppler (Minimal Wear)": {
@@ -221476,7 +221476,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1437.501
+            "last_90d": 1283.69
         }
     },
     "★ StatTrak™ M9 Bayonet | Fade (Factory New)": {
@@ -221499,8 +221499,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 290,
+            "last_90d": 287.76
         }
     },
     "★ StatTrak™ M9 Bayonet | Forest DDPAT (Factory New)": {
@@ -221539,32 +221539,32 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 449.5,
-            "last_90d": 449.5
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "★ StatTrak™ M9 Bayonet | Freehand (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 556.75,
-            "last_90d": 639.003
+            "last_30d": null,
+            "last_90d": 656.9984999999999
         }
     },
     "★ StatTrak™ M9 Bayonet | Freehand (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 511.78650000000005,
-            "last_90d": 501.03580000000005
+            "last_30d": 349.06899999999996,
+            "last_90d": 463.68564285714285
         }
     },
     "★ StatTrak™ M9 Bayonet | Freehand (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 524.36,
-            "last_30d": 527.6800000000001,
-            "last_90d": 561.4873333333334
+            "last_7d": 436.68,
+            "last_30d": 458.545,
+            "last_90d": 549.149
         }
     },
     "★ StatTrak™ M9 Bayonet | Freehand (Well-Worn)": {
@@ -221572,7 +221572,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 439.85425000000004
+            "last_90d": 427.2323333333334
         }
     },
     "★ StatTrak™ M9 Bayonet | Gamma Doppler (Factory New)": {
@@ -221634,9 +221634,9 @@
     "★ StatTrak™ M9 Bayonet | Marble Fade (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1162.376,
-            "last_30d": 1165.261,
-            "last_90d": 1164.390818181818
+            "last_7d": 840.869,
+            "last_30d": 1114.3117499999998,
+            "last_90d": 1168.6512857142857
         }
     },
     "★ StatTrak™ M9 Bayonet | Marble Fade (Minimal Wear)": {
@@ -221644,7 +221644,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 993.5084999999999
+            "last_90d": null
         }
     },
     "★ StatTrak™ M9 Bayonet | Night (Battle-Scarred)": {
@@ -221772,23 +221772,23 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1508.8640000000003
+            "last_90d": 1228.286
         }
     },
     "★ StatTrak™ M9 Bayonet | Slaughter (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 878.279,
-            "last_90d": 892.93175
+            "last_30d": null,
+            "last_90d": 867.736
         }
     },
     "★ StatTrak™ M9 Bayonet | Slaughter (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 929.8625,
-            "last_30d": 929.8625,
-            "last_90d": 1019.7741428571428
+            "last_7d": 728.04,
+            "last_30d": 728.04,
+            "last_90d": 1032.7734
         }
     },
     "★ StatTrak™ M9 Bayonet | Stained (Battle-Scarred)": {
@@ -221804,23 +221804,23 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 678.735
         }
     },
     "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 533.48,
-            "last_30d": 581.84,
-            "last_90d": 564.3520000000001
+            "last_7d": 433.303,
+            "last_30d": 462.4786666666667,
+            "last_90d": 491.2871999999999
         }
     },
     "★ StatTrak™ M9 Bayonet | Stained (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 510.43,
-            "last_90d": 510.43
+            "last_30d": 492.56,
+            "last_90d": 492.56
         }
     },
     "★ StatTrak™ M9 Bayonet | Stained (Well-Worn)": {
@@ -221834,17 +221834,17 @@
     "★ StatTrak™ M9 Bayonet | Tiger Tooth (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1092.5,
-            "last_30d": 1032.4822,
-            "last_90d": 978.1256923076924
+            "last_7d": 676.92,
+            "last_30d": 796.48825,
+            "last_90d": 942.9991818181818
         }
     },
     "★ StatTrak™ M9 Bayonet | Tiger Tooth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 620,
+            "last_90d": 793.165
         }
     },
     "★ StatTrak™ M9 Bayonet | Ultraviolet (Battle-Scarred)": {
@@ -221937,10 +221937,10 @@
     },
     "★ StatTrak™ Navaja Knife | Blue Steel (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 80.74300000000001,
-            "last_90d": 93.06471428571429
+            "last_24h": 74.01,
+            "last_7d": 74.01,
+            "last_30d": 75.2595,
+            "last_90d": 79.10833333333333
         }
     },
     "★ StatTrak™ Navaja Knife | Blue Steel (Factory New)": {
@@ -221954,25 +221954,25 @@
     "★ StatTrak™ Navaja Knife | Blue Steel (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 101.02633333333334,
-            "last_30d": 96.042,
-            "last_90d": 98.00442857142858
+            "last_7d": 83.69500000000001,
+            "last_30d": 79.44820000000001,
+            "last_90d": 81.31618181818182
         }
     },
     "★ StatTrak™ Navaja Knife | Blue Steel (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 116.85566666666666,
-            "last_90d": 114.90600000000002
+            "last_30d": 57.16,
+            "last_90d": 96.58579999999999
         }
     },
     "★ StatTrak™ Navaja Knife | Blue Steel (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 73.97,
-            "last_30d": 90.22274999999999,
-            "last_90d": 97.0414
+            "last_7d": 66.61,
+            "last_30d": 66.61,
+            "last_90d": 79.53755555555557
         }
     },
     "★ StatTrak™ Navaja Knife | Boreal Forest (Battle-Scarred)": {
@@ -222091,48 +222091,48 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 79.574
+            "last_30d": 39.34,
+            "last_90d": 39.34
         }
     },
     "★ StatTrak™ Navaja Knife | Damascus Steel (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 113.522,
-            "last_30d": 107.18525,
-            "last_90d": 124.47604545454546
+            "last_7d": 82,
+            "last_30d": 82.303,
+            "last_90d": 88.20972222222223
         }
     },
     "★ StatTrak™ Navaja Knife | Damascus Steel (Field-Tested)": {
         "steam": {
-            "last_24h": 90.6,
-            "last_7d": 90.6,
-            "last_30d": 76.54729411764706,
-            "last_90d": 82.76606666666663
+            "last_24h": 57.168000000000006,
+            "last_7d": 57.9944,
+            "last_30d": 59.3040909090909,
+            "last_90d": 65.94125714285714
         }
     },
     "★ StatTrak™ Navaja Knife | Damascus Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": 93.1505,
-            "last_7d": 81.74033333333334,
-            "last_30d": 79.11357142857143,
-            "last_90d": 92.56974074074073
+            "last_24h": null,
+            "last_7d": 68.409,
+            "last_30d": 65.41783333333333,
+            "last_90d": 74.05017241379312
         }
     },
     "★ StatTrak™ Navaja Knife | Damascus Steel (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 72.92060000000001,
-            "last_90d": 80.63250000000001
+            "last_30d": 70.671,
+            "last_90d": 75.983
         }
     },
     "★ StatTrak™ Navaja Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 193.03,
-            "last_7d": 197.08674999999997,
-            "last_30d": 213.2349,
-            "last_90d": 242.28384615384616
+            "last_24h": null,
+            "last_7d": 171.708,
+            "last_30d": 171.87063636363638,
+            "last_90d": 186.16859999999994
         }
     },
     "★ StatTrak™ Navaja Knife | Doppler (Minimal Wear)": {
@@ -222140,7 +222140,7 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 208.49633333333335
+            "last_90d": 384.65
         }
     },
     "★ StatTrak™ Navaja Knife | Fade (Factory New)": {
@@ -222202,57 +222202,57 @@
     "★ StatTrak™ Navaja Knife | Marble Fade (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 161.37579999999997,
-            "last_30d": 165.76025,
-            "last_90d": 176.6459692307692
+            "last_7d": 120.674,
+            "last_30d": 120.70034615384611,
+            "last_90d": 134.51126000000002
         }
     },
     "★ StatTrak™ Navaja Knife | Marble Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 247.57,
-            "last_90d": 204.31333333333336
+            "last_30d": 108.075,
+            "last_90d": 141.1998
         }
     },
     "★ StatTrak™ Navaja Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 72.9429090909091
+            "last_7d": 52.631,
+            "last_30d": 53.19466666666667,
+            "last_90d": 58.88439999999999
         }
     },
     "★ StatTrak™ Navaja Knife | Night Stripe (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 187.59,
+            "last_90d": 187.59
         }
     },
     "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 77.46,
-            "last_30d": 69.91871428571429,
-            "last_90d": 79.01624137931034
+            "last_24h": 52.81,
+            "last_7d": 54.21666666666667,
+            "last_30d": 55.264454545454555,
+            "last_90d": 59.19303571428571
         }
     },
     "★ StatTrak™ Navaja Knife | Night Stripe (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 95.58325,
-            "last_90d": 84.5745
+            "last_7d": 64.318,
+            "last_30d": 59.678,
+            "last_90d": 61.0295
         }
     },
     "★ StatTrak™ Navaja Knife | Night Stripe (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 81,
-            "last_90d": 87.3058
+            "last_30d": 57.76,
+            "last_90d": 63.89274999999999
         }
     },
     "★ StatTrak™ Navaja Knife | Rust Coat (Battle-Scarred)": {
@@ -222273,10 +222273,10 @@
     },
     "★ StatTrak™ Navaja Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 59.393,
-            "last_90d": 67.51588888888888
+            "last_24h": 48.587,
+            "last_7d": 48.587,
+            "last_30d": 48.29260000000001,
+            "last_90d": 56.206105263157895
         }
     },
     "★ StatTrak™ Navaja Knife | Safari Mesh (Factory New)": {
@@ -222290,9 +222290,9 @@
     "★ StatTrak™ Navaja Knife | Safari Mesh (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 63.06999999999999,
-            "last_30d": 58.56349999999999,
-            "last_90d": 65.81563265306123
+            "last_7d": 47.498333333333335,
+            "last_30d": 46.33626666666667,
+            "last_90d": 53.10671875
         }
     },
     "★ StatTrak™ Navaja Knife | Safari Mesh (Minimal Wear)": {
@@ -222307,8 +222307,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 54.7695,
-            "last_90d": 73.03566666666667
+            "last_30d": 47.985,
+            "last_90d": 53.85333333333333
         }
     },
     "★ StatTrak™ Navaja Knife | Scorched (Battle-Scarred)": {
@@ -222354,25 +222354,25 @@
     "★ StatTrak™ Navaja Knife | Slaughter (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 166.52,
-            "last_30d": 166.52,
-            "last_90d": 195.5817777777778
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 154.125
         }
     },
     "★ StatTrak™ Navaja Knife | Slaughter (Field-Tested)": {
         "steam": {
-            "last_24h": 139.91,
-            "last_7d": 139.91,
-            "last_30d": 139.91,
-            "last_90d": 166.3465
+            "last_24h": null,
+            "last_7d": 93.99,
+            "last_30d": 112.506,
+            "last_90d": 121.72857142857141
         }
     },
     "★ StatTrak™ Navaja Knife | Slaughter (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 152.29500000000002,
-            "last_30d": 154.82083333333335,
-            "last_90d": 168.73041176470588
+            "last_24h": 114.262,
+            "last_7d": 114.262,
+            "last_30d": 115.9563333333333,
+            "last_90d": 132.50880952380953
         }
     },
     "★ StatTrak™ Navaja Knife | Stained (Battle-Scarred)": {
@@ -222417,18 +222417,18 @@
     },
     "★ StatTrak™ Navaja Knife | Tiger Tooth (Factory New)": {
         "steam": {
-            "last_24h": 128.831,
-            "last_7d": 120.397,
-            "last_30d": 125.09649999999998,
-            "last_90d": 135.22607352941174
+            "last_24h": null,
+            "last_7d": 92.5456,
+            "last_30d": 95.95266666666666,
+            "last_90d": 105.06090909090909
         }
     },
     "★ StatTrak™ Navaja Knife | Tiger Tooth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 112.155,
-            "last_30d": 112.155,
-            "last_90d": 103.3806
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 109.68825000000001
         }
     },
     "★ StatTrak™ Navaja Knife | Ultraviolet (Battle-Scarred)": {
@@ -222474,9 +222474,9 @@
     "★ StatTrak™ Navaja Knife | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 74.314,
-            "last_30d": 77.1445,
-            "last_90d": 80.86465217391303
+            "last_7d": null,
+            "last_30d": 59.754999999999995,
+            "last_90d": 63.47692307692307
         }
     },
     "★ StatTrak™ Navaja Knife | Urban Masked (Factory New)": {
@@ -222490,25 +222490,25 @@
     "★ StatTrak™ Navaja Knife | Urban Masked (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 66.9422,
-            "last_90d": 78.98653333333331
+            "last_7d": 60.710499999999996,
+            "last_30d": 55.96961538461538,
+            "last_90d": 62.21519230769232
         }
     },
     "★ StatTrak™ Navaja Knife | Urban Masked (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 103.794,
-            "last_30d": 103.794,
-            "last_90d": 108.82840000000002
+            "last_7d": 66.937,
+            "last_30d": 66.9275,
+            "last_90d": 70.58617647058823
         }
     },
     "★ StatTrak™ Navaja Knife | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 79.107,
-            "last_90d": 83.79599999999999
+            "last_7d": 48.8155,
+            "last_30d": 48.8155,
+            "last_90d": 56.44216666666667
         }
     },
     "★ StatTrak™ Nomad Knife": {
@@ -222642,33 +222642,33 @@
     "★ StatTrak™ Nomad Knife | Crimson Web (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 199.8903333333333,
-            "last_30d": 206.52628571428573,
-            "last_90d": 202.52656666666664
+            "last_7d": 156.95,
+            "last_30d": 164.7638,
+            "last_90d": 180.0282173913044
         }
     },
     "★ StatTrak™ Nomad Knife | Crimson Web (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 296.7,
-            "last_30d": 252.465,
-            "last_90d": 248.26085185185184
+            "last_7d": 181.01,
+            "last_30d": 201.19574999999998,
+            "last_90d": 220.7552857142857
         }
     },
     "★ StatTrak™ Nomad Knife | Crimson Web (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 396.15899999999993
+            "last_30d": 269.37149999999997,
+            "last_90d": 308.14340000000004
         }
     },
     "★ StatTrak™ Nomad Knife | Crimson Web (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 224.70816666666667,
-            "last_90d": 223.922
+            "last_30d": 201.708,
+            "last_90d": 218.6719
         }
     },
     "★ StatTrak™ Nomad Knife | Damascus Steel (Battle-Scarred)": {
@@ -222713,18 +222713,18 @@
     },
     "★ StatTrak™ Nomad Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 521.71,
-            "last_7d": 534.41475,
-            "last_30d": 576.5544705882353,
-            "last_90d": 632.4876610169492
+            "last_24h": null,
+            "last_7d": 548.4206666666666,
+            "last_30d": 556.4153333333333,
+            "last_90d": 571.6718484848484
         }
     },
     "★ StatTrak™ Nomad Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 1023.8215
+            "last_7d": 556.09,
+            "last_30d": 572.225,
+            "last_90d": 592.1690000000001
         }
     },
     "★ StatTrak™ Nomad Knife | Fade (Factory New)": {
@@ -222785,26 +222785,26 @@
     },
     "★ StatTrak™ Nomad Knife | Marble Fade (Factory New)": {
         "steam": {
-            "last_24h": 380.945,
-            "last_7d": 354.9626666666666,
-            "last_30d": 346.4577931034483,
-            "last_90d": 353.9988285714286
+            "last_24h": null,
+            "last_7d": 299.28299999999996,
+            "last_30d": 299.18683333333337,
+            "last_90d": 329.81375438596496
         }
     },
     "★ StatTrak™ Nomad Knife | Marble Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 330.033,
-            "last_90d": 358.313
+            "last_7d": 285.68,
+            "last_30d": 285.68,
+            "last_90d": 283.61628571428577
         }
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 106.6715,
-            "last_30d": 121.40485714285714,
-            "last_90d": 129.2349512195122
+            "last_7d": 98.27,
+            "last_30d": 105.5295,
+            "last_90d": 120.54332352941177
         }
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Factory New)": {
@@ -222817,26 +222817,26 @@
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 144.444,
-            "last_7d": 140.36499999999998,
-            "last_30d": 133.32074999999998,
-            "last_90d": 142.74004000000005
+            "last_24h": null,
+            "last_7d": 107.1,
+            "last_30d": 110.23071428571427,
+            "last_90d": 121.68228205128209
         }
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 137.14,
-            "last_90d": 148.28954545454548
+            "last_7d": 153.005,
+            "last_30d": 147.3905,
+            "last_90d": 148.68700000000004
         }
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 136.902,
-            "last_30d": 143.66766666666666,
-            "last_90d": 145.36
+            "last_7d": null,
+            "last_30d": 113.66550000000001,
+            "last_90d": 112.73140000000001
         }
     },
     "★ StatTrak™ Nomad Knife | Rust Coat (Battle-Scarred)": {
@@ -222857,10 +222857,10 @@
     },
     "★ StatTrak™ Nomad Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 103.561375,
-            "last_90d": 110.04277777777779
+            "last_24h": 85.4465,
+            "last_7d": 85.4465,
+            "last_30d": 83.06500000000001,
+            "last_90d": 91.11886666666668
         }
     },
     "★ StatTrak™ Nomad Knife | Safari Mesh (Factory New)": {
@@ -222868,39 +222868,39 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 395.48
+            "last_90d": null
         }
     },
     "★ StatTrak™ Nomad Knife | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 109.32722222222222,
-            "last_30d": 112.2187857142857,
-            "last_90d": 116.032152173913
+            "last_24h": 84.016,
+            "last_7d": 82.9095,
+            "last_30d": 86.04299999999999,
+            "last_90d": 98.87371794871792
         }
     },
     "★ StatTrak™ Nomad Knife | Safari Mesh (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 113.8325,
-            "last_30d": 113.207625,
-            "last_90d": 123.24519047619047
+            "last_7d": 91.691,
+            "last_30d": 95.03040000000001,
+            "last_90d": 102.044
         }
     },
     "★ StatTrak™ Nomad Knife | Safari Mesh (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 108.487,
-            "last_30d": 101.07999999999998,
-            "last_90d": 111.76689999999999
+            "last_7d": null,
+            "last_30d": 83.61240000000001,
+            "last_90d": 91.95435714285715
         }
     },
     "★ StatTrak™ Nomad Knife | Scorched (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 102.15,
-            "last_30d": 115.385375,
-            "last_90d": 125.17976190476189
+            "last_7d": 70.5,
+            "last_30d": 92.21072727272727,
+            "last_90d": 104.56124999999999
         }
     },
     "★ StatTrak™ Nomad Knife | Scorched (Factory New)": {
@@ -222908,31 +222908,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 404.899
+            "last_90d": null
         }
     },
     "★ StatTrak™ Nomad Knife | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": 121.15899999999999,
-            "last_7d": 120.6618,
-            "last_30d": 118.52923529411765,
-            "last_90d": 133.75889795918366
+            "last_24h": null,
+            "last_7d": 102.5235,
+            "last_30d": 101.88170588235297,
+            "last_90d": 112.60767500000001
         }
     },
     "★ StatTrak™ Nomad Knife | Scorched (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 145.40633333333332,
-            "last_90d": 166.086375
+            "last_30d": 115.852,
+            "last_90d": 152.28333333333333
         }
     },
     "★ StatTrak™ Nomad Knife | Scorched (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 102.75,
-            "last_30d": 102.75,
-            "last_90d": 128.91811111111113
+            "last_7d": 114.91,
+            "last_30d": 114.91,
+            "last_90d": 115.4465
         }
     },
     "★ StatTrak™ Nomad Knife | Slaughter (Factory New)": {
@@ -223017,10 +223017,10 @@
     },
     "★ StatTrak™ Nomad Knife | Ultraviolet (Battle-Scarred)": {
         "steam": {
-            "last_24h": 156.71,
-            "last_7d": 151.2298,
-            "last_30d": 150.25992857142856,
-            "last_90d": 151.55508510638302
+            "last_24h": null,
+            "last_7d": 126.9405,
+            "last_30d": 126.64700000000002,
+            "last_90d": 134.93464705882354
         }
     },
     "★ StatTrak™ Nomad Knife | Ultraviolet (Factory New)": {
@@ -223028,39 +223028,39 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 289.58
+            "last_90d": null
         }
     },
     "★ StatTrak™ Nomad Knife | Ultraviolet (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 180.6645,
-            "last_30d": 169.98370370370364,
-            "last_90d": 175.51073170731706
+            "last_24h": 157.47,
+            "last_7d": 144.953,
+            "last_30d": 147.40599999999998,
+            "last_90d": 153.33956896551723
         }
     },
     "★ StatTrak™ Nomad Knife | Ultraviolet (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 203.911,
-            "last_30d": 211.3884285714286,
-            "last_90d": 220.796375
+            "last_7d": null,
+            "last_30d": 185.23000000000002,
+            "last_90d": 202.97354545454544
         }
     },
     "★ StatTrak™ Nomad Knife | Ultraviolet (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 153.65825,
-            "last_30d": 158.66525000000001,
-            "last_90d": 173.7850476190476
+            "last_7d": 136.15550000000002,
+            "last_30d": 130.7967,
+            "last_90d": 140.7850909090909
         }
     },
     "★ StatTrak™ Nomad Knife | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 111.6104,
-            "last_90d": 129.00208695652174
+            "last_7d": 104.775,
+            "last_30d": 102.23833333333334,
+            "last_90d": 117.61257142857143
         }
     },
     "★ StatTrak™ Nomad Knife | Urban Masked (Factory New)": {
@@ -223073,26 +223073,26 @@
     },
     "★ StatTrak™ Nomad Knife | Urban Masked (Field-Tested)": {
         "steam": {
-            "last_24h": 143.8385,
-            "last_7d": 133.77642857142857,
-            "last_30d": 138.65758823529413,
-            "last_90d": 148.6232619047619
+            "last_24h": null,
+            "last_7d": 121.95519999999999,
+            "last_30d": 118.9945789473684,
+            "last_90d": 132.66091836734694
         }
     },
     "★ StatTrak™ Nomad Knife | Urban Masked (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 156.011,
-            "last_30d": 186.0555,
-            "last_90d": 170.80440000000002
+            "last_7d": 135.01,
+            "last_30d": 132.117,
+            "last_90d": 153.83638461538462
         }
     },
     "★ StatTrak™ Nomad Knife | Urban Masked (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 131.37333333333333,
-            "last_90d": 144.12586956521736
+            "last_24h": 117.99,
+            "last_7d": 117.99,
+            "last_30d": 110.4920909090909,
+            "last_90d": 119.16152173913041
         }
     },
     "★ StatTrak™ Paracord Knife": {
@@ -223891,40 +223891,40 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 166.38725,
-            "last_90d": 173.94685714285717
+            "last_30d": 132.0413333333333,
+            "last_90d": 129.25983333333332
         }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 383.73,
+            "last_90d": 383.73
         }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 126.5,
-            "last_30d": 165.2276,
-            "last_90d": 168.25835714285716
+            "last_7d": null,
+            "last_30d": 140.14000000000001,
+            "last_90d": 149.013
         }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 177.16,
-            "last_30d": 298.455,
-            "last_90d": 245.08720000000002
+            "last_7d": null,
+            "last_30d": 133.21,
+            "last_90d": 165.693
         }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 177.528,
-            "last_30d": 177.528,
-            "last_90d": 182.97580000000002
+            "last_7d": 141.941,
+            "last_30d": 128.331,
+            "last_90d": 130.11383333333336
         }
     },
     "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)": {
@@ -223964,47 +223964,47 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 97.31333333333333
+            "last_90d": 96.9985
         }
     },
     "★ StatTrak™ Shadow Daggers | Damascus Steel (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 145.81475
+            "last_7d": 145.551,
+            "last_30d": 120.91775,
+            "last_90d": 121.67677777777777
         }
     },
     "★ StatTrak™ Shadow Daggers | Damascus Steel (Field-Tested)": {
         "steam": {
-            "last_24h": 100.494,
-            "last_7d": 94.7952,
-            "last_30d": 90.612,
-            "last_90d": 93.03784782608697
+            "last_24h": null,
+            "last_7d": 70.13,
+            "last_30d": 68.89160000000001,
+            "last_90d": 81.0545925925926
         }
     },
     "★ StatTrak™ Shadow Daggers | Damascus Steel (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 92.32,
-            "last_30d": 94.0785,
-            "last_90d": 101.63168181818182
+            "last_24h": 76.4,
+            "last_7d": 76.59599999999999,
+            "last_30d": 73.197,
+            "last_90d": 79.33564
         }
     },
     "★ StatTrak™ Shadow Daggers | Damascus Steel (Well-Worn)": {
         "steam": {
-            "last_24h": 91.31,
-            "last_7d": 91.31,
-            "last_30d": 91.31,
-            "last_90d": 118.57066666666667
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 86.04575
         }
     },
     "★ StatTrak™ Shadow Daggers | Doppler (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 399.91425000000004,
-            "last_30d": 283.1067142857143,
-            "last_90d": 267.82440845070414
+            "last_7d": 177.537,
+            "last_30d": 219.30075,
+            "last_90d": 239.63254545454546
         }
     },
     "★ StatTrak™ Shadow Daggers | Doppler (Minimal Wear)": {
@@ -224018,17 +224018,17 @@
     "★ StatTrak™ Shadow Daggers | Fade (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 257.83,
-            "last_30d": 269.8311428571429,
-            "last_90d": 261.62043750000004
+            "last_7d": 180.379,
+            "last_30d": 180.379,
+            "last_90d": 212.2347777777778
         }
     },
     "★ StatTrak™ Shadow Daggers | Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 200,
+            "last_90d": 192
         }
     },
     "★ StatTrak™ Shadow Daggers | Forest DDPAT (Battle-Scarred)": {
@@ -224137,10 +224137,10 @@
     },
     "★ StatTrak™ Shadow Daggers | Lore (Factory New)": {
         "steam": {
-            "last_24h": 257.66,
-            "last_7d": 257.66,
-            "last_30d": 272.58000000000004,
-            "last_90d": 310.89160000000004
+            "last_24h": null,
+            "last_7d": 212.776,
+            "last_30d": 204.23700000000002,
+            "last_90d": 203.93124999999998
         }
     },
     "★ StatTrak™ Shadow Daggers | Lore (Field-Tested)": {
@@ -224154,9 +224154,9 @@
     "★ StatTrak™ Shadow Daggers | Lore (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 128.70499999999998,
-            "last_30d": 126.23874999999998,
-            "last_90d": 133.98264814814814
+            "last_7d": 89.82,
+            "last_30d": 85.85392857142857,
+            "last_90d": 101.22116216216216
         }
     },
     "★ StatTrak™ Shadow Daggers | Lore (Well-Worn)": {
@@ -224225,26 +224225,26 @@
     },
     "★ StatTrak™ Shadow Daggers | Rust Coat (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 76.51375,
-            "last_30d": 78.038,
-            "last_90d": 76.00007142857142
+            "last_24h": 63.965,
+            "last_7d": 60.545,
+            "last_30d": 58.47271428571428,
+            "last_90d": 66.72280769230768
         }
     },
     "★ StatTrak™ Shadow Daggers | Rust Coat (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 56.28,
-            "last_90d": 82.063
+            "last_30d": 89.918,
+            "last_90d": 147.274
         }
     },
     "★ StatTrak™ Shadow Daggers | Safari Mesh (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 67.1655,
-            "last_90d": 70.04366666666667
+            "last_30d": null,
+            "last_90d": 56.752
         }
     },
     "★ StatTrak™ Shadow Daggers | Safari Mesh (Factory New)": {
@@ -224258,57 +224258,57 @@
     "★ StatTrak™ Shadow Daggers | Safari Mesh (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 61.9378,
-            "last_90d": 68.29032000000001
+            "last_7d": 57.788,
+            "last_30d": 55.43911111111111,
+            "last_90d": 57.95009090909091
         }
     },
     "★ StatTrak™ Shadow Daggers | Safari Mesh (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 78.06,
-            "last_30d": 71.5775,
-            "last_90d": 74.86
+            "last_7d": 71.418,
+            "last_30d": 57.118142857142864,
+            "last_90d": 62.36983333333333
         }
     },
     "★ StatTrak™ Shadow Daggers | Safari Mesh (Well-Worn)": {
         "steam": {
-            "last_24h": 59.195,
-            "last_7d": 59.195,
-            "last_30d": 72.75125,
-            "last_90d": 67.61466666666666
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 52.308,
+            "last_90d": 52.57671428571428
         }
     },
     "★ StatTrak™ Shadow Daggers | Scorched (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 77.97649999999999,
-            "last_90d": 74.53575
+            "last_30d": 63.065,
+            "last_90d": 64.60142857142857
         }
     },
     "★ StatTrak™ Shadow Daggers | Scorched (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 75.055,
-            "last_30d": 75.136875,
-            "last_90d": 88.12071428571429
+            "last_24h": 49.575,
+            "last_7d": 53.38733333333334,
+            "last_30d": 59.30616666666666,
+            "last_90d": 71.38904166666667
         }
     },
     "★ StatTrak™ Shadow Daggers | Scorched (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 94.21600000000001,
-            "last_90d": 92.78383333333333
+            "last_30d": 88.34,
+            "last_90d": 100.516
         }
     },
     "★ StatTrak™ Shadow Daggers | Scorched (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 81.94575
+            "last_30d": 63.35,
+            "last_90d": 67.964
         }
     },
     "★ StatTrak™ Shadow Daggers | Slaughter (Factory New)": {
@@ -224339,8 +224339,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 114.3245,
-            "last_90d": 112.1546923076923
+            "last_30d": 90.453,
+            "last_90d": 95.42238461538462
         }
     },
     "★ StatTrak™ Shadow Daggers | Stained (Factory New)": {
@@ -224348,31 +224348,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 296.16
+            "last_90d": null
         }
     },
     "★ StatTrak™ Shadow Daggers | Stained (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 102.83166666666666,
-            "last_90d": 106.487
+            "last_7d": 78.94,
+            "last_30d": 81.95675,
+            "last_90d": 82.65172727272729
         }
     },
     "★ StatTrak™ Shadow Daggers | Stained (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 96.61,
-            "last_30d": 105.45785714285714,
-            "last_90d": 113.37641666666667
+            "last_7d": 69.42,
+            "last_30d": 69.42,
+            "last_90d": 94.63262499999999
         }
     },
     "★ StatTrak™ Shadow Daggers | Stained (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 107.42,
-            "last_30d": 82.61066666666666,
-            "last_90d": 98.7058888888889
+            "last_7d": null,
+            "last_30d": 68.66,
+            "last_90d": 83.3009
         }
     },
     "★ StatTrak™ Shadow Daggers | Tiger Tooth (Factory New)": {
@@ -224394,9 +224394,9 @@
     "★ StatTrak™ Shadow Daggers | Ultraviolet (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 81.199,
-            "last_30d": 80.892,
-            "last_90d": 86.94776000000002
+            "last_7d": 60.98,
+            "last_30d": 68.947625,
+            "last_90d": 71.634875
         }
     },
     "★ StatTrak™ Shadow Daggers | Ultraviolet (Factory New)": {
@@ -224410,57 +224410,57 @@
     "★ StatTrak™ Shadow Daggers | Ultraviolet (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 95.08333333333333,
-            "last_30d": 89.29726666666669,
-            "last_90d": 89.50878723404253
+            "last_7d": 73.75,
+            "last_30d": 67.0364,
+            "last_90d": 72.22312121212121
         }
     },
     "★ StatTrak™ Shadow Daggers | Ultraviolet (Minimal Wear)": {
         "steam": {
-            "last_24h": 118,
-            "last_7d": 102.355,
-            "last_30d": 108.38742857142857,
-            "last_90d": 112.73339999999999
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 119.05,
+            "last_90d": 118.63666666666666
         }
     },
     "★ StatTrak™ Shadow Daggers | Ultraviolet (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 83.56333333333333,
-            "last_90d": 85.78956250000002
+            "last_30d": 70.89266666666667,
+            "last_90d": 71.64492307692308
         }
     },
     "★ StatTrak™ Shadow Daggers | Urban Masked (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 85.75,
-            "last_30d": 85.715,
-            "last_90d": 95.52066666666667
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 87.92
         }
     },
     "★ StatTrak™ Shadow Daggers | Urban Masked (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 90.033875,
-            "last_90d": 95.22690476190478
+            "last_30d": 82.66,
+            "last_90d": 78.51038461538462
         }
     },
     "★ StatTrak™ Shadow Daggers | Urban Masked (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 113.86449999999999
+            "last_30d": 62.351,
+            "last_90d": 71.89824999999999
         }
     },
     "★ StatTrak™ Shadow Daggers | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 86.25,
-            "last_30d": 86.25,
-            "last_90d": 96.28420000000001
+            "last_7d": null,
+            "last_30d": 68.8,
+            "last_90d": 65.3985
         }
     },
     "★ StatTrak™ Skeleton Knife": {
@@ -224474,41 +224474,41 @@
     "★ StatTrak™ Skeleton Knife | Blue Steel (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 258.75,
-            "last_30d": 265.20500000000004,
-            "last_90d": 286.3953333333333
+            "last_7d": 233.449,
+            "last_30d": 229.9542,
+            "last_90d": 267.9066363636364
         }
     },
     "★ StatTrak™ Skeleton Knife | Blue Steel (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 495.771,
-            "last_90d": 495.771
+            "last_30d": null,
+            "last_90d": 566.98
         }
     },
     "★ StatTrak™ Skeleton Knife | Blue Steel (Field-Tested)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 324.8343333333333,
-            "last_90d": 351.319
+            "last_30d": 229.943,
+            "last_90d": 296.86383333333333
         }
     },
     "★ StatTrak™ Skeleton Knife | Blue Steel (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 422.524,
-            "last_30d": 374.44966666666664,
-            "last_90d": 400.62575000000004
+            "last_7d": null,
+            "last_30d": 351.83566666666667,
+            "last_90d": 355.41760000000005
         }
     },
     "★ StatTrak™ Skeleton Knife | Blue Steel (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 306.35825,
-            "last_90d": 336.9677
+            "last_7d": 241.81,
+            "last_30d": 253.626,
+            "last_90d": 267.01309090909086
         }
     },
     "★ StatTrak™ Skeleton Knife | Boreal Forest (Battle-Scarred)": {
@@ -224665,18 +224665,18 @@
     },
     "★ StatTrak™ Skeleton Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 835.0699999999999,
-            "last_30d": 925.1535,
-            "last_90d": 954.7483235294118
+            "last_24h": 642.3495,
+            "last_7d": 628.8910000000001,
+            "last_30d": 809.3271666666666,
+            "last_90d": 898.28684
         }
     },
     "★ StatTrak™ Skeleton Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 849.0745,
-            "last_90d": 957.8111999999999
+            "last_30d": 663.49,
+            "last_90d": 763.725
         }
     },
     "★ StatTrak™ Skeleton Knife | Fade (Factory New)": {
@@ -224691,8 +224691,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 818.088
+            "last_30d": 666.05,
+            "last_90d": 680.02
         }
     },
     "★ StatTrak™ Skeleton Knife | Forest DDPAT (Battle-Scarred)": {
@@ -224737,26 +224737,26 @@
     },
     "★ StatTrak™ Skeleton Knife | Marble Fade (Factory New)": {
         "steam": {
-            "last_24h": 590.911,
-            "last_7d": 595.623625,
-            "last_30d": 613.5370000000001,
-            "last_90d": 618.539553846154
+            "last_24h": null,
+            "last_7d": 490.50700000000006,
+            "last_30d": 510.9628666666667,
+            "last_90d": 527.4013125
         }
     },
     "★ StatTrak™ Skeleton Knife | Marble Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 558.25,
-            "last_90d": 555.98
+            "last_30d": 957.078,
+            "last_90d": 644.158
         }
     },
     "★ StatTrak™ Skeleton Knife | Night Stripe (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 193.7955,
-            "last_30d": 199.9196,
-            "last_90d": 207.747375
+            "last_7d": null,
+            "last_30d": 178.721,
+            "last_90d": 200.24054545454544
         }
     },
     "★ StatTrak™ Skeleton Knife | Night Stripe (Factory New)": {
@@ -224764,31 +224764,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 765.034
         }
     },
     "★ StatTrak™ Skeleton Knife | Night Stripe (Field-Tested)": {
         "steam": {
-            "last_24h": 253.298,
-            "last_7d": 219.9245,
-            "last_30d": 219.64863636363637,
-            "last_90d": 222.79200000000003
+            "last_24h": 180.266,
+            "last_7d": 188.343,
+            "last_30d": 182.286,
+            "last_90d": 208.04992307692302
         }
     },
     "★ StatTrak™ Skeleton Knife | Night Stripe (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 246.1815,
-            "last_90d": 262.51525
+            "last_7d": 253.001,
+            "last_30d": 236.055,
+            "last_90d": 236.0893
         }
     },
     "★ StatTrak™ Skeleton Knife | Night Stripe (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 198.31,
-            "last_30d": 202.30599999999998,
-            "last_90d": 226.34072727272726
+            "last_7d": 152.455,
+            "last_30d": 149.74050000000003,
+            "last_90d": 180.63784615384614
         }
     },
     "★ StatTrak™ Skeleton Knife | Rust Coat (Battle-Scarred)": {
@@ -224809,10 +224809,10 @@
     },
     "★ StatTrak™ Skeleton Knife | Safari Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": 154.303,
-            "last_7d": 148.025,
-            "last_30d": 146.585,
-            "last_90d": 150.44547058823528
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 140.70366666666666,
+            "last_90d": 151.80707142857142
         }
     },
     "★ StatTrak™ Skeleton Knife | Safari Mesh (Factory New)": {
@@ -224825,34 +224825,34 @@
     },
     "★ StatTrak™ Skeleton Knife | Safari Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 156.05700000000002,
-            "last_30d": 162.67641666666668,
-            "last_90d": 165.5636170212766
+            "last_24h": 14.818,
+            "last_7d": 66.444,
+            "last_30d": 126.08857142857141,
+            "last_90d": 145.3022325581395
         }
     },
     "★ StatTrak™ Skeleton Knife | Safari Mesh (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 202.11950000000002,
-            "last_90d": 184.5316
+            "last_30d": 145.78,
+            "last_90d": 155.18040000000002
         }
     },
     "★ StatTrak™ Skeleton Knife | Safari Mesh (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 166.2955,
-            "last_30d": 158.72633333333332,
-            "last_90d": 159.46791666666667
+            "last_7d": null,
+            "last_30d": 75.515,
+            "last_90d": 136.19916666666668
         }
     },
     "★ StatTrak™ Skeleton Knife | Scorched (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 165.9405,
-            "last_30d": 171.7895,
-            "last_90d": 180.39274999999998
+            "last_24h": 151.84,
+            "last_7d": 161.3635,
+            "last_30d": 158.51999999999998,
+            "last_90d": 166.87773333333337
         }
     },
     "★ StatTrak™ Skeleton Knife | Scorched (Factory New)": {
@@ -224866,9 +224866,9 @@
     "★ StatTrak™ Skeleton Knife | Scorched (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 184,
-            "last_30d": 186.92333333333332,
-            "last_90d": 206.50406666666666
+            "last_7d": 154.5085,
+            "last_30d": 167.99875,
+            "last_90d": 180.41111538461539
         }
     },
     "★ StatTrak™ Skeleton Knife | Scorched (Minimal Wear)": {
@@ -224882,17 +224882,17 @@
     "★ StatTrak™ Skeleton Knife | Scorched (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 147.895,
-            "last_30d": 147.895,
-            "last_90d": 161.37125
+            "last_7d": null,
+            "last_30d": 140.275,
+            "last_90d": 165.4654
         }
     },
     "★ StatTrak™ Skeleton Knife | Slaughter (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 821.42,
-            "last_30d": 698.21,
-            "last_90d": 700.1716666666666
+            "last_7d": null,
+            "last_30d": 575.345,
+            "last_90d": 594.725
         }
     },
     "★ StatTrak™ Skeleton Knife | Slaughter (Field-Tested)": {
@@ -224906,9 +224906,9 @@
     "★ StatTrak™ Skeleton Knife | Slaughter (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 585.638,
-            "last_30d": 531.5655555555555,
-            "last_90d": 567.9362500000001
+            "last_7d": null,
+            "last_30d": 498.5833333333333,
+            "last_90d": 515.5902857142858
         }
     },
     "★ StatTrak™ Skeleton Knife | Stained (Battle-Scarred)": {
@@ -224954,17 +224954,17 @@
     "★ StatTrak™ Skeleton Knife | Tiger Tooth (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 484.4115,
-            "last_30d": 471.32442105263164,
-            "last_90d": 492.65155882352934
+            "last_7d": 354.791,
+            "last_30d": 371.69380000000007,
+            "last_90d": 422.196076923077
         }
     },
     "★ StatTrak™ Skeleton Knife | Tiger Tooth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 464.6825
+            "last_7d": 435.65,
+            "last_30d": 432.39000000000004,
+            "last_90d": 412.63012499999996
         }
     },
     "★ StatTrak™ Skeleton Knife | Ultraviolet (Battle-Scarred)": {
@@ -225001,10 +225001,10 @@
     },
     "★ StatTrak™ Skeleton Knife | Urban Masked (Battle-Scarred)": {
         "steam": {
-            "last_24h": 189.066,
-            "last_7d": 188.963,
-            "last_30d": 188.24142857142857,
-            "last_90d": 194.47382608695648
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 161.9618888888889,
+            "last_90d": 168.94799999999998
         }
     },
     "★ StatTrak™ Skeleton Knife | Urban Masked (Factory New)": {
@@ -225012,31 +225012,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 1284.2
+            "last_90d": null
         }
     },
     "★ StatTrak™ Skeleton Knife | Urban Masked (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 197.81966666666668,
-            "last_90d": 218.38727500000005
+            "last_7d": 153.254,
+            "last_30d": 175.49566666666664,
+            "last_90d": 187.66738095238094
         }
     },
     "★ StatTrak™ Skeleton Knife | Urban Masked (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 282.04,
-            "last_30d": 243.43800000000002,
-            "last_90d": 273.338125
+            "last_7d": null,
+            "last_30d": 225.62175000000002,
+            "last_90d": 223.13633333333334
         }
     },
     "★ StatTrak™ Skeleton Knife | Urban Masked (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 204.986,
-            "last_90d": 205.91591666666667
+            "last_7d": 162.5165,
+            "last_30d": 161.691125,
+            "last_90d": 180.08215789473687
         }
     },
     "★ StatTrak™ Stiletto Knife": {
@@ -225129,10 +225129,10 @@
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 327.431,
-            "last_30d": 308.761625,
-            "last_90d": 305.3330833333333
+            "last_24h": 236,
+            "last_7d": 294.039,
+            "last_30d": 294.039,
+            "last_90d": 305.63938461538464
         }
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Factory New)": {
@@ -225146,25 +225146,25 @@
     "★ StatTrak™ Stiletto Knife | Case Hardened (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 416.162,
-            "last_30d": 380.706,
-            "last_90d": 420.59049999999996
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 409.6263333333333
         }
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 498.321,
-            "last_30d": 518.1800000000001,
-            "last_90d": 497.73350000000005
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 575.39
         }
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 322.396,
-            "last_90d": 273.99742857142854
+            "last_30d": 268.629,
+            "last_90d": 283.87033333333335
         }
     },
     "★ StatTrak™ Stiletto Knife | Crimson Web (Battle-Scarred)": {
@@ -225242,9 +225242,9 @@
     "★ StatTrak™ Stiletto Knife | Doppler (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 782.1270000000001,
-            "last_30d": 765.1833333333332,
-            "last_90d": 741.847918918919
+            "last_7d": 565,
+            "last_30d": 645.6366666666667,
+            "last_90d": 694.2466666666666
         }
     },
     "★ StatTrak™ Stiletto Knife | Doppler (Minimal Wear)": {
@@ -225258,9 +225258,9 @@
     "★ StatTrak™ Stiletto Knife | Fade (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 620,
-            "last_30d": 612.6833333333333,
-            "last_90d": 665.11875
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 594.2896000000001
         }
     },
     "★ StatTrak™ Stiletto Knife | Fade (Minimal Wear)": {
@@ -225268,15 +225268,15 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 552.5
+            "last_90d": null
         }
     },
     "★ StatTrak™ Stiletto Knife | Forest DDPAT (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 169.1675714285714,
-            "last_90d": 173.7752142857143
+            "last_7d": 141.10266666666666,
+            "last_30d": 141.4505,
+            "last_90d": 152.1727857142857
         }
     },
     "★ StatTrak™ Stiletto Knife | Forest DDPAT (Factory New)": {
@@ -225290,25 +225290,25 @@
     "★ StatTrak™ Stiletto Knife | Forest DDPAT (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 169.2285,
-            "last_30d": 166.401375,
-            "last_90d": 177.23729166666666
+            "last_7d": 150.616,
+            "last_30d": 156.44211111111113,
+            "last_90d": 164.7211111111111
         }
     },
     "★ StatTrak™ Stiletto Knife | Forest DDPAT (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 180.25650000000002,
-            "last_30d": 196.7122,
-            "last_90d": 197.87458333333333
+            "last_7d": 163.1945,
+            "last_30d": 159.07150000000001,
+            "last_90d": 180.50375000000003
         }
     },
     "★ StatTrak™ Stiletto Knife | Forest DDPAT (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 176.8624
+            "last_7d": 130.503,
+            "last_30d": 130.503,
+            "last_90d": 161.42988888888888
         }
     },
     "★ StatTrak™ Stiletto Knife | Marble Fade (Factory New)": {
@@ -225369,18 +225369,18 @@
     },
     "★ StatTrak™ Stiletto Knife | Rust Coat (Battle-Scarred)": {
         "steam": {
-            "last_24h": 157.5,
-            "last_7d": 183.0054,
-            "last_30d": 183.94717391304349,
-            "last_90d": 192.3578292682927
+            "last_24h": null,
+            "last_7d": 147.45850000000002,
+            "last_30d": 159.13173333333333,
+            "last_90d": 175.71097297297302
         }
     },
     "★ StatTrak™ Stiletto Knife | Rust Coat (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 211.26,
-            "last_30d": 211.26,
-            "last_90d": 231.96
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 189.5455
         }
     },
     "★ StatTrak™ Stiletto Knife | Safari Mesh (Battle-Scarred)": {
@@ -227386,41 +227386,41 @@
     "★ Stiletto Knife | Boreal Forest (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 263.73,
-            "last_30d": 263.73,
-            "last_90d": 263.73
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 212.75
         }
     },
     "★ Stiletto Knife | Boreal Forest (Field-Tested)": {
         "steam": {
-            "last_24h": 178.1415,
-            "last_7d": 175.41518181818182,
-            "last_30d": 173.02774545454545,
-            "last_90d": 173.5964646464646
+            "last_24h": 149.048,
+            "last_7d": 141.5820769230769,
+            "last_30d": 150.77293749999998,
+            "last_90d": 166.78824137931034
         }
     },
     "★ Stiletto Knife | Boreal Forest (Minimal Wear)": {
         "steam": {
-            "last_24h": 190.9,
-            "last_7d": 186.85575,
-            "last_30d": 191.65163636363633,
-            "last_90d": 195.07081578947367
+            "last_24h": null,
+            "last_7d": 152.18975,
+            "last_30d": 162.18228571428568,
+            "last_90d": 172.22385
         }
     },
     "★ Stiletto Knife | Boreal Forest (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 163.8505,
-            "last_30d": 162.278,
-            "last_90d": 171.04276923076924
+            "last_7d": 136.78,
+            "last_30d": 119.09759999999999,
+            "last_90d": 157.49060000000003
         }
     },
     "★ Stiletto Knife | Case Hardened (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 282.97625,
-            "last_30d": 308.6591250000001,
-            "last_90d": 306.2113773584905
+            "last_7d": 232.8625,
+            "last_30d": 249.647,
+            "last_90d": 277.74181578947366
         }
     },
     "★ Stiletto Knife | Case Hardened (Factory New)": {
@@ -227537,74 +227537,74 @@
     },
     "★ Stiletto Knife | Doppler (Factory New)": {
         "steam": {
-            "last_24h": 1065.614,
-            "last_7d": 812.0625238095238,
-            "last_30d": 743.8133902439024,
-            "last_90d": 731.4217324561406
+            "last_24h": 543.0076666666668,
+            "last_7d": 535.3345454545455,
+            "last_30d": 615.891403846154,
+            "last_90d": 674.1356592178772
         }
     },
     "★ Stiletto Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 1747.195,
-            "last_30d": 955.351,
-            "last_90d": 923.4217272727273
+            "last_7d": null,
+            "last_30d": 703.35,
+            "last_90d": 721.5640000000001
         }
     },
     "★ Stiletto Knife | Fade (Factory New)": {
         "steam": {
-            "last_24h": 616.4306666666666,
-            "last_7d": 600.2636666666667,
-            "last_30d": 613.251418604651,
-            "last_90d": 609.5479369369369
+            "last_24h": 443.902,
+            "last_7d": 442.442,
+            "last_30d": 521.4810476190477,
+            "last_90d": 562.7982711864406
         }
     },
     "★ Stiletto Knife | Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 402.5,
-            "last_90d": 524.1941666666668
+            "last_30d": 543.75,
+            "last_90d": 575.1095
         }
     },
     "★ Stiletto Knife | Forest DDPAT (Battle-Scarred)": {
         "steam": {
-            "last_24h": 162,
-            "last_7d": 163.06833333333336,
-            "last_30d": 169.47836363636364,
-            "last_90d": 169.5780172413793
+            "last_24h": null,
+            "last_7d": 131.623,
+            "last_30d": 151.96633333333332,
+            "last_90d": 161.24155000000002
         }
     },
     "★ Stiletto Knife | Forest DDPAT (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": 216.86
+            "last_30d": 148.89,
+            "last_90d": 191.23666666666668
         }
     },
     "★ Stiletto Knife | Forest DDPAT (Field-Tested)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 166.14407692307694,
-            "last_30d": 169.93697872340428,
-            "last_90d": 175.1109202453987
+            "last_24h": 142.722,
+            "last_7d": 146.3584,
+            "last_30d": 151.73268085106383,
+            "last_90d": 164.31546405228758
         }
     },
     "★ Stiletto Knife | Forest DDPAT (Minimal Wear)": {
         "steam": {
-            "last_24h": 161,
-            "last_7d": 171.61833333333334,
-            "last_30d": 175.91956249999998,
-            "last_90d": 183.29034
+            "last_24h": null,
+            "last_7d": 152.28633333333335,
+            "last_30d": 167.66343749999996,
+            "last_90d": 177.20357142857145
         }
     },
     "★ Stiletto Knife | Forest DDPAT (Well-Worn)": {
         "steam": {
-            "last_24h": 154.99,
-            "last_7d": 166.8126,
-            "last_30d": 167.79345454545452,
-            "last_90d": 173.52482857142857
+            "last_24h": null,
+            "last_7d": 152.89,
+            "last_30d": 145.24566666666666,
+            "last_90d": 165.4241739130435
         }
     },
     "★ Stiletto Knife | Marble Fade (Factory New)": {
@@ -227665,18 +227665,18 @@
     },
     "★ Stiletto Knife | Rust Coat (Battle-Scarred)": {
         "steam": {
-            "last_24h": 194.69549999999998,
-            "last_7d": 187.72603124999998,
-            "last_30d": 188.68131034482752,
-            "last_90d": 189.61171586715855
+            "last_24h": 149.0628,
+            "last_7d": 146.8833846153846,
+            "last_30d": 158.49919310344833,
+            "last_90d": 176.06291037735838
         }
     },
     "★ Stiletto Knife | Rust Coat (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 213.25,
-            "last_30d": 199.90000000000003,
-            "last_90d": 202.36938095238094
+            "last_7d": 168.792,
+            "last_30d": 168.55419999999998,
+            "last_90d": 180.50358333333335
         }
     },
     "★ Stiletto Knife | Safari Mesh (Battle-Scarred)": {
