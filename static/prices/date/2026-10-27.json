@@ -84250,41 +84250,65 @@
     "Souvenir Tec-9 | Army Mesh (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 2.5625,
-            "last_30d": 1.7032857142857145,
-            "last_90d": 30.410965517241376
+            "last_7d": null,
+            "last_30d": 2.795,
+            "last_90d": 2.7298
         }
     },
     "Souvenir Tec-9 | Army Mesh (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 3.533,
-            "last_30d": 2.3481346153846157,
-            "last_90d": 5.500253731343284
+            "last_24h": 4.602,
+            "last_7d": 4.602,
+            "last_30d": 23.218000000000004,
+            "last_90d": 5.7090555555555556
         }
     },
     "Souvenir Tec-9 | Army Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 84.433,
-            "last_7d": 16.786333333333335,
-            "last_30d": 5.696769230769232,
-            "last_90d": 9.784514705882353
+            "last_24h": null,
+            "last_7d": 4.971,
+            "last_30d": 11.6485,
+            "last_90d": 5.083312500000001
         }
     },
     "Souvenir Tec-9 | Army Mesh (Minimal Wear)": {
         "steam": {
-            "last_24h": 3.338,
-            "last_7d": 3.338,
-            "last_30d": 3.175333333333333,
-            "last_90d": 7.208545454545457
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 6.7712,
+            "last_90d": 9.663761904761905
         }
     },
     "Souvenir Tec-9 | Army Mesh (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 3.913909090909091,
-            "last_90d": 4.533600000000001
+            "last_30d": 4.33,
+            "last_90d": 3.2158571428571427
+        }
+    },
+    "Souvenir Tec-9 | Banana Leaf (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 17.648,
+            "last_90d": 14.915099999999999
+        }
+    },
+    "Souvenir Tec-9 | Banana Leaf (Field-Tested)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 4.127,
+            "last_90d": 10.95007142857143
+        }
+    },
+    "Souvenir Tec-9 | Banana Leaf (Minimal Wear)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.349,
+            "last_30d": 6.683,
+            "last_90d": 11.410375
         }
     },
     "Souvenir Tec-9 | Blast From the Past (Battle-Scarred)": {
@@ -84371,40 +84395,40 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 2.4505384615384616,
-            "last_90d": 3.905961538461539
+            "last_30d": 1.526,
+            "last_90d": 2.3152727272727276
         }
     },
     "Souvenir Tec-9 | Groundwater (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 4.1098,
-            "last_90d": 4.1098
+            "last_30d": 5.26,
+            "last_90d": 5.26
         }
     },
     "Souvenir Tec-9 | Groundwater (Field-Tested)": {
         "steam": {
-            "last_24h": 4.255,
-            "last_7d": 3.8939090909090908,
-            "last_30d": 3.2269464285714284,
-            "last_90d": 7.586117021276596
+            "last_24h": null,
+            "last_7d": 2.413,
+            "last_30d": 2.0455,
+            "last_90d": 4.213805555555556
         }
     },
     "Souvenir Tec-9 | Groundwater (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 2.4599999999999995,
-            "last_30d": 2.0901333333333327,
-            "last_90d": 6.335725000000002
+            "last_7d": 3.152,
+            "last_30d": 2.8813333333333335,
+            "last_90d": 4.849545454545455
         }
     },
     "Souvenir Tec-9 | Groundwater (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 2.2160769230769235,
-            "last_90d": 5.47626923076923
+            "last_7d": 14.905,
+            "last_30d": 9.154499999999999,
+            "last_90d": 5.634181818181818
         }
     },
     "Souvenir Tec-9 | Mummy's Rot (Battle-Scarred)": {
@@ -84450,9 +84474,9 @@
     "Souvenir Tec-9 | Nuclear Threat (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 71.81666666666666,
-            "last_90d": 71.81666666666666
+            "last_7d": 41.66,
+            "last_30d": 55.50616666666665,
+            "last_90d": 61.452529411764694
         }
     },
     "Souvenir Tec-9 | Nuclear Threat (Factory New)": {
@@ -84467,8 +84491,8 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 146.66750000000002,
-            "last_90d": 146.45033333333333
+            "last_30d": null,
+            "last_90d": 93.876
         }
     },
     "Souvenir Tec-9 | Nuclear Threat (Minimal Wear)": {
@@ -84484,7 +84508,31 @@
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": null
+            "last_90d": 43.301
+        }
+    },
+    "Souvenir Tec-9 | Raw Ceramic (Battle-Scarred)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 5.014
+        }
+    },
+    "Souvenir Tec-9 | Raw Ceramic (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 7.017666666666667,
+            "last_90d": 7.733
+        }
+    },
+    "Souvenir Tec-9 | Raw Ceramic (Minimal Wear)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 17.593,
+            "last_90d": 8.280555555555555
         }
     },
     "Souvenir Tec-9 | Red Quartz (Factory New)": {
@@ -84557,6 +84605,30 @@
             "last_7d": 24.671,
             "last_30d": 23.492857142857144,
             "last_90d": 24.89752380952381
+        }
+    },
+    "Souvenir Tec-9 | Slag (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
+        }
+    },
+    "Souvenir Tec-9 | Sultan (Battle-Scarred)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 26.647
+        }
+    },
+    "Souvenir Tec-9 | Sultan (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
     "Souvenir Tec-9 | Toxic (Battle-Scarred)": {
@@ -84681,18 +84753,34 @@
     },
     "Souvenir UMP-45 | Blaze (Factory New)": {
         "steam": {
-            "last_24h": 50,
-            "last_7d": 45.28433333333333,
-            "last_30d": 46.90823076923078,
-            "last_90d": 54.89788157894736
+            "last_24h": null,
+            "last_7d": 32.29,
+            "last_30d": 33.67383333333333,
+            "last_90d": 34.62172131147541
         }
     },
     "Souvenir UMP-45 | Blaze (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 48.114,
-            "last_90d": 51.4145
+            "last_30d": null,
+            "last_90d": 51.2585
+        }
+    },
+    "Souvenir UMP-45 | Carbon Fiber (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 20.964
+        }
+    },
+    "Souvenir UMP-45 | Carbon Fiber (Minimal Wear)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 17.579333333333334
         }
     },
     "Souvenir UMP-45 | Facility Dark (Battle-Scarred)": {
@@ -84737,18 +84825,18 @@
     },
     "Souvenir UMP-45 | Fade (Factory New)": {
         "steam": {
-            "last_24h": 237.405,
-            "last_7d": 239.04028571428572,
-            "last_30d": 241.14752816901415,
-            "last_90d": 211.66431778058012
+            "last_24h": null,
+            "last_7d": 176.1366,
+            "last_30d": 201.03411111111114,
+            "last_90d": 234.46297435897432
         }
     },
     "Souvenir UMP-45 | Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 228.71877777777777,
-            "last_90d": 151.0837391304348
+            "last_30d": 176.96,
+            "last_90d": 197.57213333333337
         }
     },
     "Souvenir UMP-45 | Fallout Warning (Battle-Scarred)": {
@@ -84913,42 +85001,50 @@
     },
     "Souvenir UMP-45 | Mechanism (Battle-Scarred)": {
         "steam": {
-            "last_24h": 2.8160000000000003,
-            "last_7d": 2.5915,
-            "last_30d": 3.1754545454545453,
-            "last_90d": 2.624091954022988
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 2.247,
+            "last_90d": 2.1458529411764706
         }
     },
     "Souvenir UMP-45 | Mechanism (Factory New)": {
         "steam": {
-            "last_24h": 2.8904,
-            "last_7d": 3.591456140350877,
-            "last_30d": 3.9215914396887146,
-            "last_90d": 3.892033789954343
+            "last_24h": 2.490666666666667,
+            "last_7d": 2.280655172413793,
+            "last_30d": 2.0811034482758624,
+            "last_90d": 2.532945392491467
         }
     },
     "Souvenir UMP-45 | Mechanism (Field-Tested)": {
         "steam": {
-            "last_24h": 2.1530869565217388,
-            "last_7d": 1.9626574585635355,
-            "last_30d": 1.8212403718459513,
-            "last_90d": 1.5509014141414141
+            "last_24h": 1.12875,
+            "last_7d": 1.1838139534883723,
+            "last_30d": 1.2931474654377884,
+            "last_90d": 1.490224321133411
         }
     },
     "Souvenir UMP-45 | Mechanism (Minimal Wear)": {
         "steam": {
-            "last_24h": 2.5706666666666664,
-            "last_7d": 2.621953846153846,
-            "last_30d": 3.018204334365323,
-            "last_90d": 2.485964696853414
+            "last_24h": 1.5615999999999999,
+            "last_7d": 1.4428095238095238,
+            "last_30d": 1.6535702479338845,
+            "last_90d": 1.9242980295566496
         }
     },
     "Souvenir UMP-45 | Mechanism (Well-Worn)": {
         "steam": {
-            "last_24h": 1.543,
-            "last_7d": 1.4847142857142857,
-            "last_30d": 1.8911304347826094,
-            "last_90d": 5.708445054945054
+            "last_24h": null,
+            "last_7d": 1.04,
+            "last_30d": 1.8008,
+            "last_90d": 2.276287671232876
+        }
+    },
+    "Souvenir UMP-45 | Momentum (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 6.82,
+            "last_90d": 6.82
         }
     },
     "Souvenir UMP-45 | Motorized (Minimal Wear)": {
@@ -109089,42 +109185,42 @@
     },
     "StatTrak™ Tec-9 | Slag (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.11926562499999999,
-            "last_7d": 0.11284886649874054,
-            "last_30d": 0.12048413705583777,
-            "last_90d": 0.137220670932713
+            "last_24h": 0.08656410256410256,
+            "last_7d": 0.10753479853479853,
+            "last_30d": 0.10432982791586991,
+            "last_90d": 0.109935571935572
         }
     },
     "StatTrak™ Tec-9 | Slag (Factory New)": {
         "steam": {
-            "last_24h": 1.3610666666666666,
-            "last_7d": 1.5638224299065424,
-            "last_30d": 1.4717910447761196,
-            "last_90d": 1.5510122340425518
+            "last_24h": 0.9246470588235295,
+            "last_7d": 1.007775,
+            "last_30d": 1.0532861356932155,
+            "last_90d": 1.1835637707948234
         }
     },
     "StatTrak™ Tec-9 | Slag (Field-Tested)": {
         "steam": {
-            "last_24h": 0.1308392857142857,
-            "last_7d": 0.12869815852682148,
-            "last_30d": 0.13227178618482974,
-            "last_90d": 0.15256611117202049
+            "last_24h": 0.10224489795918369,
+            "last_7d": 0.10741411451398121,
+            "last_30d": 0.10650280024891111,
+            "last_90d": 0.11554515850972134
         }
     },
     "StatTrak™ Tec-9 | Slag (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.27774647887323944,
-            "last_7d": 0.28717397260273986,
-            "last_30d": 0.30532803909590683,
-            "last_90d": 0.32298884951162604
+            "last_24h": 0.24534285714285714,
+            "last_7d": 0.23732624113475162,
+            "last_30d": 0.22397478613237268,
+            "last_90d": 0.2501130792121307
         }
     },
     "StatTrak™ Tec-9 | Slag (Well-Worn)": {
         "steam": {
-            "last_24h": 0.1234651162790698,
-            "last_7d": 0.1253175487465181,
-            "last_30d": 0.12497439446366783,
-            "last_90d": 0.13933820641501243
+            "last_24h": 0.0905,
+            "last_7d": 0.09754901960784314,
+            "last_30d": 0.10169966254218209,
+            "last_90d": 0.19682730812013416
         }
     },
     "StatTrak™ Tec-9 | Snek-9 (Battle-Scarred)": {
@@ -109257,42 +109353,42 @@
     },
     "StatTrak™ UMP-45 | Briefing (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 0.20700000000000002,
-            "last_30d": 0.20270945945945948,
-            "last_90d": 0.20668604651162792
+            "last_24h": 0.20727272727272725,
+            "last_7d": 0.20767441860465116,
+            "last_30d": 0.2032733333333334,
+            "last_90d": 0.20698623853211007
         }
     },
     "StatTrak™ UMP-45 | Briefing (Factory New)": {
         "steam": {
-            "last_24h": 2.346,
-            "last_7d": 2.2196249999999997,
-            "last_30d": 2.265431034482759,
-            "last_90d": 2.7472164948453615
+            "last_24h": null,
+            "last_7d": 1.3748333333333331,
+            "last_30d": 1.8563823529411765,
+            "last_90d": 1.9181847826086948
         }
     },
     "StatTrak™ UMP-45 | Briefing (Field-Tested)": {
         "steam": {
-            "last_24h": 0.23399999999999999,
-            "last_7d": 0.23455555555555566,
-            "last_30d": 0.28313705583756354,
-            "last_90d": 0.2862378407268838
+            "last_24h": 0.24558823529411763,
+            "last_7d": 0.2344111111111112,
+            "last_30d": 0.24862672811059905,
+            "last_90d": 0.26144189602446516
         }
     },
     "StatTrak™ UMP-45 | Briefing (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.458375,
-            "last_7d": 0.4532527472527472,
-            "last_30d": 0.50465329512894,
-            "last_90d": 0.6091213142375728
+            "last_24h": 0.8751666666666665,
+            "last_7d": 0.46900000000000003,
+            "last_30d": 0.450063025210084,
+            "last_90d": 0.5265394366197187
         }
     },
     "StatTrak™ UMP-45 | Briefing (Well-Worn)": {
         "steam": {
-            "last_24h": 0.2260833333333333,
-            "last_7d": 0.20316161616161615,
-            "last_30d": 0.21207888040712478,
-            "last_90d": 0.3994300608166815
+            "last_24h": 0.21125,
+            "last_7d": 0.20071428571428576,
+            "last_30d": 0.19085440613026827,
+            "last_90d": 0.2104806491885144
         }
     },
     "StatTrak™ UMP-45 | Corporal (Battle-Scarred)": {
@@ -109441,10 +109537,10 @@
     },
     "StatTrak™ UMP-45 | Grand Prix (Field-Tested)": {
         "steam": {
-            "last_24h": 1.9485833333333333,
-            "last_7d": 1.997112068965517,
-            "last_30d": 1.834169847328244,
-            "last_90d": 2.004415716856627
+            "last_24h": 1.7908,
+            "last_7d": 1.6454631578947365,
+            "last_30d": 1.7326919431279626,
+            "last_90d": 1.8573585690515808
         }
     },
     "StatTrak™ UMP-45 | K.O. Factory (Battle-Scarred)": {
@@ -109522,113 +109618,113 @@
     "StatTrak™ UMP-45 | Metal Flowers (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 4.6735,
-            "last_30d": 4.992500000000001,
-            "last_90d": 5.284836363636362
+            "last_7d": 2.968,
+            "last_30d": 3.9356666666666675,
+            "last_90d": 4.188739130434783
         }
     },
     "StatTrak™ UMP-45 | Metal Flowers (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 12.686,
-            "last_30d": 11.912769230769232,
-            "last_90d": 11.906899999999997
+            "last_7d": 9.036,
+            "last_30d": 8.918600000000001,
+            "last_90d": 9.5094
         }
     },
     "StatTrak™ UMP-45 | Metal Flowers (Field-Tested)": {
         "steam": {
-            "last_24h": 5.227,
-            "last_7d": 5.708285714285714,
-            "last_30d": 5.621888888888888,
-            "last_90d": 5.70439285714286
+            "last_24h": 3.587,
+            "last_7d": 3.83675,
+            "last_30d": 4.405,
+            "last_90d": 4.704308823529411
         }
     },
     "StatTrak™ UMP-45 | Metal Flowers (Minimal Wear)": {
         "steam": {
-            "last_24h": 6.16,
-            "last_7d": 6.741166666666667,
-            "last_30d": 7.357882352941176,
-            "last_90d": 8.222097560975612
+            "last_24h": null,
+            "last_7d": 6.2005,
+            "last_30d": 6.28009090909091,
+            "last_90d": 6.4416153846153845
         }
     },
     "StatTrak™ UMP-45 | Metal Flowers (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 5.525,
-            "last_90d": 5.3939
+            "last_7d": 4.27,
+            "last_30d": 4.27,
+            "last_90d": 4.2908
         }
     },
     "StatTrak™ UMP-45 | Momentum (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 6.5785,
-            "last_30d": 8.08013043478261,
-            "last_90d": 8.243105263157894
+            "last_24h": 6.313000000000001,
+            "last_7d": 7.129666666666666,
+            "last_30d": 7.2034615384615375,
+            "last_90d": 7.3625254237288145
         }
     },
     "StatTrak™ UMP-45 | Momentum (Factory New)": {
         "steam": {
-            "last_24h": 19.203,
-            "last_7d": 17.731928571428572,
-            "last_30d": 20.381966666666667,
-            "last_90d": 22.799893617021265
+            "last_24h": null,
+            "last_7d": 16.1368,
+            "last_30d": 18.548169014084504,
+            "last_90d": 20.33291919191919
         }
     },
     "StatTrak™ UMP-45 | Momentum (Field-Tested)": {
         "steam": {
-            "last_24h": 7.783625000000001,
-            "last_7d": 7.848944444444446,
-            "last_30d": 7.702919999999995,
-            "last_90d": 7.813263235294107
+            "last_24h": 6.636333333333333,
+            "last_7d": 6.421828571428572,
+            "last_30d": 6.915827777777778,
+            "last_90d": 7.170645161290325
         }
     },
     "StatTrak™ UMP-45 | Momentum (Minimal Wear)": {
         "steam": {
-            "last_24h": 9.705,
-            "last_7d": 9.355736842105264,
-            "last_30d": 9.737070796460177,
-            "last_90d": 10.332176886792448
+            "last_24h": 9,
+            "last_7d": 8.1915,
+            "last_30d": 10.119393258426966,
+            "last_90d": 9.619891472868217
         }
     },
     "StatTrak™ UMP-45 | Momentum (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 7.734263157894737,
-            "last_30d": 7.5171190476190475,
-            "last_90d": 8.101653846153845
+            "last_7d": 6.96,
+            "last_30d": 6.685666666666667,
+            "last_90d": 7.250186666666667
         }
     },
     "StatTrak™ UMP-45 | Moonrise (Factory New)": {
         "steam": {
-            "last_24h": 3.7900000000000005,
-            "last_7d": 4.450909090909091,
-            "last_30d": 4.124922413793102,
-            "last_90d": 4.455278511404561
+            "last_24h": 3.0183999999999997,
+            "last_7d": 2.90875,
+            "last_30d": 3.0729591836734698,
+            "last_90d": 3.376181063122923
         }
     },
     "StatTrak™ UMP-45 | Moonrise (Field-Tested)": {
         "steam": {
-            "last_24h": 0.8477727272727272,
-            "last_7d": 0.8543655172413793,
-            "last_30d": 0.9700328151986175,
-            "last_90d": 1.017721638655462
+            "last_24h": 0.7447142857142858,
+            "last_7d": 0.8208875000000002,
+            "last_30d": 0.8450676532769553,
+            "last_90d": 0.9009440459110473
         }
     },
     "StatTrak™ UMP-45 | Moonrise (Minimal Wear)": {
         "steam": {
-            "last_24h": 1.4473846153846153,
-            "last_7d": 1.6091848739495807,
-            "last_30d": 1.648067538126362,
-            "last_90d": 1.8048734100545105
+            "last_24h": 1.3333333333333333,
+            "last_7d": 1.3041267605633806,
+            "last_30d": 1.3828186666666658,
+            "last_90d": 1.4139983552631572
         }
     },
     "StatTrak™ UMP-45 | Moonrise (Well-Worn)": {
         "steam": {
-            "last_24h": 2.6656666666666666,
-            "last_7d": 2.5317,
-            "last_30d": 2.4363999999999995,
-            "last_90d": 2.550478991596638
+            "last_24h": null,
+            "last_7d": 1.5798,
+            "last_30d": 1.714962962962963,
+            "last_90d": 2.220826086956522
         }
     },
     "StatTrak™ UMP-45 | Motorized (Battle-Scarred)": {
@@ -109713,82 +109809,82 @@
     },
     "StatTrak™ UMP-45 | Oscillator (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.32,
-            "last_7d": 0.4886842105263159,
-            "last_30d": 0.5129696969696969,
-            "last_90d": 0.5288090452261309
+            "last_24h": null,
+            "last_7d": 0.29,
+            "last_30d": 0.386,
+            "last_90d": 0.4141465517241379
         }
     },
     "StatTrak™ UMP-45 | Oscillator (Factory New)": {
         "steam": {
-            "last_24h": 1.4025000000000003,
-            "last_7d": 1.3581944444444443,
-            "last_30d": 1.4033242574257425,
-            "last_90d": 1.4988951515151514
+            "last_24h": 1.345,
+            "last_7d": 1.2375106382978722,
+            "last_30d": 1.1897963636363633,
+            "last_90d": 1.2659810055865923
         }
     },
     "StatTrak™ UMP-45 | Oscillator (Field-Tested)": {
         "steam": {
-            "last_24h": 0.5225263157894737,
-            "last_7d": 0.48252941176470576,
-            "last_30d": 0.47953315994798495,
-            "last_90d": 0.5087512724804896
+            "last_24h": 0.37424999999999997,
+            "last_7d": 0.4075238095238095,
+            "last_30d": 0.424274603174603,
+            "last_90d": 0.4384224783861667
         }
     },
     "StatTrak™ UMP-45 | Oscillator (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.7791153846153847,
-            "last_7d": 0.6910877192982454,
-            "last_30d": 0.7022740740740739,
-            "last_90d": 0.7553269468479602
+            "last_24h": 0.5853333333333333,
+            "last_7d": 0.6667142857142857,
+            "last_30d": 0.696384879725086,
+            "last_90d": 0.6856935659760084
         }
     },
     "StatTrak™ UMP-45 | Oscillator (Well-Worn)": {
         "steam": {
-            "last_24h": 0.399,
-            "last_7d": 0.42125,
-            "last_30d": 0.44031818181818194,
-            "last_90d": 0.9559726027397258
+            "last_24h": 0.36,
+            "last_7d": 0.3375,
+            "last_30d": 0.3726,
+            "last_90d": 0.40835545023696695
         }
     },
     "StatTrak™ UMP-45 | Plastique (Battle-Scarred)": {
         "steam": {
-            "last_24h": 1.00525,
-            "last_7d": 1.0440526315789476,
-            "last_30d": 1.0304,
-            "last_90d": 1.2538531746031756
+            "last_24h": 0.891,
+            "last_7d": 0.9371,
+            "last_30d": 1.0070909090909093,
+            "last_90d": 1.0767948717948719
         }
     },
     "StatTrak™ UMP-45 | Plastique (Factory New)": {
         "steam": {
-            "last_24h": 7.258,
-            "last_7d": 6.772333333333335,
-            "last_30d": 7.278708333333332,
-            "last_90d": 8.677838709677419
+            "last_24h": null,
+            "last_7d": 7.3316,
+            "last_30d": 7.1111071428571435,
+            "last_90d": 6.827578313253013
         }
     },
     "StatTrak™ UMP-45 | Plastique (Field-Tested)": {
         "steam": {
-            "last_24h": 1.2933333333333332,
-            "last_7d": 1.3390357142857146,
-            "last_30d": 1.2559905063291135,
-            "last_90d": 1.33931351869607
+            "last_24h": 1.01725,
+            "last_7d": 1.0463695652173914,
+            "last_30d": 1.069150442477876,
+            "last_90d": 1.1358647416413363
         }
     },
     "StatTrak™ UMP-45 | Plastique (Minimal Wear)": {
         "steam": {
-            "last_24h": 3.312,
-            "last_7d": 3.0338421052631577,
-            "last_30d": 3.091645833333334,
-            "last_90d": 3.1433481675392696
+            "last_24h": 2.032,
+            "last_7d": 2.1576666666666666,
+            "last_30d": 2.1496164383561647,
+            "last_90d": 2.4863321678321664
         }
     },
     "StatTrak™ UMP-45 | Plastique (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 2.5124,
-            "last_30d": 2.975129032258065,
-            "last_90d": 2.490715517241379
+            "last_24h": 1.215,
+            "last_7d": 1.2882,
+            "last_30d": 1.3277857142857143,
+            "last_90d": 2.016738461538461
         }
     },
     "StatTrak™ UMP-45 | Primal Saber (Battle-Scarred)": {
@@ -191681,42 +191777,42 @@
     },
     "Tec-9 | Army Mesh (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.036388888888888894,
-            "last_7d": 0.33243426294820727,
-            "last_30d": 0.096739357729649,
-            "last_90d": 0.14268578205664792
+            "last_24h": 0.040650000000000006,
+            "last_7d": 0.03951973684210526,
+            "last_30d": 0.06207393483709276,
+            "last_90d": 0.14676352067868464
         }
     },
     "Tec-9 | Army Mesh (Factory New)": {
         "steam": {
-            "last_24h": 0.14696482412060302,
-            "last_7d": 0.15054180602006695,
-            "last_30d": 0.16467849223946782,
-            "last_90d": 0.19400023346563042
+            "last_24h": 0.0729904761904762,
+            "last_7d": 0.07126262626262628,
+            "last_30d": 0.09880695443645077,
+            "last_90d": 0.11499318417543344
         }
     },
     "Tec-9 | Army Mesh (Field-Tested)": {
         "steam": {
-            "last_24h": 0.03305612244897959,
-            "last_7d": 0.11831911869225312,
-            "last_30d": 0.05210569980027648,
-            "last_90d": 0.28761457800511503
+            "last_24h": 6.034649122807016,
+            "last_7d": 0.5833016845329249,
+            "last_30d": 0.13783992331655892,
+            "last_90d": 0.26285925591009
         }
     },
     "Tec-9 | Army Mesh (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.04123076923076923,
-            "last_7d": 0.044511787819253454,
-            "last_30d": 0.05028367022484683,
-            "last_90d": 0.04123006012024034
+            "last_24h": 0.041075000000000014,
+            "last_7d": 0.03415088757396447,
+            "last_30d": 0.04289727663640717,
+            "last_90d": 0.13483437004512672
         }
     },
     "Tec-9 | Army Mesh (Well-Worn)": {
         "steam": {
-            "last_24h": 0.033451612903225805,
-            "last_7d": 0.0522047619047619,
-            "last_30d": 0.29709145427286365,
-            "last_90d": 0.11827761938702777
+            "last_24h": 0.048,
+            "last_7d": 0.30085294117647066,
+            "last_30d": 0.09383818770226536,
+            "last_90d": 0.22957913669064564
         }
     },
     "Tec-9 | Avalanche (Battle-Scarred)": {
@@ -191841,10 +191937,10 @@
     },
     "Tec-9 | Banana Leaf (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.04954545454545456,
-            "last_7d": 0.04823744292237443,
-            "last_30d": 0.056504376367614954,
-            "last_90d": 0.06113879672638798
+            "last_24h": 0.0553921568627451,
+            "last_7d": 0.044698453608247424,
+            "last_30d": 0.047576162479957274,
+            "last_90d": 0.1247870036101081
         }
     },
     "Tec-9 | Banana Leaf (Factory New)": {
@@ -191873,10 +191969,10 @@
     },
     "Tec-9 | Banana Leaf (Well-Worn)": {
         "steam": {
-            "last_24h": 0.047690909090909096,
-            "last_7d": 0.048827702702702695,
-            "last_30d": 0.054509015256588106,
-            "last_90d": 0.18334087722811926
+            "last_24h": 0.04121739130434783,
+            "last_7d": 0.04359358288770055,
+            "last_30d": 0.0478408662900188,
+            "last_90d": 0.04874916184090217
         }
     },
     "Tec-9 | Blast From the Past (Battle-Scarred)": {
@@ -191929,10 +192025,10 @@
     },
     "Tec-9 | Blue Blast (Factory New)": {
         "steam": {
-            "last_24h": 0.19573300970873786,
-            "last_7d": 0.1975172719220548,
-            "last_30d": 0.21893767065248101,
-            "last_90d": 0.25827656853830394
+            "last_24h": 0.14815384615384616,
+            "last_7d": 0.14417355371900833,
+            "last_30d": 0.13553106212424837,
+            "last_90d": 0.15842430667458235
         }
     },
     "Tec-9 | Blue Blast (Field-Tested)": {
@@ -192361,42 +192457,42 @@
     },
     "Tec-9 | Groundwater (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.03760000000000001,
-            "last_7d": 0.04106159420289853,
-            "last_30d": 0.13386136595310918,
-            "last_90d": 0.22795992418088176
+            "last_24h": 0.037125000000000005,
+            "last_7d": 0.03870760233918129,
+            "last_30d": 0.037316715542522,
+            "last_90d": 0.23362579550275622
         }
     },
     "Tec-9 | Groundwater (Factory New)": {
         "steam": {
-            "last_24h": 3.7651428571428567,
-            "last_7d": 3.590398148148149,
-            "last_30d": 3.461318032786885,
-            "last_90d": 4.141580505415162
+            "last_24h": 1.2752857142857141,
+            "last_7d": 1.1190000000000002,
+            "last_30d": 1.565158273381295,
+            "last_90d": 2.3189848484848476
         }
     },
     "Tec-9 | Groundwater (Field-Tested)": {
         "steam": {
-            "last_24h": 0.03753012048192772,
-            "last_7d": 0.03606835443037974,
-            "last_30d": 0.03672489777373925,
-            "last_90d": 0.09640740506329111
+            "last_24h": 0.033171428571428574,
+            "last_7d": 0.034925925925925916,
+            "last_30d": 0.03648530416951478,
+            "last_90d": 0.44751711639145997
         }
     },
     "Tec-9 | Groundwater (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.0809504132231405,
-            "last_7d": 0.07450069348127601,
-            "last_30d": 0.08078602266594707,
-            "last_90d": 0.0956827567712524
+            "last_24h": 0.047673076923076936,
+            "last_7d": 0.049281021897810175,
+            "last_30d": 0.12551338366506531,
+            "last_90d": 0.18018855808522968
         }
     },
     "Tec-9 | Groundwater (Well-Worn)": {
         "steam": {
-            "last_24h": 0.038791208791208794,
-            "last_7d": 0.04345853658536586,
-            "last_30d": 0.05023613312202851,
-            "last_90d": 0.15354651574106798
+            "last_24h": 0.0342,
+            "last_7d": 0.036428571428571435,
+            "last_30d": 0.07348590021691977,
+            "last_90d": 0.8744115384615375
         }
     },
     "Tec-9 | Hades (Battle-Scarred)": {
@@ -192603,40 +192699,40 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 56.88610000000001,
-            "last_90d": 55.031773584905665
+            "last_30d": 39.91044444444444,
+            "last_90d": 48.11074285714286
         }
     },
     "Tec-9 | Nuclear Threat (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_30d": 492.15049999999997,
+            "last_90d": 526.2603333333334
         }
     },
     "Tec-9 | Nuclear Threat (Field-Tested)": {
         "steam": {
-            "last_24h": 71.702,
-            "last_7d": 76.84049999999999,
-            "last_30d": 75.62935000000002,
-            "last_90d": 71.22632394366198
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 66.1892,
+            "last_90d": 66.52734375000001
         }
     },
     "Tec-9 | Nuclear Threat (Minimal Wear)": {
         "steam": {
-            "last_24h": 159.2,
-            "last_7d": 159.2,
-            "last_30d": 171.196,
-            "last_90d": 180.5198181818182
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 191.09,
+            "last_90d": 170.51833333333335
         }
     },
     "Tec-9 | Nuclear Threat (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 56.12557142857143,
-            "last_90d": 54.11307407407407
+            "last_7d": 40.66,
+            "last_30d": 45.523599999999995,
+            "last_90d": 53.20745000000001
         }
     },
     "Tec-9 | Orange Murano (Battle-Scarred)": {
@@ -192695,6 +192791,46 @@
             "last_90d": 34.311156862745094
         }
     },
+    "Tec-9 | Perimeter (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.0547,
+            "last_7d": 0.04902027027027027,
+            "last_30d": 0.053285193289569585,
+            "last_90d": 0.07071191998688311
+        }
+    },
+    "Tec-9 | Perimeter (Factory New)": {
+        "steam": {
+            "last_24h": 0.8151764705882353,
+            "last_7d": 0.8644757281553398,
+            "last_30d": 0.9230259433962267,
+            "last_90d": 1.0014780042918445
+        }
+    },
+    "Tec-9 | Perimeter (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.06354166666666668,
+            "last_7d": 0.0633927203065134,
+            "last_30d": 0.08021215932914051,
+            "last_90d": 0.068984963144963
+        }
+    },
+    "Tec-9 | Perimeter (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.13177777777777783,
+            "last_7d": 0.13665671641791052,
+            "last_30d": 0.14256952841596124,
+            "last_90d": 0.14840069312649568
+        }
+    },
+    "Tec-9 | Perimeter (Well-Worn)": {
+        "steam": {
+            "last_24h": 0.04300000000000001,
+            "last_7d": 0.04833576642335765,
+            "last_30d": 0.046842847075405196,
+            "last_90d": 0.04784579135521602
+        }
+    },
     "Tec-9 | Phoenix Chalk (Battle-Scarred)": {
         "steam": {
             "last_24h": 1.0772499999999998,
@@ -192737,42 +192873,42 @@
     },
     "Tec-9 | Raw Ceramic (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.032305785123966944,
-            "last_7d": 0.03239477977161502,
-            "last_30d": 0.06643294918805669,
-            "last_90d": 0.06211444361291782
+            "last_24h": 0.03386666666666667,
+            "last_7d": 0.08208778625954197,
+            "last_30d": 0.056590389016018317,
+            "last_90d": 0.3196576271186438
         }
     },
     "Tec-9 | Raw Ceramic (Factory New)": {
         "steam": {
-            "last_24h": 0.08294881889763779,
-            "last_7d": 0.08975102759835578,
-            "last_30d": 0.09979333064407687,
-            "last_90d": 0.12003855938940983
+            "last_24h": 0.05480821917808219,
+            "last_7d": 0.062242092457420906,
+            "last_30d": 0.06706201996927805,
+            "last_90d": 0.0718486887186194
         }
     },
     "Tec-9 | Raw Ceramic (Field-Tested)": {
         "steam": {
-            "last_24h": 0.030576190476190472,
-            "last_7d": 0.03243937125748503,
-            "last_30d": 0.03577474293059122,
-            "last_90d": 0.21749648594377521
+            "last_24h": 0.5860740740740741,
+            "last_7d": 0.0831067106710671,
+            "last_30d": 0.0794301399945102,
+            "last_90d": 0.1545722691705798
         }
     },
     "Tec-9 | Raw Ceramic (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.03175153374233129,
-            "last_7d": 0.031805476326297766,
-            "last_30d": 0.03637943186672353,
-            "last_90d": 0.03997621426499486
+            "last_24h": 0.03557142857142857,
+            "last_7d": 0.07779554655870448,
+            "last_30d": 0.08716297608503118,
+            "last_90d": 0.19160953361777353
         }
     },
     "Tec-9 | Raw Ceramic (Well-Worn)": {
         "steam": {
-            "last_24h": 0.03202222222222222,
-            "last_7d": 0.042384297520661154,
-            "last_30d": 0.6598377679231351,
-            "last_90d": 0.5396481637821863
+            "last_24h": 0.040518518518518516,
+            "last_7d": 0.17216931216931217,
+            "last_30d": 0.16164417989418012,
+            "last_90d": 0.0875369042598061
         }
     },
     "Tec-9 | Re-Entry (Factory New)": {
@@ -193033,42 +193169,42 @@
     },
     "Tec-9 | Slag (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.0963563829787234,
-            "last_7d": 0.09385618354784556,
-            "last_30d": 0.09970025992438554,
-            "last_90d": 0.11315654292578951
+            "last_24h": 0.0858724832214765,
+            "last_7d": 0.09123293515358369,
+            "last_30d": 0.09077765804597686,
+            "last_90d": 0.09259599893304893
         }
     },
     "Tec-9 | Slag (Factory New)": {
         "steam": {
-            "last_24h": 1.2736301369863012,
-            "last_7d": 1.2781042944785277,
-            "last_30d": 1.3263205821205826,
-            "last_90d": 1.5460959950708588
+            "last_24h": 0.7147647058823531,
+            "last_7d": 0.699476510067114,
+            "last_30d": 0.6764974765681326,
+            "last_90d": 0.8686334831460675
         }
     },
     "Tec-9 | Slag (Field-Tested)": {
         "steam": {
-            "last_24h": 0.08902401129943503,
-            "last_7d": 0.09534071914480073,
-            "last_30d": 0.10342021211751806,
-            "last_90d": 0.1171273674511722
+            "last_24h": 0.09251923076923078,
+            "last_7d": 0.09271728501581827,
+            "last_30d": 0.09579009118894118,
+            "last_90d": 0.09685890612013935
         }
     },
     "Tec-9 | Slag (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.22168982229402262,
-            "last_7d": 0.2197654906611325,
-            "last_30d": 0.22567951775304748,
-            "last_90d": 0.2524250820125687
+            "last_24h": 0.14589024390243907,
+            "last_7d": 0.14711482479784355,
+            "last_30d": 0.1554174673431933,
+            "last_90d": 0.17740693168323038
         }
     },
     "Tec-9 | Slag (Well-Worn)": {
         "steam": {
-            "last_24h": 0.08765656565656567,
-            "last_7d": 0.09348970099667772,
-            "last_30d": 0.0985010554885404,
-            "last_90d": 0.11264936277295227
+            "last_24h": 0.09629836065573771,
+            "last_7d": 0.09166975023126737,
+            "last_30d": 0.09097302810516758,
+            "last_90d": 0.09282127011456216
         }
     },
     "Tec-9 | Snek-9 (Battle-Scarred)": {
@@ -193109,6 +193245,46 @@
             "last_7d": 0.4006699346405229,
             "last_30d": 0.4294233390119253,
             "last_90d": 0.42119132653061275
+        }
+    },
+    "Tec-9 | Sultan (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.35432967032967033,
+            "last_7d": 0.35287533875338734,
+            "last_30d": 0.3945606992554221,
+            "last_90d": 0.3994461361014992
+        }
+    },
+    "Tec-9 | Sultan (Factory New)": {
+        "steam": {
+            "last_24h": 6.912454545454546,
+            "last_7d": 6.87203738317757,
+            "last_30d": 7.045557312252966,
+            "last_90d": 7.402174785100279
+        }
+    },
+    "Tec-9 | Sultan (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.7074185022026432,
+            "last_7d": 0.7445146771037184,
+            "last_30d": 0.789480958493795,
+            "last_90d": 0.7796451464145724
+        }
+    },
+    "Tec-9 | Sultan (Minimal Wear)": {
+        "steam": {
+            "last_24h": 1.9114606741573037,
+            "last_7d": 1.9756647564469918,
+            "last_30d": 2.0204725343320824,
+            "last_90d": 1.9580921365085815
+        }
+    },
+    "Tec-9 | Sultan (Well-Worn)": {
+        "steam": {
+            "last_24h": 0.4208362068965516,
+            "last_7d": 0.40576999999999985,
+            "last_30d": 0.45242860160540826,
+            "last_90d": 0.48600068575347244
         }
     },
     "Tec-9 | Terrace (Battle-Scarred)": {
@@ -193497,18 +193673,18 @@
     },
     "UMP-45 | Blaze (Factory New)": {
         "steam": {
-            "last_24h": 35.260000000000005,
-            "last_7d": 35.76256,
-            "last_30d": 40.77236363636366,
-            "last_90d": 46.778445783132554
+            "last_24h": 17.578,
+            "last_7d": 19.54757692307692,
+            "last_30d": 20.09219354838711,
+            "last_90d": 25.18674886877827
         }
     },
     "UMP-45 | Blaze (Minimal Wear)": {
         "steam": {
-            "last_24h": 52.009,
-            "last_7d": 49.588,
-            "last_30d": 47.09790909090909,
-            "last_90d": 53.548080000000006
+            "last_24h": null,
+            "last_7d": 33.681,
+            "last_30d": 38.163666666666664,
+            "last_90d": 47.86164285714286
         }
     },
     "UMP-45 | Bone Pile (Factory New)": {
@@ -193537,42 +193713,42 @@
     },
     "UMP-45 | Briefing (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.24539999999999998,
-            "last_7d": 0.26775949367088614,
-            "last_30d": 0.35482522522522514,
-            "last_90d": 0.34040258449304195
+            "last_24h": 0.2342222222222222,
+            "last_7d": 0.3195454545454545,
+            "last_30d": 0.2916725274725275,
+            "last_90d": 0.250647015475313
         }
     },
     "UMP-45 | Briefing (Factory New)": {
         "steam": {
-            "last_24h": 3.0119999999999996,
-            "last_7d": 2.8526326530612245,
-            "last_30d": 2.907745856353592,
-            "last_90d": 4.024476265822785
+            "last_24h": 1.7463333333333333,
+            "last_7d": 1.8445263157894733,
+            "last_30d": 1.8507520661157033,
+            "last_90d": 2.339912429378531
         }
     },
     "UMP-45 | Briefing (Field-Tested)": {
         "steam": {
-            "last_24h": 0.6727887323943662,
-            "last_7d": 0.8751397379912668,
-            "last_30d": 0.7174322326269097,
-            "last_90d": 0.524662326823568
+            "last_24h": 0.40047887323943665,
+            "last_7d": 0.43594578313252996,
+            "last_30d": 0.496167067307692,
+            "last_90d": 0.5170278271166371
         }
     },
     "UMP-45 | Briefing (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.5871025641025641,
-            "last_7d": 0.6641011904761904,
-            "last_30d": 0.5439618055555557,
-            "last_90d": 0.5355352975495925
+            "last_24h": 0.3994117647058824,
+            "last_7d": 0.44309565217391295,
+            "last_30d": 0.49457985257985304,
+            "last_90d": 0.5185567669172941
         }
     },
     "UMP-45 | Briefing (Well-Worn)": {
         "steam": {
-            "last_24h": 0.2633103448275862,
-            "last_7d": 0.32590178571428574,
-            "last_30d": 0.3892877959927139,
-            "last_90d": 0.3600268817204299
+            "last_24h": 0.32323809523809527,
+            "last_7d": 0.4089755102040816,
+            "last_30d": 0.3484706510138742,
+            "last_90d": 0.2969243542435421
         }
     },
     "UMP-45 | Caramel (Battle-Scarred)": {
@@ -193617,18 +193793,18 @@
     },
     "UMP-45 | Carbon Fiber (Factory New)": {
         "steam": {
-            "last_24h": 0.21518421052631578,
-            "last_7d": 0.24036967741935483,
-            "last_30d": 0.31001506024096337,
-            "last_90d": 0.35306377229881186
+            "last_24h": 0.12010526315789469,
+            "last_7d": 0.13052373660030625,
+            "last_30d": 0.14024300360210581,
+            "last_90d": 0.19441272511379362
         }
     },
     "UMP-45 | Carbon Fiber (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.17478378378378376,
-            "last_7d": 0.19484186046511623,
-            "last_30d": 0.21278304742684165,
-            "last_90d": 0.20812848255342167
+            "last_24h": 0.11866666666666666,
+            "last_7d": 0.12501562500000005,
+            "last_30d": 0.13946140651801037,
+            "last_90d": 0.5767957665903894
         }
     },
     "UMP-45 | Continuum (Battle-Scarred)": {
@@ -193937,18 +194113,18 @@
     },
     "UMP-45 | Fade (Factory New)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 225.53199999999998,
-            "last_30d": 240.19173809523812,
-            "last_90d": 244.49861333333328
+            "last_24h": 186.41,
+            "last_7d": 215.7025,
+            "last_30d": 228.10340000000002,
+            "last_90d": 239.4868064516129
         }
     },
     "UMP-45 | Fade (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 150.05,
-            "last_90d": 150.05
+            "last_30d": 201.9706666666667,
+            "last_90d": 204.75525000000002
         }
     },
     "UMP-45 | Fallout Warning (Battle-Scarred)": {
@@ -194113,10 +194289,10 @@
     },
     "UMP-45 | Grand Prix (Field-Tested)": {
         "steam": {
-            "last_24h": 1.5221290322580647,
-            "last_7d": 1.5222076271186433,
-            "last_30d": 1.6172661577608116,
-            "last_90d": 1.8796330764671
+            "last_24h": 1.488117647058824,
+            "last_7d": 1.4740905660377357,
+            "last_30d": 1.5715684931506857,
+            "last_90d": 1.6823046836073736
         }
     },
     "UMP-45 | Green Swirl (Battle-Scarred)": {
@@ -194395,104 +194571,104 @@
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 4.132000000000001,
-            "last_90d": 4.801454545454546
+            "last_30d": 3.684,
+            "last_90d": 4.185
         }
     },
     "UMP-45 | Mechanism (Factory New)": {
         "steam": {
-            "last_24h": 3.669,
-            "last_7d": 3.75959090909091,
-            "last_30d": 4.334499999999999,
-            "last_90d": 7.105676616915423
+            "last_24h": 3.545,
+            "last_7d": 2.9443333333333332,
+            "last_30d": 2.4456000000000007,
+            "last_90d": 2.958620370370371
         }
     },
     "UMP-45 | Mechanism (Field-Tested)": {
         "steam": {
-            "last_24h": 2.3055000000000003,
-            "last_7d": 2.2298051948051945,
-            "last_30d": 2.0478214285714293,
-            "last_90d": 2.9392773536895676
+            "last_24h": null,
+            "last_7d": 1.534,
+            "last_30d": 1.5348684210526313,
+            "last_90d": 1.7474561403508775
         }
     },
     "UMP-45 | Mechanism (Minimal Wear)": {
         "steam": {
-            "last_24h": 2.9644999999999997,
-            "last_7d": 3.0024444444444445,
-            "last_30d": 3.2840361445783146,
-            "last_90d": 5.135895833333328
+            "last_24h": 2.059,
+            "last_7d": 2.2342500000000003,
+            "last_30d": 2.2350892857142854,
+            "last_90d": 2.3017833333333333
         }
     },
     "UMP-45 | Mechanism (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 5.45,
-            "last_30d": 2.9664,
-            "last_90d": 3.9967200000000003
+            "last_7d": null,
+            "last_30d": 2.0549999999999997,
+            "last_90d": 3.574277777777778
         }
     },
     "UMP-45 | Metal Flowers (Battle-Scarred)": {
         "steam": {
-            "last_24h": 4.818333333333333,
-            "last_7d": 4.6115,
-            "last_30d": 4.5023125,
-            "last_90d": 5.143265486725664
+            "last_24h": null,
+            "last_7d": 3.3160000000000003,
+            "last_30d": 3.7934545454545447,
+            "last_90d": 3.946655555555555
         }
     },
     "UMP-45 | Metal Flowers (Factory New)": {
         "steam": {
-            "last_24h": 11.96,
-            "last_7d": 12.9618,
-            "last_30d": 13.595805555555552,
-            "last_90d": 14.747090000000004
+            "last_24h": 5.486,
+            "last_7d": 5.3262857142857145,
+            "last_30d": 6.716550000000001,
+            "last_90d": 8.942540000000001
         }
     },
     "UMP-45 | Metal Flowers (Field-Tested)": {
         "steam": {
-            "last_24h": 6.41,
-            "last_7d": 6.51823076923077,
-            "last_30d": 5.925518518518521,
-            "last_90d": 6.743272340425534
+            "last_24h": null,
+            "last_7d": 4.27175,
+            "last_30d": 4.352232558139536,
+            "last_90d": 4.980025157232705
         }
     },
     "UMP-45 | Metal Flowers (Minimal Wear)": {
         "steam": {
-            "last_24h": 8.015,
-            "last_7d": 10.79775,
-            "last_30d": 10.921867924528303,
-            "last_90d": 10.632125000000004
+            "last_24h": null,
+            "last_7d": 5.375,
+            "last_30d": 6.089583333333334,
+            "last_90d": 6.634011764705882
         }
     },
     "UMP-45 | Metal Flowers (Well-Worn)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 5.116833333333333,
-            "last_90d": 5.348714285714285
+            "last_30d": 3.6667499999999995,
+            "last_90d": 4.476555555555556
         }
     },
     "UMP-45 | Minotaur's Labyrinth (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 125.95633333333335,
-            "last_30d": 127.86724999999998,
-            "last_90d": 137.38616666666667
+            "last_7d": null,
+            "last_30d": 89.29,
+            "last_90d": 122.601
         }
     },
     "UMP-45 | Minotaur's Labyrinth (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 117.73,
-            "last_30d": 141.63333333333335,
-            "last_90d": 137.706875
+            "last_7d": null,
+            "last_30d": 105.58333333333333,
+            "last_90d": 111.26233333333333
         }
     },
     "UMP-45 | Minotaur's Labyrinth (Minimal Wear)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 99.2852,
-            "last_30d": 108.757625,
-            "last_90d": 116.81764705882352
+            "last_7d": 109.335,
+            "last_30d": 100.93639999999999,
+            "last_90d": 115.37022222222224
         }
     },
     "UMP-45 | Minotaur's Labyrinth (Well-Worn)": {
@@ -194545,34 +194721,34 @@
     },
     "UMP-45 | Moonrise (Factory New)": {
         "steam": {
-            "last_24h": 3.4524500000000002,
-            "last_7d": 3.03077981651376,
-            "last_30d": 3.3354955555555565,
-            "last_90d": 4.111496966019414
+            "last_24h": 2.0067857142857144,
+            "last_7d": 1.866256578947368,
+            "last_30d": 1.898447483588622,
+            "last_90d": 2.277658999192898
         }
     },
     "UMP-45 | Moonrise (Field-Tested)": {
         "steam": {
-            "last_24h": 0.7842452830188679,
-            "last_7d": 0.7809040000000003,
-            "last_30d": 0.8577263768115945,
-            "last_90d": 0.8831407847016143
+            "last_24h": 0.7272941176470589,
+            "last_7d": 0.7155650557620817,
+            "last_30d": 0.7638707142857142,
+            "last_90d": 0.8190371066228279
         }
     },
     "UMP-45 | Moonrise (Minimal Wear)": {
         "steam": {
-            "last_24h": 1.076877551020408,
-            "last_7d": 1.101688679245282,
-            "last_30d": 1.1197939042089982,
-            "last_90d": 1.2101500070891822
+            "last_24h": 0.8568260869565216,
+            "last_7d": 0.9777931034482757,
+            "last_30d": 0.941357963875205,
+            "last_90d": 1.009890613847253
         }
     },
     "UMP-45 | Moonrise (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 0.9514375000000002,
-            "last_30d": 0.9834893617021273,
-            "last_90d": 1.0918012422360255
+            "last_24h": 0.6733333333333333,
+            "last_7d": 0.6741999999999999,
+            "last_30d": 0.7698461538461538,
+            "last_90d": 0.883948453608247
         }
     },
     "UMP-45 | Motorized (Battle-Scarred)": {
@@ -194697,82 +194873,82 @@
     },
     "UMP-45 | Oscillator (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.3295,
-            "last_7d": 0.3176315789473685,
-            "last_30d": 0.33389849624060125,
-            "last_90d": 0.32700621118012435
+            "last_24h": 0.28,
+            "last_7d": 0.40698245614035083,
+            "last_30d": 0.36321576763485475,
+            "last_90d": 0.38990366972477064
         }
     },
     "UMP-45 | Oscillator (Factory New)": {
         "steam": {
-            "last_24h": 0.6639333333333333,
-            "last_7d": 0.674931419457735,
-            "last_30d": 0.7317775220560047,
-            "last_90d": 0.9023213133155584
+            "last_24h": 0.4905633802816902,
+            "last_7d": 0.4842120535714286,
+            "last_30d": 0.5011156840934371,
+            "last_90d": 0.6146777289084359
         }
     },
     "UMP-45 | Oscillator (Field-Tested)": {
         "steam": {
-            "last_24h": 0.3255644171779141,
-            "last_7d": 0.32775564202334645,
-            "last_30d": 0.38166206052125184,
-            "last_90d": 0.3527110257935429
+            "last_24h": 0.33744444444444444,
+            "last_7d": 0.35857567185289957,
+            "last_30d": 0.3714056890361772,
+            "last_90d": 0.3645912923625755
         }
     },
     "UMP-45 | Oscillator (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.3300975609756097,
-            "last_7d": 0.3403140655105971,
-            "last_30d": 0.3787871077184055,
-            "last_90d": 0.3977405268856011
+            "last_24h": 0.34670370370370374,
+            "last_7d": 0.36516241299303914,
+            "last_30d": 0.37167459138187225,
+            "last_90d": 0.3534076885002472
         }
     },
     "UMP-45 | Oscillator (Well-Worn)": {
         "steam": {
-            "last_24h": 0.3102857142857142,
-            "last_7d": 0.29037903225806444,
-            "last_30d": 0.31824786324786325,
-            "last_90d": 0.31714164305949005
+            "last_24h": 0.2926666666666667,
+            "last_7d": 0.41288429752066114,
+            "last_30d": 0.4083035714285715,
+            "last_90d": 0.3683518334985132
         }
     },
     "UMP-45 | Plastique (Battle-Scarred)": {
         "steam": {
-            "last_24h": 0.6573333333333333,
-            "last_7d": 0.6891599999999998,
-            "last_30d": 0.7526755555555557,
-            "last_90d": 0.748885416666666
+            "last_24h": 0.5046666666666667,
+            "last_7d": 0.5695128205128205,
+            "last_30d": 0.5858397790055242,
+            "last_90d": 0.6474601113172537
         }
     },
     "UMP-45 | Plastique (Factory New)": {
         "steam": {
-            "last_24h": 7.93875,
-            "last_7d": 6.629285714285714,
-            "last_30d": 6.301293706293711,
-            "last_90d": 9.179888646288203
+            "last_24h": null,
+            "last_7d": 7.9498750000000005,
+            "last_30d": 9.25967105263158,
+            "last_90d": 7.250028213166147
         }
     },
     "UMP-45 | Plastique (Field-Tested)": {
         "steam": {
-            "last_24h": 0.7038666666666666,
-            "last_7d": 0.767170731707317,
-            "last_30d": 0.8341632165605091,
-            "last_90d": 0.8285246753246751
+            "last_24h": 0.5981470588235294,
+            "last_7d": 0.6034927536231881,
+            "last_30d": 0.6332612419700214,
+            "last_90d": 0.7042524441340783
         }
     },
     "UMP-45 | Plastique (Minimal Wear)": {
         "steam": {
-            "last_24h": 1.7580999999999996,
-            "last_7d": 1.7491249999999994,
-            "last_30d": 1.8335429292929302,
-            "last_90d": 1.9696700468018722
+            "last_24h": 1.239,
+            "last_7d": 1.3030338983050849,
+            "last_30d": 1.357880434782609,
+            "last_90d": 1.5404426633785462
         }
     },
     "UMP-45 | Plastique (Well-Worn)": {
         "steam": {
-            "last_24h": 0.8,
-            "last_7d": 0.8865555555555558,
-            "last_30d": 0.9220833333333334,
-            "last_90d": 0.8987909407665501
+            "last_24h": 0.6045,
+            "last_7d": 0.6026666666666667,
+            "last_30d": 0.6065818181818181,
+            "last_90d": 0.7298020833333337
         }
     },
     "UMP-45 | Primal Saber (Battle-Scarred)": {
